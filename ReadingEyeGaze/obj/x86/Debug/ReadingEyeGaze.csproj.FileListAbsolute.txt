@@ -1,0 +1,11 @@
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\ReadingEyeGaze.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\ReadingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\AForge.Video.dll
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\AForge.dll
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\AForge.Video.xml
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\AForge.xml
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\obj\x86\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\obj\x86\Debug\ReadingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\obj\x86\Debug\ReadingEyeGaze.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-27T03:13:51</Created>
+	<LastChange>2015-02-27T03:13:51</LastChange></Metadata>
+	<Page imageFilename="doc10.jpg" imageWidth="1680" imageHeight="1050">
+	<ImageRegion id="r1">
+	<Coords points="1679,0 1679,1049 0,1049 0,0"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="833,89 871,89 871,102 833,102"/>
+	<TextLine id="r3">
+	<Coords points="833,89 871,89 871,102 833,102"/>
+	<Word id="r4">
+	<Coords points="833,89 871,89 871,102 833,102"/>
+	<TextEquiv>
+	<Unicode>.10.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>.10.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>.10.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="550,126 905,126 905,138 804,138 804,142 650,142 650,163 595,163 595,166 550,166"/>
+	<TextLine id="r6">
+	<Coords points="550,126 905,126 905,142 550,142"/>
+	<Word id="r7">
+	<Coords points="550,126 661,126 661,142 550,142"/>
+	<TextEquiv>
+	<Unicode>Animal-friendly</Unicode></TextEquiv></Word>
+	<Word id="r8">
+	<Coords points="665,126 690,126 690,138 665,138"/>
+	<TextEquiv>
+	<Unicode>fast</Unicode></TextEquiv></Word>
+	<Word id="r9">
+	<Coords points="694,126 729,126 729,138 694,138"/>
+	<TextEquiv>
+	<Unicode>food:</Unicode></TextEquiv></Word>
+	<Word id="r10">
+	<Coords points="736,130 743,130 743,138 736,138"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="748,126 804,126 804,142 748,142"/>
+	<TextEquiv>
+	<Unicode>gmwing</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="809,126 846,126 846,138 809,138"/>
+	<TextEquiv>
+	<Unicode>niche</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="851,126 905,126 905,138 851,138"/>
+	<TextEquiv>
+	<Unicode>mnrlcen</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Animal-friendly fast food: a gmwing niche mnrlcen</Unicode></TextEquiv></TextLine>
+	<TextLine id="r14">
+	<Coords points="550,150 650,150 650,166 550,166"/>
+	<Word id="r15">
+	<Coords points="550,150 595,150 595,166 550,166"/>
+	<TextEquiv>
+	<Unicode>spring</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="600,150 650,150 650,163 600,163"/>
+	<TextEquiv>
+	<Unicode>Edition</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>spring Edition</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Animal-friendly fast food: a gmwing niche mnrlcen
+spring Edition</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="549,224 1150,224 1150,261 1055,261 1055,265 1007,265 1007,289 956,289 956,286 590,286 590,289 549,289"/>
+	<TextLine id="r18">
+	<Coords points="549,224 1150,224 1150,240 549,240"/>
+	<Word id="r19">
+	<Coords points="549,224 576,224 576,236 549,236"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="580,224 644,224 644,236 580,236"/>
+	<TextEquiv>
+	<Unicode>President</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="648,224 663,224 663,236 648,236"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="666,224 747,224 747,240 666,240"/>
+	<TextEquiv>
+	<Unicode>Burgalarinn</Unicode></TextEquiv></Word>
+	<Word id="r23">
+	<Coords points="751,224 779,224 779,236 751,236"/>
+	<TextEquiv>
+	<Unicode>Fast</Unicode></TextEquiv></Word>
+	<Word id="r24">
+	<Coords points="783,224 822,224 822,238 783,238"/>
+	<TextEquiv>
+	<Unicode>Food.</Unicode></TextEquiv></Word>
+	<Word id="r25">
+	<Coords points="827,224 868,224 868,236 827,236"/>
+	<TextEquiv>
+	<Unicode>Kevin</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="872,224 913,224 913,238 872,238"/>
+	<TextEquiv>
+	<Unicode>Taner.</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="918,224 940,224 940,236 918,236"/>
+	<TextEquiv>
+	<Unicode>did</Unicode></TextEquiv></Word>
+	<Word id="r28">
+	<Coords points="944,226 966,226 966,236 944,236"/>
+	<TextEquiv>
+	<Unicode>not</Unicode></TextEquiv></Word>
+	<Word id="r29">
+	<Coords points="970,224 1018,224 1018,240 970,240"/>
+	<TextEquiv>
+	<Unicode>prndici</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="1022,224 1037,224 1037,236 1022,236"/>
+	<TextEquiv>
+	<Unicode>iis</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="1042,228 1070,228 1070,236 1042,236"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="1074,224 1150,224 1150,240 1074,240"/>
+	<TextEquiv>
+	<Unicode>adverdsing</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The President of Burgalarinn Fast Food. Kevin Taner. did not prndici iis new adverdsing</Unicode></TextEquiv></TextLine>
+	<TextLine id="r33">
+	<Coords points="549,248 1150,248 1150,265 549,265"/>
+	<Word id="r34">
+	<Coords points="549,248 616,248 616,265 549,265"/>
+	<TextEquiv>
+	<Unicode>campaign</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="622,249 665,249 665,261 622,261"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="671,248 707,248 707,265 671,265"/>
+	<TextEquiv>
+	<Unicode>bring</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="714,249 745,249 745,261 714,261"/>
+	<TextEquiv>
+	<Unicode>such</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="751,252 759,252 759,261 751,261"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="765,249 813,249 813,261 765,261"/>
+	<TextEquiv>
+	<Unicode>sudden</Unicode></TextEquiv></Word>
+	<Word id="r40">
+	<Coords points="819,251 864,251 864,265 819,265"/>
+	<TextEquiv>
+	<Unicode>uprurn</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="870,249 883,249 883,261 870,261"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="889,248 937,248 937,265 889,265"/>
+	<TextEquiv>
+	<Unicode>pmnvs.</Unicode></TextEquiv></Word>
+	<Word id="r43">
+	<Coords points="948,249 974,249 974,261 948,261"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="981,249 1055,249 1055,265 981,265"/>
+	<TextEquiv>
+	<Unicode>company's</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="1061,249 1085,249 1085,261 1061,261"/>
+	<TextEquiv>
+	<Unicode>last</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="1091,248 1150,248 1150,261 1091,261"/>
+	<TextEquiv>
+	<Unicode>ﬁnancial</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>campaign would bring such a sudden uprurn in pmnvs. The company's last ﬁnancial</Unicode></TextEquiv></TextLine>
+	<TextLine id="r47">
+	<Coords points="549,273 1007,273 1007,289 549,289"/>
+	<Word id="r48">
+	<Coords points="549,275 590,275 590,289 549,289"/>
+	<TextEquiv>
+	<Unicode>repon</Unicode></TextEquiv></Word>
+	<Word id="r49">
+	<Coords points="595,273 658,273 658,286 595,286"/>
+	<TextEquiv>
+	<Unicode>iudieaied</Unicode></TextEquiv></Word>
+	<Word id="r50">
+	<Coords points="662,277 670,277 670,286 662,286"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r51">
+	<Coords points="674,273 705,273 705,286 674,286"/>
+	<TextEquiv>
+	<Unicode>72%</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="710,273 766,273 766,286 710,286"/>
+	<TextEquiv>
+	<Unicode>increase</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="771,273 783,273 783,285 771,285"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="789,273 821,273 821,286 789,286"/>
+	<TextEquiv>
+	<Unicode>sales</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="826,273 839,273 839,285 826,285"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="844,273 864,273 864,286 844,286"/>
+	<TextEquiv>
+	<Unicode>Lhe</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="869,273 910,273 910,286 869,286"/>
+	<TextEquiv>
+	<Unicode>foimh</Unicode></TextEquiv></Word>
+	<Word id="r58">
+	<Coords points="915,273 951,273 951,286 915,286"/>
+	<TextEquiv>
+	<Unicode>ﬁscal</Unicode></TextEquiv></Word>
+	<Word id="r59">
+	<Coords points="956,275 1007,275 1007,289 956,289"/>
+	<TextEquiv>
+	<Unicode>quaner.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>repon iudieaied a 72% increase in sales in Lhe foimh ﬁscal quaner.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>The President of Burgalarinn Fast Food. Kevin Taner. did not prndici iis new adverdsing
+campaign would bring such a sudden uprurn in pmnvs. The company's last ﬁnancial
+repon iudieaied a 72% increase in sales in Lhe foimh ﬁscal quaner.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords points="549,350 1149,350 1149,375 1151,375 1151,387 1150,387 1150,415 1070,415 1070,412 954,412 954,436 891,436 891,440 608,440 608,436 549,436"/>
+	<TextLine id="r61">
+	<Coords points="549,350 1149,350 1149,366 549,366"/>
+	<Word id="r62">
+	<Coords points="549,350 579,350 579,362 549,362"/>
+	<TextEquiv>
+	<Unicode>This</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="586,350 608,350 608,363 586,363"/>
+	<TextEquiv>
+	<Unicode>has</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="614,350 668,350 668,366 614,366"/>
+	<TextEquiv>
+	<Unicode>brought</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="674,354 681,354 681,362 674,362"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r66">
+	<Coords points="687,352 721,352 721,366 687,366"/>
+	<TextEquiv>
+	<Unicode>great</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="727,350 755,350 755,363 727,363"/>
+	<TextEquiv>
+	<Unicode>deal</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="762,350 777,350 777,363 762,363"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="782,350 819,350 819,362 782,362"/>
+	<TextEquiv>
+	<Unicode>relief</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="824,350 844,350 844,362 824,362"/>
+	<TextEquiv>
+	<Unicode>fur</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="850,350 870,350 870,362 850,362"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r72">
+	<Coords points="876,354 939,354 939,366 876,366"/>
+	<TextEquiv>
+	<Unicode>company</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="945,350 977,350 977,362 945,362"/>
+	<TextEquiv>
+	<Unicode>aner</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="983,350 1013,350 1013,362 983,362"/>
+	<TextEquiv>
+	<Unicode>such</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="1020,354 1027,354 1027,362 1020,362"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="1033,350 1071,350 1071,366 1033,366"/>
+	<TextEquiv>
+	<Unicode>rocky</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="1077,350 1149,350 1149,366 1077,366"/>
+	<TextEquiv>
+	<Unicode>beginning.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>This has brought a great deal of relief fur the company aner such a rocky beginning.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r78">
+	<Coords points="550,375 1151,375 1151,391 550,391"/>
+	<Word id="r79">
+	<Coords points="550,375 561,375 561,387 550,387"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="567,375 621,375 621,391 567,391"/>
+	<TextEquiv>
+	<Unicode>spin—off</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="625,375 640,375 640,387 625,387"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="644,375 664,375 664,387 644,387"/>
+	<TextEquiv>
+	<Unicode>rhe</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="669,375 722,375 722,391 669,391"/>
+	<TextEquiv>
+	<Unicode>papnlar</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="726,375 794,375 794,387 726,387"/>
+	<TextEquiv>
+	<Unicode>l.A—based</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="799,375 823,375 823,387 799,387"/>
+	<TextEquiv>
+	<Unicode>fast</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="828,375 859,375 859,387 828,387"/>
+	<TextEquiv>
+	<Unicode>food</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="864,375 900,375 900,387 864,387"/>
+	<TextEquiv>
+	<Unicode>chain</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="906,375 968,375 968,391 906,391"/>
+	<TextEquiv>
+	<Unicode>Bnrglers,</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="973,375 1054,375 1054,391 973,391"/>
+	<TextEquiv>
+	<Unicode>Burgaiarian</Unicode></TextEquiv></Word>
+	<Word id="r90">
+	<Coords points="1058,375 1098,375 1098,387 1058,387"/>
+	<TextEquiv>
+	<Unicode>offer:</Unicode></TextEquiv></Word>
+	<Word id="r91">
+	<Coords points="1103,375 1151,375 1151,387 1103,387"/>
+	<TextEquiv>
+	<Unicode>similar</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>A spin—off of rhe papnlar l.A—based fast food chain Bnrglers, Burgaiarian offer: similar</Unicode></TextEquiv></TextLine>
+	<TextLine id="r92">
+	<Coords points="550,399 1150,399 1150,415 550,415"/>
+	<Word id="r93">
+	<Coords points="550,403 587,403 587,412 550,412"/>
+	<TextEquiv>
+	<Unicode>menu</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="592,399 643,399 643,412 592,412"/>
+	<TextEquiv>
+	<Unicode>chuioes</Unicode></TextEquiv></Word>
+	<Word id="r95">
+	<Coords points="648,403 662,403 662,412 648,412"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r96">
+	<Coords points="667,399 682,399 682,412 667,412"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="687,401 730,401 730,415 687,415"/>
+	<TextEquiv>
+	<Unicode>parent</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="734,401 806,401 806,414 734,414"/>
+	<TextEquiv>
+	<Unicode>restaurant,</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="811,399 832,399 832,412 811,412"/>
+	<TextEquiv>
+	<Unicode>bul</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="837,403 845,403 845,412 837,412"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="849,399 920,399 920,415 849,415"/>
+	<TextEquiv>
+	<Unicode>significant</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="925,399 994,399 994,412 925,412"/>
+	<TextEquiv>
+	<Unicode>difference</Unicode></TextEquiv></Word>
+	<Word id="r103">
+	<Coords points="998,399 1009,399 1009,412 998,412"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="1014,399 1040,399 1040,412 1014,412"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="1044,399 1065,399 1065,412 1044,412"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="1070,399 1150,399 1150,415 1070,415"/>
+	<TextEquiv>
+	<Unicode>Burgatarian</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>menu chuioes as as parent restaurant, bul a significant difference is that the Burgatarian</Unicode></TextEquiv></TextLine>
+	<TextLine id="r107">
+	<Coords points="549,424 954,424 954,440 549,440"/>
+	<Word id="r108">
+	<Coords points="549,427 587,427 587,436 549,436"/>
+	<TextEquiv>
+	<Unicode>menu</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="592,424 603,424 603,436 592,436"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="608,424 660,424 660,440 608,440"/>
+	<TextEquiv>
+	<Unicode>entirely</Unicode></TextEquiv></Word>
+	<Word id="r111">
+	<Coords points="665,424 739,424 739,440 665,440"/>
+	<TextEquiv>
+	<Unicode>vegetarian.</Unicode></TextEquiv></Word>
+	<Word id="r112">
+	<Coords points="744,424 816,424 816,440 744,440"/>
+	<TextEquiv>
+	<Unicode>cnniaining</Unicode></TextEquiv></Word>
+	<Word id="r113">
+	<Coords points="821,424 891,424 891,440 821,440"/>
+	<TextEquiv>
+	<Unicode>absnluiely</Unicode></TextEquiv></Word>
+	<Word id="r114">
+	<Coords points="896,427 913,427 913,436 896,436"/>
+	<TextEquiv>
+	<Unicode>no</Unicode></TextEquiv></Word>
+	<Word id="r115">
+	<Coords points="918,426 954,426 954,436 918,436"/>
+	<TextEquiv>
+	<Unicode>meat.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>menu is entirely vegetarian. cnniaining absnluiely no meat.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>This has brought a great deal of relief fur the company aner such a rocky beginning.
+A spin—off of rhe papnlar l.A—based fast food chain Bnrglers, Burgaiarian offer: similar
+menu chuioes as as parent restaurant, bul a significant difference is that the Burgatarian
+menu is entirely vegetarian. cnniaining absnluiely no meat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r116" type="paragraph">
+	<Coords points="549,501 563,501 563,503 666,503 666,501 1151,501 1151,513 1150,513 1150,661 1057,661 1057,664 1025,664 1025,689 955,689 955,685 847,685 847,689 549,689 549,664 548,664 548,648 549,648"/>
+	<TextLine id="r117">
+	<Coords points="549,501 1151,501 1151,517 549,517"/>
+	<Word id="r118">
+	<Coords points="549,501 563,501 563,513 549,513"/>
+	<TextEquiv>
+	<Unicode>In</Unicode></TextEquiv></Word>
+	<Word id="r119">
+	<Coords points="569,504 585,504 585,513 569,513"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="591,503 642,503 642,517 591,517"/>
+	<TextEquiv>
+	<Unicode>attempt</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="647,503 660,503 660,513 647,513"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="666,501 698,501 698,513 666,513"/>
+	<TextEquiv>
+	<Unicode>raise</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="703,501 735,501 735,513 703,513"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="741,501 777,501 777,515 741,515"/>
+	<TextEquiv>
+	<Unicode>sales,</Unicode></TextEquiv></Word>
+	<Word id="r125">
+	<Coords points="783,501 864,501 864,517 783,517"/>
+	<TextEquiv>
+	<Unicode>laurgaiarian</Unicode></TextEquiv></Word>
+	<Word id="r126">
+	<Coords points="869,501 904,501 904,513 869,513"/>
+	<TextEquiv>
+	<Unicode>hired</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="910,501 968,501 968,517 910,517"/>
+	<TextEquiv>
+	<Unicode>Adverge</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="974,501 997,501 997,513 974,513"/>
+	<TextEquiv>
+	<Unicode>last</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="1003,504 1032,504 1032,517 1003,517"/>
+	<TextEquiv>
+	<Unicode>year</Unicode></TextEquiv></Word>
+	<Word id="r130">
+	<Coords points="1037,503 1051,503 1051,513 1037,513"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r131">
+	<Coords points="1056,501 1091,501 1091,513 1056,513"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="1096,504 1113,504 1113,513 1096,513"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r133">
+	<Coords points="1119,501 1151,501 1151,513 1119,513"/>
+	<TextEquiv>
+	<Unicode>iheir</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>In an attempt to raise their sales, laurgaiarian hired Adverge last year to work an iheir</Unicode></TextEquiv></TextLine>
+	<TextLine id="r134">
+	<Coords points="550,525 1150,525 1150,541 550,541"/>
+	<Word id="r135">
+	<Coords points="550,529 577,529 577,538 550,538"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r136">
+	<Coords points="582,525 658,525 658,541 582,541"/>
+	<TextEquiv>
+	<Unicode>advertising</Unicode></TextEquiv></Word>
+	<Word id="r137">
+	<Coords points="663,525 733,525 733,541 663,541"/>
+	<TextEquiv>
+	<Unicode>campaign.</Unicode></TextEquiv></Word>
+	<Word id="r138">
+	<Coords points="740,525 796,525 796,541 740,541"/>
+	<TextEquiv>
+	<Unicode>lnivially,</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="802,525 882,525 882,541 802,541"/>
+	<TextEquiv>
+	<Unicode>Burgatarian</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="887,525 912,525 912,538 887,538"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r141">
+	<Coords points="916,525 948,525 948,538 916,538"/>
+	<TextEquiv>
+	<Unicode>tried</Unicode></TextEquiv></Word>
+	<Word id="r142">
+	<Coords points="952,527 965,527 965,538 952,538"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="971,525 1032,525 1032,538 971,538"/>
+	<TextEquiv>
+	<Unicode>advertise</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="1037,525 1052,525 1052,538 1037,538"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="1057,525 1089,525 1089,538 1057,538"/>
+	<TextEquiv>
+	<Unicode>food</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="1094,529 1107,529 1107,538 1094,538"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="1112,525 1150,525 1150,541 1112,541"/>
+	<TextEquiv>
+	<Unicode>being</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>new advertising campaign. lnivially, Burgatarian had tried to advertise is food as being</Unicode></TextEquiv></TextLine>
+	<TextLine id="r148">
+	<Coords points="549,550 1150,550 1150,566 549,566"/>
+	<Word id="r149">
+	<Coords points="549,550 600,550 600,566 549,566"/>
+	<TextEquiv>
+	<Unicode>heahhy</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="604,550 621,550 621,566 604,566"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<Word id="r151">
+	<Coords points="626,550 688,550 688,566 626,566"/>
+	<TextEquiv>
+	<Unicode>reauiring</Unicode></TextEquiv></Word>
+	<Word id="r152">
+	<Coords points="693,550 743,550 743,562 693,562"/>
+	<TextEquiv>
+	<Unicode>athletic</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="748,550 797,550 797,562 748,562"/>
+	<TextEquiv>
+	<Unicode>models</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="802,550 815,550 815,562 802,562"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r155">
+	<Coords points="820,552 860,552 860,566 820,566"/>
+	<TextEquiv>
+	<Unicode>spans</Unicode></TextEquiv></Word>
+	<Word id="r156">
+	<Coords points="866,550 900,550 900,562 866,562"/>
+	<TextEquiv>
+	<Unicode>anlre</Unicode></TextEquiv></Word>
+	<Word id="r157">
+	<Coords points="905,550 947,550 947,566 905,566"/>
+	<TextEquiv>
+	<Unicode>eadng</Unicode></TextEquiv></Word>
+	<Word id="r158">
+	<Coords points="952,550 996,550 996,566 952,566"/>
+	<TextEquiv>
+	<Unicode>veggie</Unicode></TextEquiv></Word>
+	<Word id="r159">
+	<Coords points="1001,550 1055,550 1055,566 1001,566"/>
+	<TextEquiv>
+	<Unicode>burgers.</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="1062,550 1087,550 1087,562 1062,562"/>
+	<TextEquiv>
+	<Unicode>But</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="1092,550 1150,550 1150,566 1092,566"/>
+	<TextEquiv>
+	<Unicode>Adverge</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>heahhy by reauiring athletic models in spans anlre eadng veggie burgers. But Adverge</Unicode></TextEquiv></TextLine>
+	<TextLine id="r162">
+	<Coords points="549,574 1150,574 1150,590 549,590"/>
+	<Word id="r163">
+	<Coords points="549,574 601,574 601,590 549,590"/>
+	<TextEquiv>
+	<Unicode>pointed</Unicode></TextEquiv></Word>
+	<Word id="r164">
+	<Coords points="606,576 628,576 628,587 606,587"/>
+	<TextEquiv>
+	<Unicode>out</Unicode></TextEquiv></Word>
+	<Word id="r165">
+	<Coords points="633,574 658,574 658,587 633,587"/>
+	<TextEquiv>
+	<Unicode>that.</Unicode></TextEquiv></Word>
+	<Word id="r166">
+	<Coords points="663,574 684,574 684,587 663,587"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r167">
+	<Coords points="689,574 747,574 747,590 689,590"/>
+	<TextEquiv>
+	<Unicode>majorily</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="752,574 767,574 767,587 752,587"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r169">
+	<Coords points="771,574 848,574 848,590 771,590"/>
+	<TextEquiv>
+	<Unicode>vegeiarians</Unicode></TextEquiv></Word>
+	<Word id="r170">
+	<Coords points="854,578 874,578 874,587 854,587"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r171">
+	<Coords points="879,578 914,578 914,587 879,587"/>
+	<TextEquiv>
+	<Unicode>more</Unicode></TextEquiv></Word>
+	<Word id="r172">
+	<Coords points="919,574 990,574 990,587 919,587"/>
+	<TextEquiv>
+	<Unicode>concerned</Unicode></TextEquiv></Word>
+	<Word id="r173">
+	<Coords points="995,574 1033,574 1033,587 995,587"/>
+	<TextEquiv>
+	<Unicode>about</Unicode></TextEquiv></Word>
+	<Word id="r174">
+	<Coords points="1038,574 1058,574 1058,587 1038,587"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r175">
+	<Coords points="1063,574 1109,574 1109,587 1063,587"/>
+	<TextEquiv>
+	<Unicode>cvhical</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="1114,576 1150,576 1150,587 1114,587"/>
+	<TextEquiv>
+	<Unicode>treat»</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>pointed out that. the majorily of vegeiarians are more concerned about the cvhical treat»</Unicode></TextEquiv></TextLine>
+	<TextLine id="r177">
+	<Coords points="550,599 1150,599 1150,615 550,615"/>
+	<Word id="r178">
+	<Coords points="550,601 584,601 584,611 550,611"/>
+	<TextEquiv>
+	<Unicode>mum</Unicode></TextEquiv></Word>
+	<Word id="r179">
+	<Coords points="589,599 604,599 604,611 589,611"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r180">
+	<Coords points="609,599 661,599 661,611 609,611"/>
+	<TextEquiv>
+	<Unicode>animals</Unicode></TextEquiv></Word>
+	<Word id="r181">
+	<Coords points="667,599 696,599 696,611 667,611"/>
+	<TextEquiv>
+	<Unicode>man</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="702,599 734,599 734,611 702,611"/>
+	<TextEquiv>
+	<Unicode>dieir</Unicode></TextEquiv></Word>
+	<Word id="r183">
+	<Coords points="739,599 795,599 795,615 739,615"/>
+	<TextEquiv>
+	<Unicode>physical</Unicode></TextEquiv></Word>
+	<Word id="r184">
+	<Coords points="801,599 848,599 848,611 801,611"/>
+	<TextEquiv>
+	<Unicode>illness.</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="857,599 892,599 892,615 857,615"/>
+	<TextEquiv>
+	<Unicode>They</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="898,599 927,599 927,611 898,611"/>
+	<TextEquiv>
+	<Unicode>ihen</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="933,599 996,599 996,615 933,615"/>
+	<TextEquiv>
+	<Unicode>produced</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="1002,603 1017,603 1017,611 1002,611"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r189">
+	<Coords points="1023,599 1119,599 1119,611 1023,611"/>
+	<TextEquiv>
+	<Unicode>adverdsemenr</Unicode></TextEquiv></Word>
+	<Word id="r190">
+	<Coords points="1124,599 1150,599 1150,611 1124,611"/>
+	<TextEquiv>
+	<Unicode>(hm</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>mum of animals man dieir physical illness. They ihen produced an adverdsemenr (hm</Unicode></TextEquiv></TextLine>
+	<TextLine id="r191">
+	<Coords points="550,623 1150,623 1150,640 550,640"/>
+	<Word id="r192">
+	<Coords points="550,623 601,623 601,636 550,636"/>
+	<TextEquiv>
+	<Unicode>showed</Unicode></TextEquiv></Word>
+	<Word id="r193">
+	<Coords points="606,627 613,627 613,636 606,636"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r194">
+	<Coords points="617,623 663,623 663,639 617,639"/>
+	<TextEquiv>
+	<Unicode>couple</Unicode></TextEquiv></Word>
+	<Word id="r195">
+	<Coords points="668,623 683,623 683,636 668,636"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="686,623 753,623 753,639 686,639"/>
+	<TextEquiv>
+	<Unicode>nniversiiy</Unicode></TextEquiv></Word>
+	<Word id="r197">
+	<Coords points="759,624 814,624 814,636 759,636"/>
+	<TextEquiv>
+	<Unicode>swdenvs</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="819,623 861,623 861,640 819,640"/>
+	<TextEquiv>
+	<Unicode>sitting</Unicode></TextEquiv></Word>
+	<Word id="r199">
+	<Coords points="866,627 883,627 883,636 866,636"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r200">
+	<Coords points="887,627 895,627 895,636 887,636"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r201">
+	<Coords points="899,623 930,623 930,639 899,639"/>
+	<TextEquiv>
+	<Unicode>park</Unicode></TextEquiv></Word>
+	<Word id="r202">
+	<Coords points="934,623 975,623 975,636 934,636"/>
+	<TextEquiv>
+	<Unicode>bench</Unicode></TextEquiv></Word>
+	<Word id="r203">
+	<Coords points="979,623 1009,623 1009,636 979,636"/>
+	<TextEquiv>
+	<Unicode>wnb</Unicode></TextEquiv></Word>
+	<Word id="r204">
+	<Coords points="1014,623 1045,623 1045,636 1014,636"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r205">
+	<Coords points="1049,624 1081,624 1081,639 1049,639"/>
+	<TextEquiv>
+	<Unicode>dogs</Unicode></TextEquiv></Word>
+	<Word id="r206">
+	<Coords points="1086,623 1124,623 1124,636 1086,636"/>
+	<TextEquiv>
+	<Unicode>while</Unicode></TextEquiv></Word>
+	<Word id="r207">
+	<Coords points="1128,627 1150,627 1150,636 1128,636"/>
+	<TextEquiv>
+	<Unicode>en—</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>showed a couple of nniversiiy swdenvs sitting on a park bench wnb their dogs while en—</Unicode></TextEquiv></TextLine>
+	<TextLine id="r208">
+	<Coords points="548,648 1150,648 1150,664 548,664"/>
+	<Word id="r209">
+	<Coords points="548,648 593,648 593,664 548,664"/>
+	<TextEquiv>
+	<Unicode>juying</Unicode></TextEquiv></Word>
+	<Word id="r210">
+	<Coords points="597,648 629,648 629,660 597,660"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r211">
+	<Coords points="633,648 713,648 713,664 633,664"/>
+	<TextEquiv>
+	<Unicode>laurgalarian</Unicode></TextEquiv></Word>
+	<Word id="r212">
+	<Coords points="718,648 761,648 761,661 718,661"/>
+	<TextEquiv>
+	<Unicode>meals.</Unicode></TextEquiv></Word>
+	<Word id="r213">
+	<Coords points="768,648 803,648 803,661 768,661"/>
+	<TextEquiv>
+	<Unicode>Also.</Unicode></TextEquiv></Word>
+	<Word id="r214">
+	<Coords points="810,648 869,648 869,664 810,664"/>
+	<TextEquiv>
+	<Unicode>celebriry</Unicode></TextEquiv></Word>
+	<Word id="r215">
+	<Coords points="874,648 902,648 902,660 874,660"/>
+	<TextEquiv>
+	<Unicode>Min</Unicode></TextEquiv></Word>
+	<Word id="r216">
+	<Coords points="906,648 927,648 927,660 906,660"/>
+	<TextEquiv>
+	<Unicode>Pat</Unicode></TextEquiv></Word>
+	<Word id="r217">
+	<Coords points="932,652 958,652 958,661 932,661"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r218">
+	<Coords points="962,648 1057,648 1057,664 962,664"/>
+	<TextEquiv>
+	<Unicode>pholognphed</Unicode></TextEquiv></Word>
+	<Word id="r219">
+	<Coords points="1061,648 1108,648 1108,661 1061,661"/>
+	<TextEquiv>
+	<Unicode>several</Unicode></TextEquiv></Word>
+	<Word id="r220">
+	<Coords points="1113,648 1150,648 1150,661 1113,661"/>
+	<TextEquiv>
+	<Unicode>Linles</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>juying their laurgalarian meals. Also. celebriry Min Pat was pholognphed several Linles</Unicode></TextEquiv></TextLine>
+	<TextLine id="r221">
+	<Coords points="549,673 1025,673 1025,689 549,689"/>
+	<Word id="r222">
+	<Coords points="549,673 591,673 591,689 549,689"/>
+	<TextEquiv>
+	<Unicode>eaung</Unicode></TextEquiv></Word>
+	<Word id="r223">
+	<Coords points="596,675 608,675 608,685 596,685"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r224">
+	<Coords points="613,673 693,673 693,689 613,689"/>
+	<TextEquiv>
+	<Unicode>laurgaiarian</Unicode></TextEquiv></Word>
+	<Word id="r225">
+	<Coords points="698,673 722,673 722,685 698,685"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r226">
+	<Coords points="727,676 753,676 753,685 727,685"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r227">
+	<Coords points="758,673 847,673 847,689 758,689"/>
+	<TextEquiv>
+	<Unicode>subsequennly</Unicode></TextEquiv></Word>
+	<Word id="r228">
+	<Coords points="852,673 908,673 908,685 852,685"/>
+	<TextEquiv>
+	<Unicode>rearured</Unicode></TextEquiv></Word>
+	<Word id="r229">
+	<Coords points="912,673 925,673 925,685 912,685"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r230">
+	<Coords points="930,673 950,673 950,685 930,685"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r231">
+	<Coords points="955,673 1025,673 1025,689 955,689"/>
+	<TextEquiv>
+	<Unicode>campaign.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>eaung at laurgaiarian and was subsequennly rearured in me campaign.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>In an attempt to raise their sales, laurgaiarian hired Adverge last year to work an iheir
+new advertising campaign. lnivially, Burgatarian had tried to advertise is food as being
+heahhy by reauiring athletic models in spans anlre eadng veggie burgers. But Adverge
+pointed out that. the majorily of vegeiarians are more concerned about the cvhical treat»
+mum of animals man dieir physical illness. They ihen produced an adverdsemenr (hm
+showed a couple of nniversiiy swdenvs sitting on a park bench wnb their dogs while en—
+juying their laurgalarian meals. Also. celebriry Min Pat was pholognphed several Linles
+eaung at laurgaiarian and was subsequennly rearured in me campaign.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r232" type="caption">
+	<Coords points="667,749 820,749 820,750 971,750 971,749 1050,749 1050,750 1150,750 1150,860 1078,860 1078,864 867,864 867,860 763,860 763,864 736,864 736,862 612,862 612,885 550,885 550,839 549,839 549,750 667,750"/>
+	<TextLine id="r233">
+	<Coords points="549,749 1150,749 1150,766 549,766"/>
+	<Word id="r234">
+	<Coords points="549,750 567,750 567,762 549,762"/>
+	<TextEquiv>
+	<Unicode>A:</Unicode></TextEquiv></Word>
+	<Word id="r235">
+	<Coords points="571,753 578,753 578,762 571,762"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r236">
+	<Coords points="582,752 624,752 624,762 582,762"/>
+	<TextEquiv>
+	<Unicode>mcenl</Unicode></TextEquiv></Word>
+	<Word id="r237">
+	<Coords points="628,753 663,753 663,766 628,766"/>
+	<TextEquiv>
+	<Unicode>press</Unicode></TextEquiv></Word>
+	<Word id="r238">
+	<Coords points="667,749 746,749 746,764 667,764"/>
+	<TextEquiv>
+	<Unicode>conference,</Unicode></TextEquiv></Word>
+	<Word id="r239">
+	<Coords points="750,750 789,750 789,762 750,762"/>
+	<TextEquiv>
+	<Unicode>Taner</Unicode></TextEquiv></Word>
+	<Word id="r240">
+	<Coords points="793,749 820,749 820,762 793,762"/>
+	<TextEquiv>
+	<Unicode>said</Unicode></TextEquiv></Word>
+	<Word id="r241">
+	<Coords points="824,750 840,750 840,762 824,762"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r242">
+	<Coords points="845,750 887,750 887,762 845,762"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r243">
+	<Coords points="891,750 916,750 916,762 891,762"/>
+	<TextEquiv>
+	<Unicode>like</Unicode></TextEquiv></Word>
+	<Word id="r244">
+	<Coords points="921,752 934,752 934,762 921,762"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r245">
+	<Coords points="938,752 967,752 967,762 938,762"/>
+	<TextEquiv>
+	<Unicode>start</Unicode></TextEquiv></Word>
+	<Word id="r246">
+	<Coords points="971,749 1050,749 1050,766 971,766"/>
+	<TextEquiv>
+	<Unicode>introducing</Unicode></TextEquiv></Word>
+	<Word id="r247">
+	<Coords points="1054,750 1077,750 1077,762 1054,762"/>
+	<TextEquiv>
+	<Unicode>fun</Unicode></TextEquiv></Word>
+	<Word id="r248">
+	<Coords points="1081,753 1109,753 1109,762 1081,762"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r249">
+	<Coords points="1113,750 1150,750 1150,762 1113,762"/>
+	<TextEquiv>
+	<Unicode>iiems</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>A: a mcenl press conference, Taner said he would like in start introducing fun new iiems</Unicode></TextEquiv></TextLine>
+	<TextLine id="r250">
+	<Coords points="550,774 1150,774 1150,790 550,790"/>
+	<Word id="r251">
+	<Coords points="550,776 580,776 580,787 550,787"/>
+	<TextEquiv>
+	<Unicode>onto</Unicode></TextEquiv></Word>
+	<Word id="r252">
+	<Coords points="584,774 604,774 604,787 584,787"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r253">
+	<Coords points="609,778 650,778 650,789 609,789"/>
+	<TextEquiv>
+	<Unicode>menu,</Unicode></TextEquiv></Word>
+	<Word id="r254">
+	<Coords points="655,774 686,774 686,787 655,787"/>
+	<TextEquiv>
+	<Unicode>such</Unicode></TextEquiv></Word>
+	<Word id="r255">
+	<Coords points="690,778 704,778 704,787 690,787"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r256">
+	<Coords points="708,774 776,774 776,790 708,790"/>
+	<TextEquiv>
+	<Unicode>scy—based</Unicode></TextEquiv></Word>
+	<Word id="r257">
+	<Coords points="780,774 833,774 833,787 780,787"/>
+	<TextEquiv>
+	<Unicode>chicken</Unicode></TextEquiv></Word>
+	<Word id="r258">
+	<Coords points="837,776 894,776 894,790 837,790"/>
+	<TextEquiv>
+	<Unicode>nuggets.</Unicode></TextEquiv></Word>
+	<Word id="r259">
+	<Coords points="899,774 923,774 923,787 899,787"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r260">
+	<Coords points="927,774 953,774 953,787 927,787"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r261">
+	<Coords points="957,774 973,774 973,787 957,787"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r262">
+	<Coords points="977,778 1003,778 1003,787 977,787"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r263">
+	<Coords points="1007,774 1075,774 1075,790 1007,790"/>
+	<TextEquiv>
+	<Unicode>exuernely</Unicode></TextEquiv></Word>
+	<Word id="r264">
+	<Coords points="1079,774 1120,774 1120,790 1079,790"/>
+	<TextEquiv>
+	<Unicode>happy</Unicode></TextEquiv></Word>
+	<Word id="r265">
+	<Coords points="1125,774 1150,774 1150,787 1125,787"/>
+	<TextEquiv>
+	<Unicode>unal</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>onto the menu, such as scy—based chicken nuggets. and that he was exuernely happy unal</Unicode></TextEquiv></TextLine>
+	<TextLine id="r266">
+	<Coords points="550,799 1150,799 1150,815 550,815"/>
+	<Word id="r267">
+	<Coords points="550,799 612,799 612,815 550,815"/>
+	<TextEquiv>
+	<Unicode>Advergc,</Unicode></TextEquiv></Word>
+	<Word id="r268">
+	<Coords points="617,799 659,799 659,811 617,811"/>
+	<TextEquiv>
+	<Unicode>which</Unicode></TextEquiv></Word>
+	<Word id="r269">
+	<Coords points="664,799 691,799 691,811 664,811"/>
+	<TextEquiv>
+	<Unicode>also</Unicode></TextEquiv></Word>
+	<Word id="r270">
+	<Coords points="696,801 743,801 743,811 696,811"/>
+	<TextEquiv>
+	<Unicode>creules</Unicode></TextEquiv></Word>
+	<Word id="r271">
+	<Coords points="748,799 769,799 769,811 748,811"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r272">
+	<Coords points="774,799 837,799 837,815 774,815"/>
+	<TextEquiv>
+	<Unicode>Burg,lers'</Unicode></TextEquiv></Word>
+	<Word id="r273">
+	<Coords points="844,799 860,799 860,811 844,811"/>
+	<TextEquiv>
+	<Unicode>ad</Unicode></TextEquiv></Word>
+	<Word id="r274">
+	<Coords points="864,799 941,799 941,815 864,815"/>
+	<TextEquiv>
+	<Unicode>campaigns,</Unicode></TextEquiv></Word>
+	<Word id="r275">
+	<Coords points="947,799 969,799 969,811 947,811"/>
+	<TextEquiv>
+	<Unicode>has</Unicode></TextEquiv></Word>
+	<Word id="r276">
+	<Coords points="975,799 1020,799 1020,815 975,815"/>
+	<TextEquiv>
+	<Unicode>agreed</Unicode></TextEquiv></Word>
+	<Word id="r277">
+	<Coords points="1025,801 1038,801 1038,811 1025,811"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r278">
+	<Coords points="1043,799 1060,799 1060,811 1043,811"/>
+	<TextEquiv>
+	<Unicode>do</Unicode></TextEquiv></Word>
+	<Word id="r279">
+	<Coords points="1065,799 1085,799 1085,811 1065,811"/>
+	<TextEquiv>
+	<Unicode>lhe</Unicode></TextEquiv></Word>
+	<Word id="r280">
+	<Coords points="1091,799 1150,799 1150,811 1091,811"/>
+	<TextEquiv>
+	<Unicode>advertis-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Advergc, which also creules the Burg,lers' ad campaigns, has agreed to do lhe advertis-</Unicode></TextEquiv></TextLine>
+	<TextLine id="r281">
+	<Coords points="549,823 1150,823 1150,839 549,839"/>
+	<Word id="r282">
+	<Coords points="549,823 571,823 571,839 549,839"/>
+	<TextEquiv>
+	<Unicode>ing</Unicode></TextEquiv></Word>
+	<Word id="r283">
+	<Coords points="577,823 597,823 597,836 577,836"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r284">
+	<Coords points="602,823 622,823 622,836 602,836"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r285">
+	<Coords points="628,827 656,827 656,836 628,836"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r286">
+	<Coords points="661,823 742,823 742,839 661,839"/>
+	<TextEquiv>
+	<Unicode>Bnrgavarian</Unicode></TextEquiv></Word>
+	<Word id="r287">
+	<Coords points="747,823 810,823 810,836 747,836"/>
+	<TextEquiv>
+	<Unicode>breakfast</Unicode></TextEquiv></Word>
+	<Word id="r288">
+	<Coords points="815,827 857,827 857,836 815,836"/>
+	<TextEquiv>
+	<Unicode>menu.</Unicode></TextEquiv></Word>
+	<Word id="r289">
+	<Coords points="866,823 885,823 885,836 866,836"/>
+	<TextEquiv>
+	<Unicode>l-le</Unicode></TextEquiv></Word>
+	<Word id="r290">
+	<Coords points="891,823 918,823 918,836 891,836"/>
+	<TextEquiv>
+	<Unicode>also</Unicode></TextEquiv></Word>
+	<Word id="r291">
+	<Coords points="924,823 998,823 998,836 924,836"/>
+	<TextEquiv>
+	<Unicode>announced</Unicode></TextEquiv></Word>
+	<Word id="r292">
+	<Coords points="1003,823 1029,823 1029,836 1003,836"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r293">
+	<Coords points="1034,823 1046,823 1046,836 1034,836"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r294">
+	<Coords points="1050,823 1070,823 1070,836 1050,836"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r295">
+	<Coords points="1076,823 1150,823 1150,839 1076,839"/>
+	<TextEquiv>
+	<Unicode>company's</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ing for the new Bnrgavarian breakfast menu. l-le also announced that it me company's</Unicode></TextEquiv></TextLine>
+	<TextLine id="r296">
+	<Coords points="550,848 1150,848 1150,864 550,864"/>
+	<Word id="r297">
+	<Coords points="550,851 600,851 600,860 550,860"/>
+	<TextEquiv>
+	<Unicode>success</Unicode></TextEquiv></Word>
+	<Word id="r298">
+	<Coords points="605,848 674,848 674,862 605,862"/>
+	<TextEquiv>
+	<Unicode>enndnues,</Unicode></TextEquiv></Word>
+	<Word id="r299">
+	<Coords points="678,848 699,848 699,860 678,860"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r300">
+	<Coords points="703,850 732,850 732,860 703,860"/>
+	<TextEquiv>
+	<Unicode>nexl</Unicode></TextEquiv></Word>
+	<Word id="r301">
+	<Coords points="736,850 763,850 763,864 736,864"/>
+	<TextEquiv>
+	<Unicode>slep</Unicode></TextEquiv></Word>
+	<Word id="r302">
+	<Coords points="767,848 793,848 793,860 767,860"/>
+	<TextEquiv>
+	<Unicode>will</Unicode></TextEquiv></Word>
+	<Word id="r303">
+	<Coords points="797,848 813,848 813,860 797,860"/>
+	<TextEquiv>
+	<Unicode>be</Unicode></TextEquiv></Word>
+	<Word id="r304">
+	<Coords points="817,850 830,850 830,860 817,860"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r305">
+	<Coords points="835,850 864,850 864,860 835,860"/>
+	<TextEquiv>
+	<Unicode>nan</Unicode></TextEquiv></Word>
+	<Word id="r306">
+	<Coords points="867,848 922,848 922,864 867,864"/>
+	<TextEquiv>
+	<Unicode>apening</Unicode></TextEquiv></Word>
+	<Word id="r307">
+	<Coords points="926,852 943,852 943,864 926,864"/>
+	<TextEquiv>
+	<Unicode>up</Unicode></TextEquiv></Word>
+	<Word id="r308">
+	<Coords points="947,848 1008,848 1008,860 947,860"/>
+	<TextEquiv>
+	<Unicode>branches</Unicode></TextEquiv></Word>
+	<Word id="r309">
+	<Coords points="1012,848 1025,848 1025,860 1012,860"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r310">
+	<Coords points="1028,848 1078,848 1078,864 1028,864"/>
+	<TextEquiv>
+	<Unicode>Eurnpe</Unicode></TextEquiv></Word>
+	<Word id="r311">
+	<Coords points="1082,848 1106,848 1106,860 1082,860"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r312">
+	<Coords points="1111,848 1150,848 1150,860 1111,860"/>
+	<TextEquiv>
+	<Unicode>sauna</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>success enndnues, the nexl slep will be in nan apening up branches in Eurnpe and sauna</Unicode></TextEquiv></TextLine>
+	<TextLine id="r313">
+	<Coords points="550,872 612,872 612,885 550,885"/>
+	<Word id="r314">
+	<Coords points="550,872 612,872 612,885 550,885"/>
+	<TextEquiv>
+	<Unicode>America</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>America</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>A: a mcenl press conference, Taner said he would like in start introducing fun new iiems
+onto the menu, such as scy—based chicken nuggets. and that he was exuernely happy unal
+Advergc, which also creules the Burg,lers' ad campaigns, has agreed to do lhe advertis-
+ing for the new Bnrgavarian breakfast menu. l-le also announced that it me company's
+success enndnues, the nexl slep will be in nan apening up branches in Eurnpe and sauna
+America</Unicode></TextEquiv></TextRegion></Page></PcGts>

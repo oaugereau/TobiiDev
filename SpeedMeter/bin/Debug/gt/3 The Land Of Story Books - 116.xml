@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-18T15:22:11</Created>
+	<LastChange>2015-03-04T05:54:02</LastChange></Metadata>
+	<Page imageFilename="3 The Land Of Story Books.png" imageWidth="906" imageHeight="1083">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="266,90 635,90 635,108 266,108"/>
+	<TextLine id="r2">
+	<Coords points="266,90 635,90 635,108 266,108"/>
+	<Word id="r3">
+	<Coords points="266,90 317,90 317,108 266,108"/>
+	<TextEquiv>
+	<Unicode>THE</Unicode></TextEquiv></Word>
+	<Word id="r4">
+	<Coords points="326,90 400,90 400,108 326,108"/>
+	<TextEquiv>
+	<Unicode>LAND</Unicode></TextEquiv></Word>
+	<Word id="r5">
+	<Coords points="409,90 442,90 442,108 409,108"/>
+	<TextEquiv>
+	<Unicode>OF</Unicode></TextEquiv></Word>
+	<Word id="r6">
+	<Coords points="452,90 537,90 537,108 452,108"/>
+	<TextEquiv>
+	<Unicode>STORY</Unicode></TextEquiv></Word>
+	<Word id="r7">
+	<Coords points="545,90 635,90 635,108 545,108"/>
+	<TextEquiv>
+	<Unicode>BOOKS</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>THE LAND OF STORY BOOKS</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>THE LAND OF STORY BOOKS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="285,153 651,153 651,201 670,201 670,219 626,219 626,243 413,243 413,239 271,239 271,219 227,219 227,201 245,201 245,154 285,154"/>
+	<TextLine id="r9">
+	<Coords points="245,153 651,153 651,171 245,171"/>
+	<Word id="r10">
+	<Coords points="245,154 269,154 269,167 245,167"/>
+	<TextEquiv>
+	<Unicode>At</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="285,153 373,153 373,171 285,171"/>
+	<TextEquiv>
+	<Unicode>evening</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="387,153 438,153 438,167 387,167"/>
+	<TextEquiv>
+	<Unicode>when</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="452,153 488,153 488,167 452,167"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r14">
+	<Coords points="504,153 553,153 553,171 504,171"/>
+	<TextEquiv>
+	<Unicode>lamp</Unicode></TextEquiv></Word>
+	<Word id="r15">
+	<Coords points="568,153 590,153 590,167 568,167"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="607,153 651,153 651,170 607,170"/>
+	<TextEquiv>
+	<Unicode>lit,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>At evening when the lamp is lit,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r17">
+	<Coords points="252,177 645,177 645,195 252,195"/>
+	<Word id="r18">
+	<Coords points="252,177 329,177 329,191 252,191"/>
+	<TextEquiv>
+	<Unicode>Around</Unicode></TextEquiv></Word>
+	<Word id="r19">
+	<Coords points="343,177 379,177 379,191 343,191"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="395,177 443,177 443,191 395,191"/>
+	<TextEquiv>
+	<Unicode>fire</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="458,181 483,181 483,195 458,195"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="496,178 584,178 584,195 496,195"/>
+	<TextEquiv>
+	<Unicode>parents</Unicode></TextEquiv></Word>
+	<Word id="r23">
+	<Coords points="600,177 645,177 645,194 600,194"/>
+	<TextEquiv>
+	<Unicode>sit;</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Around the fire my parents sit;</Unicode></TextEquiv></TextLine>
+	<TextLine id="r24">
+	<Coords points="227,201 670,201 670,219 227,219"/>
+	<Word id="r25">
+	<Coords points="227,201 277,201 277,219 227,219"/>
+	<TextEquiv>
+	<Unicode>They</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="292,201 327,201 327,215 292,215"/>
+	<TextEquiv>
+	<Unicode>sit</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="343,202 366,202 366,215 343,215"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r28">
+	<Coords points="381,201 430,201 430,215 381,215"/>
+	<TextEquiv>
+	<Unicode>home</Unicode></TextEquiv></Word>
+	<Word id="r29">
+	<Coords points="446,201 483,201 483,215 446,215"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="497,201 547,201 547,215 497,215"/>
+	<TextEquiv>
+	<Unicode>talk</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="561,201 598,201 598,215 561,215"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="613,201 670,201 670,219 613,219"/>
+	<TextEquiv>
+	<Unicode>sing,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>They sit at home and talk and sing,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r33">
+	<Coords points="271,225 626,225 626,243 271,243"/>
+	<Word id="r34">
+	<Coords points="271,225 310,225 310,239 271,239"/>
+	<TextEquiv>
+	<Unicode>And</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="324,225 347,225 347,239 324,239"/>
+	<TextEquiv>
+	<Unicode>do</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="362,226 398,226 398,239 362,239"/>
+	<TextEquiv>
+	<Unicode>not</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="413,225 464,225 464,243 413,243"/>
+	<TextEquiv>
+	<Unicode>play</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="478,226 500,226 500,239 478,239"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="516,225 626,225 626,243 516,243"/>
+	<TextEquiv>
+	<Unicode>anything.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>And do not play at anything.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>At evening when the lamp is lit,
+Around the fire my parents sit;
+They sit at home and talk and sing,
+And do not play at anything.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="304,274 644,274 644,291 534,291 534,292 496,292 496,288 393,288 393,292 368,292 368,288 252,288 252,275 304,275"/>
+	<TextLine id="r41">
+	<Coords points="252,274 644,274 644,292 252,292"/>
+	<Word id="r42">
+	<Coords points="252,275 290,275 290,288 252,288"/>
+	<TextEquiv>
+	<Unicode>Now</Unicode></TextEquiv></Word>
+	<Word id="r43">
+	<Coords points="304,274 354,274 354,288 304,288"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="368,278 393,278 393,292 368,292"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="408,274 481,274 481,288 408,288"/>
+	<TextEquiv>
+	<Unicode>little</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="496,278 534,278 534,292 496,292"/>
+	<TextEquiv>
+	<Unicode>gun</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="549,275 558,275 558,288 549,288"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="574,274 644,274 644,291 574,291"/>
+	<TextEquiv>
+	<Unicode>crawl,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Now with my little gun I crawl,</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Now with my little gun I crawl,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="245,298 651,298 651,312 527,312 527,316 465,316 465,315 388,315 388,312 245,312"/>
+	<TextLine id="r50">
+	<Coords points="245,298 651,298 651,316 245,316"/>
+	<Word id="r51">
+	<Coords points="245,298 282,298 282,312 245,312"/>
+	<TextEquiv>
+	<Unicode>All</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="299,298 322,298 322,312 299,312"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="337,298 372,298 372,312 337,312"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="388,298 445,298 445,315 388,315"/>
+	<TextEquiv>
+	<Unicode>dark,</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="465,298 527,298 527,316 465,316"/>
+	<TextEquiv>
+	<Unicode>along</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="542,298 578,298 578,312 542,312"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="592,298 651,298 651,312 592,312"/>
+	<TextEquiv>
+	<Unicode>wall.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>All in the dark, along the wall.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>All in the dark, along the wall.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords points="239,322 662,322 662,336 613,336 613,360 335,360 335,364 284,364 284,336 239,336"/>
+	<TextLine id="r59">
+	<Coords points="239,322 662,322 662,336 239,336"/>
+	<Word id="r60">
+	<Coords points="239,322 277,322 277,336 239,336"/>
+	<TextEquiv>
+	<Unicode>And</Unicode></TextEquiv></Word>
+	<Word id="r61">
+	<Coords points="292,322 367,322 367,336 292,336"/>
+	<TextEquiv>
+	<Unicode>follow</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="382,322 444,322 444,336 382,336"/>
+	<TextEquiv>
+	<Unicode>round</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="459,322 494,322 494,336 459,336"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="511,322 584,322 584,336 511,336"/>
+	<TextEquiv>
+	<Unicode>forest</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="600,322 662,322 662,336 600,336"/>
+	<TextEquiv>
+	<Unicode>track</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>And follow round the forest track</Unicode></TextEquiv></TextLine>
+	<TextLine id="r66">
+	<Coords points="284,346 613,346 613,364 284,364"/>
+	<Word id="r67">
+	<Coords points="284,347 335,347 335,364 284,364"/>
+	<TextEquiv>
+	<Unicode>Away</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="349,346 425,346 425,360 349,360"/>
+	<TextEquiv>
+	<Unicode>behind</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="439,346 475,346 475,360 439,360"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="491,346 540,346 540,360 491,360"/>
+	<TextEquiv>
+	<Unicode>sofa</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="554,346 613,346 613,360 554,360"/>
+	<TextEquiv>
+	<Unicode>back.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Away behind the sofa back.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>And follow round the forest track
+Away behind the sofa back.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r72" type="paragraph">
+	<Coords points="202,395 520,395 520,399 696,399 696,413 670,413 670,460 632,460 632,481 533,481 533,485 509,485 509,481 266,481 266,457 226,457 226,409 202,409"/>
+	<TextLine id="r73">
+	<Coords points="202,395 696,395 696,413 202,413"/>
+	<Word id="r74">
+	<Coords points="202,395 263,395 263,409 202,409"/>
+	<TextEquiv>
+	<Unicode>There</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="280,395 303,395 303,409 280,409"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="317,395 353,395 353,409 317,409"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="368,395 439,395 439,413 368,413"/>
+	<TextEquiv>
+	<Unicode>night,</Unicode></TextEquiv></Word>
+	<Word id="r78">
+	<Coords points="458,395 520,395 520,409 458,409"/>
+	<TextEquiv>
+	<Unicode>where</Unicode></TextEquiv></Word>
+	<Word id="r79">
+	<Coords points="535,399 584,399 584,409 535,409"/>
+	<TextEquiv>
+	<Unicode>none</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="600,399 636,399 636,409 600,409"/>
+	<TextEquiv>
+	<Unicode>can</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="652,399 696,399 696,413 652,413"/>
+	<TextEquiv>
+	<Unicode>spy,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>There in the night, where none can spy,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r82">
+	<Coords points="258,419 638,419 638,437 258,437"/>
+	<Word id="r83">
+	<Coords points="258,419 295,419 295,433 258,433"/>
+	<TextEquiv>
+	<Unicode>All</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="312,419 335,419 335,433 312,433"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="349,423 374,423 374,437 349,437"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="387,419 488,419 488,433 387,433"/>
+	<TextEquiv>
+	<Unicode>hunter's</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="504,423 553,423 553,437 504,437"/>
+	<TextEquiv>
+	<Unicode>camp</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="569,420 577,420 577,433 569,433"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="594,419 638,419 638,436 594,436"/>
+	<TextEquiv>
+	<Unicode>lie,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>All in my hunter's Camp I lie,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r90">
+	<Coords points="226,443 670,443 670,461 226,461"/>
+	<Word id="r91">
+	<Coords points="226,443 265,443 265,457 226,457"/>
+	<TextEquiv>
+	<Unicode>And</Unicode></TextEquiv></Word>
+	<Word id="r92">
+	<Coords points="278,443 329,443 329,461 278,461"/>
+	<TextEquiv>
+	<Unicode>play</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="343,444 366,444 366,457 343,457"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="381,443 443,443 443,457 381,457"/>
+	<TextEquiv>
+	<Unicode>books</Unicode></TextEquiv></Word>
+	<Word id="r95">
+	<Coords points="459,443 507,443 507,457 459,457"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r96">
+	<Coords points="524,444 532,444 532,457 524,457"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="548,443 597,443 597,457 548,457"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="613,443 670,443 670,460 613,460"/>
+	<TextEquiv>
+	<Unicode>read,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>And play at books that I have read,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r99">
+	<Coords points="266,467 632,467 632,485 266,485"/>
+	<Word id="r100">
+	<Coords points="266,467 314,467 314,481 266,481"/>
+	<TextEquiv>
+	<Unicode>Till</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="331,467 353,467 353,481 331,481"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="369,467 391,467 391,481 369,481"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r103">
+	<Coords points="407,467 456,467 456,481 407,481"/>
+	<TextEquiv>
+	<Unicode>time</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="471,468 495,468 495,481 471,481"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="509,471 533,471 533,485 509,485"/>
+	<TextEquiv>
+	<Unicode>go</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="548,468 572,468 572,481 548,481"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r107">
+	<Coords points="586,467 632,467 632,481 586,481"/>
+	<TextEquiv>
+	<Unicode>bed.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Till it is time to go to bed.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>There in the night, where none can spy,
+All in my hunter's Camp I lie,
+And play at books that I have read,
+Till it is time to go to bed.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r108" type="paragraph">
+	<Coords points="254,517 673,517 673,526 254,526"/>
+	<TextEquiv>
+	<Unicode>at 9: * at 9:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r115" type="paragraph">
+	<Coords points="284,564 335,564 335,568 543,568 543,564 617,564 617,568 664,568 664,581 661,581 661,627 645,627 645,651 560,651 560,655 497,655 497,651 316,651 316,655 291,655 291,651 252,651 252,627 239,627 239,581 234,581 234,565 284,565"/>
+	<TextLine id="r116">
+	<Coords points="234,564 664,564 664,582 234,582"/>
+	<Word id="r117">
+	<Coords points="234,565 266,565 266,581 234,581"/>
+	<TextEquiv>
+	<Unicode>So,</Unicode></TextEquiv></Word>
+	<Word id="r118">
+	<Coords points="284,564 335,564 335,578 284,578"/>
+	<TextEquiv>
+	<Unicode>when</Unicode></TextEquiv></Word>
+	<Word id="r119">
+	<Coords points="349,568 374,568 374,582 349,582"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="387,568 449,568 449,578 387,578"/>
+	<TextEquiv>
+	<Unicode>nurse</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="465,568 526,568 526,578 465,578"/>
+	<TextEquiv>
+	<Unicode>comes</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="543,564 566,564 566,578 543,578"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="581,564 617,564 617,578 581,578"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="631,568 664,568 664,581 631,581"/>
+	<TextEquiv>
+	<Unicode>me,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>So, when my nurse comes in for me,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r125">
+	<Coords points="265,589 631,589 631,606 265,606"/>
+	<Word id="r126">
+	<Coords points="265,590 315,590 315,603 265,603"/>
+	<TextEquiv>
+	<Unicode>Home</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="331,590 340,590 340,603 331,603"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="356,590 431,590 431,603 356,603"/>
+	<TextEquiv>
+	<Unicode>return</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="446,593 520,593 520,603 446,603"/>
+	<TextEquiv>
+	<Unicode>across</Unicode></TextEquiv></Word>
+	<Word id="r130">
+	<Coords points="536,589 571,589 571,603 536,603"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r131">
+	<Coords points="588,593 631,593 631,606 588,606"/>
+	<TextEquiv>
+	<Unicode>sea,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Home I return across the sea,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r132">
+	<Coords points="239,613 661,613 661,631 239,631"/>
+	<Word id="r133">
+	<Coords points="239,613 277,613 277,627 239,627"/>
+	<TextEquiv>
+	<Unicode>And</Unicode></TextEquiv></Word>
+	<Word id="r134">
+	<Coords points="291,617 315,617 315,631 291,631"/>
+	<TextEquiv>
+	<Unicode>go</Unicode></TextEquiv></Word>
+	<Word id="r135">
+	<Coords points="330,614 354,614 354,627 330,627"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r136">
+	<Coords points="368,613 406,613 406,627 368,627"/>
+	<TextEquiv>
+	<Unicode>bed</Unicode></TextEquiv></Word>
+	<Word id="r137">
+	<Coords points="419,613 470,613 470,627 419,627"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r138">
+	<Coords points="483,613 585,613 585,627 483,627"/>
+	<TextEquiv>
+	<Unicode>backward</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="600,613 661,613 661,627 600,627"/>
+	<TextEquiv>
+	<Unicode>looks</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>And go to bed with backward looks</Unicode></TextEquiv></TextLine>
+	<TextLine id="r140">
+	<Coords points="252,637 645,637 645,655 252,655"/>
+	<Word id="r141">
+	<Coords points="252,638 276,638 276,651 252,651"/>
+	<TextEquiv>
+	<Unicode>At</Unicode></TextEquiv></Word>
+	<Word id="r142">
+	<Coords points="291,641 316,641 316,655 291,655"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="330,637 379,637 379,651 330,651"/>
+	<TextEquiv>
+	<Unicode>dear</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="394,637 444,637 444,651 394,651"/>
+	<TextEquiv>
+	<Unicode>Land</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="458,637 481,637 481,651 458,651"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="497,638 560,638 560,655 497,655"/>
+	<TextEquiv>
+	<Unicode>Story</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="573,637 645,637 645,651 573,651"/>
+	<TextEquiv>
+	<Unicode>Books.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>At my dear Land of Story Books.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>So, when my nurse comes in for me,
+Home I return across the sea,
+And go to bed with backward looks
+At my dear Land of Story Books.</Unicode></TextEquiv></TextRegion></Page></PcGts>

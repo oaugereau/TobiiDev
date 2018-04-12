@@ -1,0 +1,11 @@
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\bin\Debug\FixationAlignment.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\bin\Debug\FixationAlignment.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\bin\Debug\FixationAlignment.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\bin\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\bin\Debug\Retrieval.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\bin\Debug\ReadingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\bin\Debug\Retrieval.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\obj\Debug\FixationAlignment.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\obj\Debug\FixationAlignment.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\FixationAlignment\obj\Debug\FixationAlignment.pdb

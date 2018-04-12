@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-27T03:02:39</Created>
+	<LastChange>2015-02-27T03:02:39</LastChange></Metadata>
+	<Page imageFilename="doc1.jpg" imageWidth="1680" imageHeight="1050">
+	<ImageRegion id="r1">
+	<Coords points="1683,0 1683,1049 0,1049 0,0"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="549,126 695,126 695,138 549,138"/>
+	<TextLine id="r3">
+	<Coords points="549,126 695,126 695,138 549,138"/>
+	<Word id="r4">
+	<Coords points="549,126 571,126 571,138 549,138"/>
+	<TextEquiv>
+	<Unicode>To:</Unicode></TextEquiv></Word>
+	<Word id="r5">
+	<Coords points="577,126 626,126 626,138 577,138"/>
+	<TextEquiv>
+	<Unicode>I-Team</Unicode></TextEquiv></Word>
+	<Word id="r6">
+	<Coords points="631,126 695,126 695,138 631,138"/>
+	<TextEquiv>
+	<Unicode>Memhzni</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>To: I-Team Memhzni</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>To: I-Team Memhzni</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="597,150 808,150 808,151 862,151 862,163 808,163 808,165 697,165 697,187 549,187 549,151 597,151"/>
+	<TextLine id="r8">
+	<Coords points="549,150 862,150 862,165 549,165"/>
+	<Word id="r9">
+	<Coords points="549,151 590,151 590,163 549,163"/>
+	<TextEquiv>
+	<Unicode>From:</Unicode></TextEquiv></Word>
+	<Word id="r10">
+	<Coords points="597,150 634,150 634,163 597,163"/>
+	<TextEquiv>
+	<Unicode>Steve</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="639,151 694,151 694,165 639,165"/>
+	<TextEquiv>
+	<Unicode>Preslons</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="699,150 808,150 808,165 699,165"/>
+	<TextEquiv>
+	<Unicode>Edil0r—inCMef.</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="813,151 862,151 862,163 813,163"/>
+	<TextEquiv>
+	<Unicode>I—Team</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>From: Steve Preslons Edil0r—inCMef. I—Team</Unicode></TextEquiv></TextLine>
+	<TextLine id="r14">
+	<Coords points="549,175 697,175 697,187 549,187"/>
+	<Word id="r15">
+	<Coords points="549,175 575,175 575,187 549,187"/>
+	<TextEquiv>
+	<Unicode>RE:</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="580,175 639,175 639,187 580,187"/>
+	<TextEquiv>
+	<Unicode>Deborah</Unicode></TextEquiv></Word>
+	<Word id="r17">
+	<Coords points="644,175 697,175 697,187 644,187"/>
+	<TextEquiv>
+	<Unicode>Nielwn</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>RE: Deborah Nielwn</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>From: Steve Preslons Edil0r—inCMef. I—Team
+RE: Deborah Nielwn</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="550,235 667,235 667,251 587,251 587,247 550,247"/>
+	<TextLine id="r19">
+	<Coords points="550,235 667,235 667,251 550,251"/>
+	<Word id="r20">
+	<Coords points="550,235 583,235 583,247 550,247"/>
+	<TextEquiv>
+	<Unicode>Dear</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="587,235 667,235 667,251 587,251"/>
+	<TextEquiv>
+	<Unicode>Colleagues:</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Dear Colleagues:</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Dear Colleagues:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="550,319 555,319 555,322 659,322 659,321 723,321 723,319 1150,319 1150,356 1083,356 1083,359 595,359 595,380 549,380 549,345 550,345"/>
+	<TextLine id="r23">
+	<Coords points="550,319 1150,319 1150,335 550,335"/>
+	<Word id="r24">
+	<Coords points="550,319 555,319 555,331 550,331"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r25">
+	<Coords points="560,322 580,322 580,331 560,331"/>
+	<TextEquiv>
+	<Unicode>am</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="585,322 615,322 615,335 585,335"/>
+	<TextEquiv>
+	<Unicode>very</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="620,322 654,322 654,335 620,335"/>
+	<TextEquiv>
+	<Unicode>sorry</Unicode></TextEquiv></Word>
+	<Word id="r28">
+	<Coords points="659,321 672,321 672,331 659,331"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r29">
+	<Coords points="677,321 718,321 718,335 677,335"/>
+	<TextEquiv>
+	<Unicode>repon</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="723,319 748,319 748,331 723,331"/>
+	<TextEquiv>
+	<Unicode>Lhal</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="753,319 811,319 811,331 753,331"/>
+	<TextEquiv>
+	<Unicode>Debolali</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="816,319 873,319 873,333 816,333"/>
+	<TextEquiv>
+	<Unicode>Nielson.</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="878,319 907,319 907,331 878,331"/>
+	<TextEquiv>
+	<Unicode>who</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="912,319 934,319 934,331 912,331"/>
+	<TextEquiv>
+	<Unicode>has</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="939,319 1007,319 1007,335 939,335"/>
+	<TextEquiv>
+	<Unicode>brilliantly</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="1012,319 1032,319 1032,331 1012,331"/>
+	<TextEquiv>
+	<Unicode>led</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="1037,322 1060,322 1060,331 1037,331"/>
+	<TextEquiv>
+	<Unicode>our</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="1064,319 1150,319 1150,335 1064,335"/>
+	<TextEquiv>
+	<Unicode>invesrigsrive</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>I am very sorry to repon Lhal Debolali Nielson. who has brilliantly led our invesrigsrive</Unicode></TextEquiv></TextLine>
+	<TextLine id="r39">
+	<Coords points="549,343 1150,343 1150,359 549,359"/>
+	<Word id="r40">
+	<Coords points="549,345 583,345 583,356 549,356"/>
+	<TextEquiv>
+	<Unicode>team</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="587,343 627,343 627,356 587,356"/>
+	<TextEquiv>
+	<Unicode>for25</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="631,347 671,347 671,359 631,359"/>
+	<TextEquiv>
+	<Unicode>years,</Unicode></TextEquiv></Word>
+	<Word id="r43">
+	<Coords points="676,343 702,343 702,355 676,355"/>
+	<TextEquiv>
+	<Unicode>will</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="706,343 722,343 722,356 706,356"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="726,343 776,343 776,359 726,359"/>
+	<TextEquiv>
+	<Unicode>leaving</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="780,347 795,347 795,356 780,356"/>
+	<TextEquiv>
+	<Unicode>us</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="799,343 812,343 812,355 799,355"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="816,343 844,343 844,359 816,359"/>
+	<TextEquiv>
+	<Unicode>July</Unicode></TextEquiv></Word>
+	<Word id="r49">
+	<Coords points="848,343 868,343 868,356 848,356"/>
+	<TextEquiv>
+	<Unicode>fox</Unicode></TextEquiv></Word>
+	<Word id="r50">
+	<Coords points="872,343 941,343 941,359 872,359"/>
+	<TextEquiv>
+	<Unicode>ateacliing</Unicode></TextEquiv></Word>
+	<Word id="r51">
+	<Coords points="944,343 967,343 967,359 944,359"/>
+	<TextEquiv>
+	<Unicode>job</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="971,345 983,345 983,356 971,356"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="987,343 1008,343 1008,356 987,356"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="1012,343 1083,343 1083,359 1012,359"/>
+	<TextEquiv>
+	<Unicode>University</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="1088,343 1103,343 1103,356 1088,356"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="1106,343 1150,343 1150,356 1106,356"/>
+	<TextEquiv>
+	<Unicode>lunoae</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>team for25 years, will he leaving us in July fox ateacliing job at the University of lunoae</Unicode></TextEquiv></TextLine>
+	<TextLine id="r57">
+	<Coords points="549,368 595,368 595,380 549,380"/>
+	<Word id="r58">
+	<Coords points="549,368 595,368 595,380 549,380"/>
+	<TextEquiv>
+	<Unicode>lslsnrl.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>lslsnrl.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>I am very sorry to repon Lhal Debolali Nielson. who has brilliantly led our invesrigsrive
+team for25 years, will he leaving us in July fox ateacliing job at the University of lunoae
+lslsnrl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords points="549,445 1150,445 1150,510 1003,510 1003,506 880,506 880,510 733,510 733,531 674,531 674,534 632,534 632,531 549,531"/>
+	<TextLine id="r60">
+	<Coords points="549,445 1150,445 1150,461 549,461"/>
+	<Word id="r61">
+	<Coords points="549,445 620,445 620,457 549,457"/>
+	<TextEquiv>
+	<Unicode>Debora.ll's</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="624,445 694,445 694,461 624,461"/>
+	<TextEquiv>
+	<Unicode>leadership</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="699,445 714,445 714,457 699,457"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="717,445 738,445 738,457 717,457"/>
+	<TextEquiv>
+	<Unicode>use</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="742,445 823,445 823,461 742,461"/>
+	<TextEquiv>
+	<Unicode>Washingmn</Unicode></TextEquiv></Word>
+	<Word id="r66">
+	<Coords points="827,445 857,445 857,457 827,457"/>
+	<TextEquiv>
+	<Unicode>Post</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="861,447 898,447 898,459 861,459"/>
+	<TextEquiv>
+	<Unicode>resni,</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="903,445 924,445 924,457 903,457"/>
+	<TextEquiv>
+	<Unicode>Lhc</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="928,445 973,445 973,461 928,461"/>
+	<TextEquiv>
+	<Unicode>largcsl</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="978,445 1002,445 1002,457 978,457"/>
+	<TextEquiv>
+	<Unicode>snrl</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="1006,447 1040,447 1040,457 1006,457"/>
+	<TextEquiv>
+	<Unicode>mos!</Unicode></TextEquiv></Word>
+	<Word id="r72">
+	<Coords points="1044,445 1150,445 1150,461 1044,461"/>
+	<TextEquiv>
+	<Unicode>powerfIi1inves-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Debora.ll's leadership of use Washingmn Post resni, Lhc largcsl snrl mos! powerfIi1inves-</Unicode></TextEquiv></TextLine>
+	<TextLine id="r73">
+	<Coords points="549,469 1150,469 1150,485 549,485"/>
+	<Word id="r74">
+	<Coords points="549,469 600,469 600,485 549,485"/>
+	<TextEquiv>
+	<Unicode>tigative</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="606,469 670,469 670,485 606,485"/>
+	<TextEquiv>
+	<Unicode>opetaxion</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="676,469 691,469 691,482 676,482"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="695,473 719,473 719,485 695,485"/>
+	<TextEquiv>
+	<Unicode>any</Unicode></TextEquiv></Word>
+	<Word id="r78">
+	<Coords points="725,473 798,473 798,485 725,485"/>
+	<TextEquiv>
+	<Unicode>newspaper</Unicode></TextEquiv></Word>
+	<Word id="r79">
+	<Coords points="803,469 853,469 853,484 803,484"/>
+	<TextEquiv>
+	<Unicode>bureau,</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="859,469 882,469 882,482 859,482"/>
+	<TextEquiv>
+	<Unicode>has</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="887,469 933,469 933,485 887,485"/>
+	<TextEquiv>
+	<Unicode>helped</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="938,469 974,469 974,485 938,485"/>
+	<TextEquiv>
+	<Unicode>bring</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="980,473 995,473 995,482 980,482"/>
+	<TextEquiv>
+	<Unicode>us</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="1001,473 1008,473 1008,482 1001,482"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="1013,469 1067,469 1067,482 1013,482"/>
+	<TextEquiv>
+	<Unicode>Pulitzer</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="1072,469 1107,469 1107,482 1072,482"/>
+	<TextEquiv>
+	<Unicode>Prize</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="1113,469 1137,469 1137,482 1113,482"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="1143,473 1150,473 1150,482 1143,482"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>tigative opetaxion of any newspaper bureau, has helped bring us a Pulitzer Prize and a</Unicode></TextEquiv></TextLine>
+	<TextLine id="r89">
+	<Coords points="550,494 1150,494 1150,510 550,510"/>
+	<Word id="r90">
+	<Coords points="550,494 580,494 580,510 550,510"/>
+	<TextEquiv>
+	<Unicode>long</Unicode></TextEquiv></Word>
+	<Word id="r91">
+	<Coords points="584,494 604,494 604,506 584,506"/>
+	<TextEquiv>
+	<Unicode>lisr</Unicode></TextEquiv></Word>
+	<Word id="r92">
+	<Coords points="608,494 661,494 661,506 608,506"/>
+	<TextEquiv>
+	<Unicode>ufathcr</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="664,494 710,494 710,506 664,506"/>
+	<TextEquiv>
+	<Unicode>honors</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="714,501 723,501 723,503 714,503"/>
+	<TextEquiv>
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="r95">
+	<Coords points="726,494 755,494 755,508 726,508"/>
+	<TextEquiv>
+	<Unicode>nno,</Unicode></TextEquiv></Word>
+	<Word id="r96">
+	<Coords points="759,498 794,498 794,506 759,506"/>
+	<TextEquiv>
+	<Unicode>more</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="798,494 880,494 880,510 798,510"/>
+	<TextEquiv>
+	<Unicode>inzponanlly.</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="884,494 907,494 907,506 884,506"/>
+	<TextEquiv>
+	<Unicode>hns</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="911,494 964,494 964,506 911,506"/>
+	<TextEquiv>
+	<Unicode>ennhlen</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="968,498 982,498 982,506 968,506"/>
+	<TextEquiv>
+	<Unicode>us</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="986,496 999,496 999,506 986,506"/>
+	<TextEquiv>
+	<Unicode>10</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="1003,494 1053,494 1053,510 1003,510"/>
+	<TextEquiv>
+	<Unicode>publish</Unicode></TextEquiv></Word>
+	<Word id="r103">
+	<Coords points="1057,498 1073,498 1073,506 1057,506"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="1077,494 1150,494 1150,510 1077,510"/>
+	<TextEquiv>
+	<Unicode>impressive</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>long lisr ufathcr honors — nno, more inzponanlly. hns ennhlen us 10 publish an impressive</Unicode></TextEquiv></TextLine>
+	<TextLine id="r105">
+	<Coords points="549,518 733,518 733,534 549,534"/>
+	<Word id="r106">
+	<Coords points="549,518 584,518 584,531 549,531"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r107">
+	<Coords points="589,518 602,518 602,531 589,531"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r108">
+	<Coords points="607,518 627,518 627,531 607,531"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="632,518 674,518 674,534 632,534"/>
+	<TextEquiv>
+	<Unicode>public</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="679,518 733,518 733,531 679,531"/>
+	<TextEquiv>
+	<Unicode>interest.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>work in the public interest.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Debora.ll's leadership of use Washingmn Post resni, Lhc largcsl snrl mos! powerfIi1inves-
+tigative opetaxion of any newspaper bureau, has helped bring us a Pulitzer Prize and a
+long lisr ufathcr honors — nno, more inzponanlly. hns ennhlen us 10 publish an impressive
+work in the public interest.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r111" type="paragraph">
+	<Coords points="550,595 1150,595 1150,681 1080,681 1080,685 946,685 946,681 813,681 813,685 629,685 629,706 549,706 549,644 550,644"/>
+	<TextLine id="r112">
+	<Coords points="550,595 1150,595 1150,611 550,611"/>
+	<Word id="r113">
+	<Coords points="550,595 594,595 594,608 550,608"/>
+	<TextEquiv>
+	<Unicode>luioae</Unicode></TextEquiv></Word>
+	<Word id="r114">
+	<Coords points="599,595 641,595 641,608 599,608"/>
+	<TextEquiv>
+	<Unicode>Island</Unicode></TextEquiv></Word>
+	<Word id="r115">
+	<Coords points="645,595 668,595 668,608 645,608"/>
+	<TextEquiv>
+	<Unicode>has</Unicode></TextEquiv></Word>
+	<Word id="r116">
+	<Coords points="673,595 718,595 718,608 673,608"/>
+	<TextEquiv>
+	<Unicode>wooed</Unicode></TextEquiv></Word>
+	<Word id="r117">
+	<Coords points="723,595 745,595 745,608 723,608"/>
+	<TextEquiv>
+	<Unicode>her</Unicode></TextEquiv></Word>
+	<Word id="r118">
+	<Coords points="750,599 785,599 785,611 750,611"/>
+	<TextEquiv>
+	<Unicode>away</Unicode></TextEquiv></Word>
+	<Word id="r119">
+	<Coords points="790,595 820,595 820,608 790,608"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="825,599 833,599 833,608 825,608"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="836,595 859,595 859,611 836,611"/>
+	<TextEquiv>
+	<Unicode>job</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="864,595 890,595 890,608 864,608"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="894,595 953,595 953,608 894,608"/>
+	<TextEquiv>
+	<Unicode>Deborah</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="958,599 987,599 987,611 958,611"/>
+	<TextEquiv>
+	<Unicode>says</Unicode></TextEquiv></Word>
+	<Word id="r125">
+	<Coords points="992,595 1003,595 1003,608 992,608"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r126">
+	<Coords points="1008,595 1057,595 1057,611 1008,611"/>
+	<TextEquiv>
+	<Unicode>exactly</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="1062,595 1095,595 1095,608 1062,608"/>
+	<TextEquiv>
+	<Unicode>wl-lit</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="1100,595 1122,595 1122,608 1100,608"/>
+	<TextEquiv>
+	<Unicode>she</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="1127,595 1150,595 1150,608 1127,608"/>
+	<TextEquiv>
+	<Unicode>has</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>luioae Island has wooed her away with a job that Deborah says is exactly wl-lit she has</Unicode></TextEquiv></TextLine>
+	<TextLine id="r130">
+	<Coords points="550,620 1150,620 1150,636 550,636"/>
+	<Word id="r131">
+	<Coords points="550,620 596,620 596,636 550,636"/>
+	<TextEquiv>
+	<Unicode>always</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="602,620 651,620 651,632 602,632"/>
+	<TextEquiv>
+	<Unicode>women</Unicode></TextEquiv></Word>
+	<Word id="r133">
+	<Coords points="657,622 669,622 669,632 657,632"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r134">
+	<Coords points="675,620 695,620 695,632 675,632"/>
+	<TextEquiv>
+	<Unicode>do:</Unicode></TextEquiv></Word>
+	<Word id="r135">
+	<Coords points="704,620 744,620 744,632 704,632"/>
+	<TextEquiv>
+	<Unicode>Shall</Unicode></TextEquiv></Word>
+	<Word id="r136">
+	<Coords points="750,620 766,620 766,632 750,632"/>
+	<TextEquiv>
+	<Unicode>be</Unicode></TextEquiv></Word>
+	<Word id="r137">
+	<Coords points="771,620 829,620 829,636 771,636"/>
+	<TextEquiv>
+	<Unicode>ieaching</Unicode></TextEquiv></Word>
+	<Word id="r138">
+	<Coords points="834,620 920,620 920,636 834,636"/>
+	<TextEquiv>
+	<Unicode>investigative</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="925,620 988,620 988,636 925,636"/>
+	<TextEquiv>
+	<Unicode>reponirlg</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="994,622 1006,622 1006,632 994,632"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r141">
+	<Coords points="1011,624 1036,624 1036,632 1011,632"/>
+	<TextEquiv>
+	<Unicode>one</Unicode></TextEquiv></Word>
+	<Word id="r142">
+	<Coords points="1041,620 1056,620 1056,632 1041,632"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="1060,620 1081,620 1081,632 1060,632"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="1086,620 1150,620 1150,636 1086,636"/>
+	<TextEquiv>
+	<Unicode>counlry's</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>always women in do: Shall be ieaching investigative reponirlg at one of the counlry's</Unicode></TextEquiv></TextLine>
+	<TextLine id="r145">
+	<Coords points="549,644 1150,644 1150,660 549,660"/>
+	<Word id="r146">
+	<Coords points="549,644 577,644 577,657 549,657"/>
+	<TextEquiv>
+	<Unicode>best</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="580,644 655,644 655,660 580,660"/>
+	<TextEquiv>
+	<Unicode>joumalism</Unicode></TextEquiv></Word>
+	<Word id="r148">
+	<Coords points="660,644 711,644 711,657 660,657"/>
+	<TextEquiv>
+	<Unicode>schools</Unicode></TextEquiv></Word>
+	<Word id="r149">
+	<Coords points="716,644 741,644 741,657 716,657"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="746,644 813,644 813,660 746,660"/>
+	<TextEquiv>
+	<Unicode>launching</Unicode></TextEquiv></Word>
+	<Word id="r151">
+	<Coords points="818,648 826,648 826,657 818,657"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r152">
+	<Coords points="831,648 858,648 858,657 831,657"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="863,648 921,648 921,660 863,660"/>
+	<TextEquiv>
+	<Unicode>program</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="926,644 966,644 966,657 926,657"/>
+	<TextEquiv>
+	<Unicode>under</Unicode></TextEquiv></Word>
+	<Word id="r155">
+	<Coords points="970,645 990,645 990,657 970,657"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r156">
+	<Coords points="996,645 1070,645 1070,660 996,660"/>
+	<TextEquiv>
+	<Unicode>Annstrong</Unicode></TextEquiv></Word>
+	<Word id="r157">
+	<Coords points="1075,644 1150,644 1150,657 1075,657"/>
+	<TextEquiv>
+	<Unicode>Jollmalism</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>best joumalism schools and launching a new program under the Annstrong Jollmalism</Unicode></TextEquiv></TextLine>
+	<TextLine id="r158">
+	<Coords points="549,669 1150,669 1150,685 549,685"/>
+	<Word id="r159">
+	<Coords points="549,669 612,669 612,685 549,685"/>
+	<TextEquiv>
+	<Unicode>Pmgmm.</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="617,669 637,669 637,681 617,681"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="641,669 715,669 715,685 641,685"/>
+	<TextEquiv>
+	<Unicode>Armstrong</Unicode></TextEquiv></Word>
+	<Word id="r162">
+	<Coords points="719,669 813,669 813,685 719,685"/>
+	<TextEquiv>
+	<Unicode>Corporation's</Unicode></TextEquiv></Word>
+	<Word id="r163">
+	<Coords points="817,669 884,669 884,681 817,681"/>
+	<TextEquiv>
+	<Unicode>ambitious</Unicode></TextEquiv></Word>
+	<Word id="r164">
+	<Coords points="888,669 926,669 926,681 888,681"/>
+	<TextEquiv>
+	<Unicode>eﬁorl</Unicode></TextEquiv></Word>
+	<Word id="r165">
+	<Coords points="929,671 942,671 942,681 929,681"/>
+	<TextEquiv>
+	<Unicode>[cl</Unicode></TextEquiv></Word>
+	<Word id="r166">
+	<Coords points="946,669 1003,669 1003,685 946,685"/>
+	<TextEquiv>
+	<Unicode>improve</Unicode></TextEquiv></Word>
+	<Word id="r167">
+	<Coords points="1005,669 1080,669 1080,685 1005,685"/>
+	<TextEquiv>
+	<Unicode>journalism</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="1083,669 1150,669 1150,681 1083,681"/>
+	<TextEquiv>
+	<Unicode>educalion</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Pmgmm. the Armstrong Corporation's ambitious eﬁorl [cl improve journalism educalion</Unicode></TextEquiv></TextLine>
+	<TextLine id="r169">
+	<Coords points="549,693 629,693 629,706 549,706"/>
+	<Word id="r170">
+	<Coords points="549,693 629,693 629,706 549,706"/>
+	<TextEquiv>
+	<Unicode>nniionwide.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>nniionwide.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>luioae Island has wooed her away with a job that Deborah says is exactly wl-lit she has
+always women in do: Shall be ieaching investigative reponirlg at one of the counlry's
+best joumalism schools and launching a new program under the Annstrong Jollmalism
+Pmgmm. the Armstrong Corporation's ambitious eﬁorl [cl improve journalism educalion
+nniionwide.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r171" type="caption">
+	<Coords points="648,770 1098,770 1098,771 1150,771 1150,783 1098,783 1098,786 1018,786 1018,811 868,811 868,808 640,808 640,811 550,811 550,783 549,783 549,771 648,771"/>
+	<TextLine id="r172">
+	<Coords points="549,770 1150,770 1150,787 549,787"/>
+	<Word id="r173">
+	<Coords points="549,771 575,771 575,783 549,783"/>
+	<TextEquiv>
+	<Unicode>Her</Unicode></TextEquiv></Word>
+	<Word id="r174">
+	<Coords points="579,771 643,771 643,787 579,787"/>
+	<TextEquiv>
+	<Unicode>departure</Unicode></TextEquiv></Word>
+	<Word id="r175">
+	<Coords points="648,770 674,770 674,783 648,783"/>
+	<TextEquiv>
+	<Unicode>will</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="678,771 694,771 694,783 678,783"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r177">
+	<Coords points="698,771 736,771 736,783 698,783"/>
+	<TextEquiv>
+	<Unicode>aloss</Unicode></TextEquiv></Word>
+	<Word id="r178">
+	<Coords points="740,770 760,770 760,783 740,783"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r179">
+	<Coords points="764,774 782,774 782,785 764,785"/>
+	<TextEquiv>
+	<Unicode>us.</Unicode></TextEquiv></Word>
+	<Word id="r180">
+	<Coords points="787,770 809,770 809,783 787,783"/>
+	<TextEquiv>
+	<Unicode>but</Unicode></TextEquiv></Word>
+	<Word id="r181">
+	<Coords points="813,774 832,774 832,783 813,783"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="836,770 873,770 873,783 836,783"/>
+	<TextEquiv>
+	<Unicode>know</Unicode></TextEquiv></Word>
+	<Word id="r183">
+	<Coords points="878,770 887,770 887,783 878,783"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r184">
+	<Coords points="891,770 902,770 902,783 891,783"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="906,770 940,770 940,787 906,787"/>
+	<TextEquiv>
+	<Unicode>good</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="945,770 964,770 964,783 945,783"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="968,770 992,770 992,783 968,783"/>
+	<TextEquiv>
+	<Unicode>her.</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="998,771 1036,771 1036,783 998,783"/>
+	<TextEquiv>
+	<Unicode>We'll</Unicode></TextEquiv></Word>
+	<Word id="r189">
+	<Coords points="1040,770 1098,770 1098,786 1040,786"/>
+	<TextEquiv>
+	<Unicode>organize</Unicode></TextEquiv></Word>
+	<Word id="r190">
+	<Coords points="1103,771 1150,771 1150,783 1103,783"/>
+	<TextEquiv>
+	<Unicode>several</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Her departure will he aloss for us. but we know it is good for her. We'll organize several</Unicode></TextEquiv></TextLine>
+	<TextLine id="r191">
+	<Coords points="550,795 1018,795 1018,811 550,811"/>
+	<Word id="r192">
+	<Coords points="550,795 640,795 640,811 550,811"/>
+	<TextEquiv>
+	<Unicode>oppummities</Unicode></TextEquiv></Word>
+	<Word id="r193">
+	<Coords points="644,797 657,797 657,807 644,807"/>
+	<TextEquiv>
+	<Unicode>In</Unicode></TextEquiv></Word>
+	<Word id="r194">
+	<Coords points="662,795 684,795 684,807 662,807"/>
+	<TextEquiv>
+	<Unicode>hid</Unicode></TextEquiv></Word>
+	<Word id="r195">
+	<Coords points="688,795 758,795 758,808 688,808"/>
+	<TextEquiv>
+	<Unicode>Deborah's</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="763,795 818,795 818,808 763,808"/>
+	<TextEquiv>
+	<Unicode>farewell</Unicode></TextEquiv></Word>
+	<Word id="r197">
+	<Coords points="824,799 837,799 837,807 824,807"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="842,795 864,795 864,807 842,807"/>
+	<TextEquiv>
+	<Unicode>her</Unicode></TextEquiv></Word>
+	<Word id="r199">
+	<Coords points="868,795 933,795 933,811 868,811"/>
+	<TextEquiv>
+	<Unicode>oepsrrnre</Unicode></TextEquiv></Word>
+	<Word id="r200">
+	<Coords points="938,795 1018,795 1018,811 938,811"/>
+	<TextEquiv>
+	<Unicode>appmaches.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>oppummities In hid Deborah's farewell as her oepsrrnre appmaches.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Her departure will he aloss for us. but we know it is good for her. We'll organize several
+oppummities In hid Deborah's farewell as her oepsrrnre appmaches.</Unicode></TextEquiv></TextRegion></Page></PcGts>

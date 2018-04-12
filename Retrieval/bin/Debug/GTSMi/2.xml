@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-27T03:03:28</Created>
+	<LastChange>2015-02-27T03:03:28</LastChange></Metadata>
+	<Page imageFilename="doc2.jpg" imageWidth="1680" imageHeight="1050">
+	<ImageRegion id="r1">
+	<Coords points="1679,0 1679,1053 0,1053 0,0"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="550,126 700,126 700,175 744,175 744,188 717,188 717,212 695,212 695,237 616,237 616,239 549,239 549,150 550,150"/>
+	<TextLine id="r3">
+	<Coords points="550,126 700,126 700,142 550,142"/>
+	<Word id="r4">
+	<Coords points="550,126 605,126 605,138 550,138"/>
+	<TextEquiv>
+	<Unicode>Michele</Unicode></TextEquiv></Word>
+	<Word id="r5">
+	<Coords points="610,126 700,126 700,142 610,142"/>
+	<TextEquiv>
+	<Unicode>Bloolninglon</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Michele Bloolninglon</Unicode></TextEquiv></TextLine>
+	<TextLine id="r6">
+	<Coords points="549,150 674,150 674,163 549,163"/>
+	<Word id="r7">
+	<Coords points="549,150 613,150 613,163 549,163"/>
+	<TextEquiv>
+	<Unicode>Assistant</Unicode></TextEquiv></Word>
+	<Word id="r8">
+	<Coords points="617,150 674,150 674,163 617,163"/>
+	<TextEquiv>
+	<Unicode>Direcwr</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Assistant Direcwr</Unicode></TextEquiv></TextLine>
+	<TextLine id="r9">
+	<Coords points="550,175 744,175 744,191 550,191"/>
+	<Word id="r10">
+	<Coords points="550,175 626,175 626,191 550,191"/>
+	<TextEquiv>
+	<Unicode>orlliopedie</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="631,175 694,175 694,187 631,187"/>
+	<TextEquiv>
+	<Unicode>Resenrcli</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="698,175 744,175 744,188 698,188"/>
+	<TextEquiv>
+	<Unicode>Cznlzt</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>orlliopedie Resenrcli Cznlzt</Unicode></TextEquiv></TextLine>
+	<TextLine id="r13">
+	<Coords points="549,199 717,199 717,216 549,216"/>
+	<Word id="r14">
+	<Coords points="549,199 621,199 621,216 549,216"/>
+	<TextEquiv>
+	<Unicode>University</Unicode></TextEquiv></Word>
+	<Word id="r15">
+	<Coords points="626,199 641,199 641,212 626,212"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="644,199 717,199 717,212 644,212"/>
+	<TextEquiv>
+	<Unicode>Minnesota</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>University of Minnesota</Unicode></TextEquiv></TextLine>
+	<TextLine id="r17">
+	<Coords points="549,224 695,224 695,239 549,239"/>
+	<Word id="r18">
+	<Coords points="549,224 616,224 616,239 549,239"/>
+	<TextEquiv>
+	<Unicode>Fainnullt,</Unicode></TextEquiv></Word>
+	<Word id="r19">
+	<Coords points="621,224 648,224 648,236 621,236"/>
+	<TextEquiv>
+	<Unicode>MN</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="653,224 695,224 695,237 653,237"/>
+	<TextEquiv>
+	<Unicode>91140</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Fainnullt, MN 91140</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Michele Bloolninglon
+Assistant Direcwr
+orlliopedie Resenrcli Cznlzt
+University of Minnesota
+Fainnullt, MN 91140</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="549,280 746,280 746,293 715,293 715,321 705,321 705,342 550,342 550,293 549,293"/>
+	<TextLine id="r22">
+	<Coords points="549,280 746,280 746,293 549,293"/>
+	<Word id="r23">
+	<Coords points="549,280 573,280 573,293 549,293"/>
+	<TextEquiv>
+	<Unicode>Mr.</Unicode></TextEquiv></Word>
+	<Word id="r24">
+	<Coords points="579,280 604,280 604,293 579,293"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r25">
+	<Coords points="608,280 639,280 639,293 608,293"/>
+	<TextEquiv>
+	<Unicode>Mrs.</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="646,280 703,280 703,293 646,293"/>
+	<TextEquiv>
+	<Unicode>Kennem</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="708,280 746,280 746,293 708,293"/>
+	<TextEquiv>
+	<Unicode>Clark</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Mr. and Mrs. Kennem Clark</Unicode></TextEquiv></TextLine>
+	<TextLine id="r28">
+	<Coords points="550,305 715,305 715,321 550,321"/>
+	<Word id="r29">
+	<Coords points="550,305 596,305 596,317 550,317"/>
+	<TextEquiv>
+	<Unicode>snnnrn</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="600,305 667,305 667,317 600,317"/>
+	<TextEquiv>
+	<Unicode>Meunlnin</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="671,305 715,305 715,321 671,321"/>
+	<TextEquiv>
+	<Unicode>Ledge</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>snnnrn Meunlnin Ledge</Unicode></TextEquiv></TextLine>
+	<TextLine id="r32">
+	<Coords points="550,329 705,329 705,342 550,342"/>
+	<Word id="r33">
+	<Coords points="550,329 583,329 583,342 550,342"/>
+	<TextEquiv>
+	<Unicode>State</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="588,329 633,329 633,342 588,342"/>
+	<TextEquiv>
+	<Unicode>Health</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="638,329 705,329 705,342 638,342"/>
+	<TextEquiv>
+	<Unicode>Illsumnoe</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>State Health Illsumnoe</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Mr. and Mrs. Kennem Clark
+snnnrn Meunlnin Ledge
+State Health Illsumnoe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="550,354 742,354 742,366 627,366 627,368 573,368 573,366 550,366"/>
+	<TextLine id="r37">
+	<Coords points="550,354 742,354 742,368 550,368"/>
+	<Word id="r38">
+	<Coords points="550,354 567,354 567,366 550,366"/>
+	<TextEquiv>
+	<Unicode>Ft.</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="573,354 627,354 627,368 573,368"/>
+	<TextEquiv>
+	<Unicode>cellins,</Unicode></TextEquiv></Word>
+	<Word id="r40">
+	<Coords points="632,354 695,354 695,366 632,366"/>
+	<TextEquiv>
+	<Unicode>cnlnrndn</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="700,354 742,354 742,366 700,366"/>
+	<TextEquiv>
+	<Unicode>04155</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Ft. cellins, cnlnrndn 04155</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Ft. cellins, cnlnrndn 04155</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="549,410 693,410 693,424 649,424 649,422 549,422"/>
+	<TextLine id="r43">
+	<Coords points="549,410 693,410 693,424 549,424"/>
+	<Word id="r44">
+	<Coords points="549,410 583,410 583,422 549,422"/>
+	<TextEquiv>
+	<Unicode>Dear</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="587,410 615,410 615,422 587,422"/>
+	<TextEquiv>
+	<Unicode>Ken</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="620,410 644,410 644,422 620,422"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="649,410 693,410 693,424 649,424"/>
+	<TextEquiv>
+	<Unicode>Dianne</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Dear Ken and Dianne</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Dear Ken and Dianne</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="549,466 1150,466 1150,515 1151,515 1151,528 1150,528 1150,601 1027,601 1027,605 956,605 956,629 643,629 643,626 549,626"/>
+	<TextLine id="r49">
+	<Coords points="549,466 1150,466 1150,482 549,482"/>
+	<Word id="r50">
+	<Coords points="549,466 555,466 555,478 549,478"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r51">
+	<Coords points="560,470 580,470 580,478 560,478"/>
+	<TextEquiv>
+	<Unicode>am</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="585,466 634,466 634,482 585,482"/>
+	<TextEquiv>
+	<Unicode>writing</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="639,468 652,468 652,478 639,478"/>
+	<TextEquiv>
+	<Unicode>In</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="656,466 695,466 695,478 656,478"/>
+	<TextEquiv>
+	<Unicode>unsnlr</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="699,470 724,470 724,482 699,482"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="729,466 749,466 749,478 729,478"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="753,470 785,470 785,482 753,482"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r58">
+	<Coords points="789,466 851,466 851,479 789,479"/>
+	<TextEquiv>
+	<Unicode>excellent</Unicode></TextEquiv></Word>
+	<Word id="r59">
+	<Coords points="855,466 884,466 884,482 855,482"/>
+	<TextEquiv>
+	<Unicode>help</Unicode></TextEquiv></Word>
+	<Word id="r60">
+	<Coords points="889,466 902,466 902,478 889,478"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r61">
+	<Coords points="907,466 979,466 979,482 907,482"/>
+	<TextEquiv>
+	<Unicode>organizing</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="984,466 1100,466 1100,479 984,479"/>
+	<TextEquiv>
+	<Unicode>accommodations</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="1105,466 1125,466 1125,478 1105,478"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="1129,466 1150,466 1150,478 1129,478"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>1 am writing In unsnlr you for your excellent help in organizing accommodations for the</Unicode></TextEquiv></TextLine>
+	<TextLine id="r65">
+	<Coords points="550,491 1150,491 1150,507 550,507"/>
+	<Word id="r66">
+	<Coords points="550,491 621,491 621,507 550,507"/>
+	<TextEquiv>
+	<Unicode>Davcllpon</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="626,491 707,491 707,507 626,507"/>
+	<TextEquiv>
+	<Unicode>Symposium</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="711,494 751,494 751,507 711,507"/>
+	<TextEquiv>
+	<Unicode>group</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="755,491 788,491 788,503 755,503"/>
+	<TextEquiv>
+	<Unicode>rrorn</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="793,491 848,491 848,503 793,503"/>
+	<TextEquiv>
+	<Unicode>ocrober</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="852,491 869,491 869,503 852,503"/>
+	<TextEquiv>
+	<Unicode>30</Unicode></TextEquiv></Word>
+	<Word id="r72">
+	<Coords points="873,493 886,493 886,503 873,503"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="890,491 962,491 962,503 890,503"/>
+	<TextEquiv>
+	<Unicode>November</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="966,491 974,491 974,503 966,503"/>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="979,491 1003,491 1003,503 979,503"/>
+	<TextEquiv>
+	<Unicode>end</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="1007,493 1020,493 1020,503 1007,503"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="1025,491 1042,491 1042,503 1025,503"/>
+	<TextEquiv>
+	<Unicode>lel.</Unicode></TextEquiv></Word>
+	<Word id="r78">
+	<Coords points="1046,494 1071,494 1071,507 1046,507"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r79">
+	<Coords points="1075,491 1112,491 1112,503 1075,503"/>
+	<TextEquiv>
+	<Unicode>klmw</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="1117,491 1150,491 1150,503 1117,503"/>
+	<TextEquiv>
+	<Unicode>what</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Davcllpon Symposium group rrorn ocrober 30 to November 7 end to lel. you klmw what</Unicode></TextEquiv></TextLine>
+	<TextLine id="r81">
+	<Coords points="550,515 1151,515 1151,531 550,531"/>
+	<Word id="r82">
+	<Coords points="550,519 557,519 557,528 550,528"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="559,515 582,515 582,531 559,531"/>
+	<TextEquiv>
+	<Unicode>joy</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="586,515 596,515 596,528 586,528"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="600,519 626,519 626,528 600,528"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="630,517 643,517 643,528 630,528"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="648,515 687,515 687,531 648,531"/>
+	<TextEquiv>
+	<Unicode>spend</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="691,515 721,515 721,528 691,528"/>
+	<TextEquiv>
+	<Unicode>time</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="726,517 738,517 738,528 726,528"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r90">
+	<Coords points="742,519 773,519 773,531 742,531"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r91">
+	<Coords points="777,519 839,519 839,531 777,531"/>
+	<TextEquiv>
+	<Unicode>gorgeous</Unicode></TextEquiv></Word>
+	<Word id="r92">
+	<Coords points="843,515 885,515 885,531 843,531"/>
+	<TextEquiv>
+	<Unicode>ledge.</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="891,515 901,515 901,528 891,528"/>
+	<TextEquiv>
+	<Unicode>It</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="905,519 931,519 931,528 905,528"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r95">
+	<Coords points="936,519 943,519 943,528 936,528"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r96">
+	<Coords points="947,515 1007,515 1007,531 947,531"/>
+	<TextEquiv>
+	<Unicode>privilege</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="1011,517 1024,517 1024,528 1011,528"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="1028,515 1064,515 1064,528 1028,528"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="1067,515 1097,515 1097,528 1067,528"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="1101,515 1132,515 1132,528 1101,528"/>
+	<TextEquiv>
+	<Unicode>both</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="1136,515 1151,515 1151,528 1136,528"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>a joy it was to spend time at your gorgeous ledge. It was a privilege to work with both of</Unicode></TextEquiv></TextLine>
+	<TextLine id="r102">
+	<Coords points="549,540 1150,540 1150,556 549,556"/>
+	<Word id="r103">
+	<Coords points="549,543 575,543 575,556 549,556"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="580,540 604,540 604,552 580,552"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="609,540 649,540 649,556 609,556"/>
+	<TextEquiv>
+	<Unicode>yml'Il</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="654,543 692,543 692,552 654,552"/>
+	<TextEquiv>
+	<Unicode>never</Unicode></TextEquiv></Word>
+	<Word id="r107">
+	<Coords points="696,540 733,540 733,552 696,552"/>
+	<TextEquiv>
+	<Unicode>know</Unicode></TextEquiv></Word>
+	<Word id="r108">
+	<Coords points="738,540 767,540 767,552 738,552"/>
+	<TextEquiv>
+	<Unicode>how</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="772,540 810,540 810,552 772,552"/>
+	<TextEquiv>
+	<Unicode>much</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="814,543 834,543 834,552 814,552"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r111">
+	<Coords points="839,540 918,540 918,556 839,556"/>
+	<TextEquiv>
+	<Unicode>appreciated</Unicode></TextEquiv></Word>
+	<Word id="r112">
+	<Coords points="922,543 954,543 954,556 922,556"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r113">
+	<Coords points="958,543 1001,543 1001,554 958,554"/>
+	<TextEquiv>
+	<Unicode>warm,</Unicode></TextEquiv></Word>
+	<Word id="r114">
+	<Coords points="1006,543 1067,543 1067,556 1006,556"/>
+	<TextEquiv>
+	<Unicode>genemlls</Unicode></TextEquiv></Word>
+	<Word id="r115">
+	<Coords points="1073,540 1097,540 1097,552 1073,552"/>
+	<TextEquiv>
+	<Unicode>nnd</Unicode></TextEquiv></Word>
+	<Word id="r116">
+	<Coords points="1102,540 1150,540 1150,552 1102,552"/>
+	<TextEquiv>
+	<Unicode>sinoere</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>you and yml'Il never know how much we appreciated your warm, genemlls nnd sinoere</Unicode></TextEquiv></TextLine>
+	<TextLine id="r117">
+	<Coords points="549,564 1150,564 1150,580 549,580"/>
+	<Word id="r118">
+	<Coords points="549,564 624,564 624,580 549,580"/>
+	<TextEquiv>
+	<Unicode>hospitality.</Unicode></TextEquiv></Word>
+	<Word id="r119">
+	<Coords points="631,564 658,564 658,577 631,577"/>
+	<TextEquiv>
+	<Unicode>You</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="662,564 694,564 694,577 662,577"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="698,568 714,568 714,577 698,577"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="719,564 776,564 776,580 719,580"/>
+	<TextEquiv>
+	<Unicode>amazing</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="781,568 809,568 809,580 781,580"/>
+	<TextEquiv>
+	<Unicode>way</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="813,566 826,566 826,577 813,577"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r125">
+	<Coords points="831,564 867,564 867,577 831,577"/>
+	<TextEquiv>
+	<Unicode>make</Unicode></TextEquiv></Word>
+	<Word id="r126">
+	<Coords points="872,564 930,564 930,577 872,577"/>
+	<TextEquiv>
+	<Unicode>uevelers</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="935,564 960,564 960,577 935,577"/>
+	<TextEquiv>
+	<Unicode>feel</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="965,564 990,564 990,577 965,577"/>
+	<TextEquiv>
+	<Unicode>like</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="994,564 1023,564 1023,580 994,580"/>
+	<TextEquiv>
+	<Unicode>uiey</Unicode></TextEquiv></Word>
+	<Word id="r130">
+	<Coords points="1028,568 1048,568 1048,577 1028,577"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r131">
+	<Coords points="1053,566 1065,566 1065,577 1053,577"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="1069,564 1111,564 1111,577 1069,577"/>
+	<TextEquiv>
+	<Unicode>home.</Unicode></TextEquiv></Word>
+	<Word id="r133">
+	<Coords points="1117,564 1150,564 1150,577 1117,577"/>
+	<TextEquiv>
+	<Unicode>Your</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>hospitality. You have an amazing way to make uevelers feel like uiey are at home. Your</Unicode></TextEquiv></TextLine>
+	<TextLine id="r134">
+	<Coords points="550,589 1150,589 1150,605 550,605"/>
+	<Word id="r135">
+	<Coords points="550,589 609,589 609,601 550,601"/>
+	<TextEquiv>
+	<Unicode>sueniinn</Unicode></TextEquiv></Word>
+	<Word id="r136">
+	<Coords points="615,591 628,591 628,601 615,601"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r137">
+	<Coords points="634,589 679,589 679,601 634,601"/>
+	<TextEquiv>
+	<Unicode>dersils</Unicode></TextEquiv></Word>
+	<Word id="r138">
+	<Coords points="685,589 722,589 722,601 685,601"/>
+	<TextEquiv>
+	<Unicode>rnsde</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="728,593 751,593 751,601 728,601"/>
+	<TextEquiv>
+	<Unicode>our</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="757,591 793,591 793,601 757,601"/>
+	<TextEquiv>
+	<Unicode>evenr</Unicode></TextEquiv></Word>
+	<Word id="r141">
+	<Coords points="799,593 834,593 834,601 799,601"/>
+	<TextEquiv>
+	<Unicode>rnore</Unicode></TextEquiv></Word>
+	<Word id="r142">
+	<Coords points="840,589 887,589 887,605 840,605"/>
+	<TextEquiv>
+	<Unicode>special</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="894,589 923,589 923,601 894,601"/>
+	<TextEquiv>
+	<Unicode>Lhnn</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="929,589 934,589 934,601 929,601"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="940,593 969,593 969,601 940,601"/>
+	<TextEquiv>
+	<Unicode>ever</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="975,589 1027,589 1027,605 975,605"/>
+	<TextEquiv>
+	<Unicode>ilrougllr</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="1033,589 1043,589 1043,601 1033,601"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r148">
+	<Coords points="1048,589 1086,589 1086,601 1048,601"/>
+	<TextEquiv>
+	<Unicode>could</Unicode></TextEquiv></Word>
+	<Word id="r149">
+	<Coords points="1092,589 1112,589 1112,601 1092,601"/>
+	<TextEquiv>
+	<Unicode>be.</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="1123,589 1150,589 1150,601 1123,601"/>
+	<TextEquiv>
+	<Unicode>You</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>sueniinn to dersils rnsde our evenr rnore special Lhnn I ever ilrougllr it could be. You</Unicode></TextEquiv></TextLine>
+	<TextLine id="r151">
+	<Coords points="549,613 956,613 956,629 549,629"/>
+	<Word id="r152">
+	<Coords points="549,613 590,613 590,626 549,626"/>
+	<TextEquiv>
+	<Unicode>didn't</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="595,613 625,613 625,626 595,626"/>
+	<TextEquiv>
+	<Unicode>miss</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="631,617 638,617 638,626 631,626"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r155">
+	<Coords points="643,613 683,613 683,629 643,629"/>
+	<TextEquiv>
+	<Unicode>single</Unicode></TextEquiv></Word>
+	<Word id="r156">
+	<Coords points="688,613 725,613 725,626 688,626"/>
+	<TextEquiv>
+	<Unicode>detail</Unicode></TextEquiv></Word>
+	<Word id="r157">
+	<Coords points="730,613 755,613 755,626 730,626"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r158">
+	<Coords points="759,613 780,613 780,626 759,626"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r159">
+	<Coords points="784,613 833,613 833,629 784,629"/>
+	<TextEquiv>
+	<Unicode>pricing</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="838,617 864,617 864,626 838,626"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="868,613 956,613 956,629 868,629"/>
+	<TextEquiv>
+	<Unicode>plienornennl.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>didn't miss a single detail and the pricing was plienornennl.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>1 am writing In unsnlr you for your excellent help in organizing accommodations for the
+Davcllpon Symposium group rrorn ocrober 30 to November 7 end to lel. you klmw what
+a joy it was to spend time at your gorgeous ledge. It was a privilege to work with both of
+you and yml'Il never know how much we appreciated your warm, genemlls nnd sinoere
+hospitality. You have an amazing way to make uevelers feel like uiey are at home. Your
+sueniinn to dersils rnsde our evenr rnore special Lhnn I ever ilrougllr it could be. You
+didn't miss a single detail and the pricing was plienornennl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r162" type="paragraph">
+	<Coords points="549,690 1149,690 1149,715 1150,715 1150,780 1054,780 1054,801 1017,801 1017,805 744,805 744,801 549,801"/>
+	<TextLine id="r163">
+	<Coords points="549,690 1149,690 1149,706 549,706"/>
+	<Word id="r164">
+	<Coords points="549,690 576,690 576,703 549,703"/>
+	<TextEquiv>
+	<Unicode>Tire</Unicode></TextEquiv></Word>
+	<Word id="r165">
+	<Coords points="580,690 614,690 614,703 580,703"/>
+	<TextEquiv>
+	<Unicode>folks</Unicode></TextEquiv></Word>
+	<Word id="r166">
+	<Coords points="619,690 632,690 632,703 619,703"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r167">
+	<Coords points="637,694 659,694 659,706 637,706"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="664,690 741,690 741,706 664,706"/>
+	<TextEquiv>
+	<Unicode>department</Unicode></TextEquiv></Word>
+	<Word id="r169">
+	<Coords points="746,694 766,694 766,703 746,703"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r170">
+	<Coords points="771,692 793,692 793,703 771,703"/>
+	<TextEquiv>
+	<Unicode>nut</Unicode></TextEquiv></Word>
+	<Word id="r171">
+	<Coords points="797,690 837,690 837,706 797,706"/>
+	<TextEquiv>
+	<Unicode>easily</Unicode></TextEquiv></Word>
+	<Word id="r172">
+	<Coords points="842,690 915,690 915,706 842,706"/>
+	<TextEquiv>
+	<Unicode>impressed.</Unicode></TextEquiv></Word>
+	<Word id="r173">
+	<Coords points="921,690 956,690 956,706 921,706"/>
+	<TextEquiv>
+	<Unicode>Tlrey</Unicode></TextEquiv></Word>
+	<Word id="r174">
+	<Coords points="961,694 982,694 982,703 961,703"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r175">
+	<Coords points="986,694 1016,694 1016,706 986,706"/>
+	<TextEquiv>
+	<Unicode>very</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="1021,690 1083,690 1083,703 1021,703"/>
+	<TextEquiv>
+	<Unicode>seasoned</Unicode></TextEquiv></Word>
+	<Word id="r177">
+	<Coords points="1088,690 1149,690 1149,705 1088,705"/>
+	<TextEquiv>
+	<Unicode>crevelers,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Tire folks in my department are nut easily impressed. Tlrey are very seasoned crevelers,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r178">
+	<Coords points="549,715 1150,715 1150,731 549,731"/>
+	<Word id="r179">
+	<Coords points="549,715 571,715 571,727 549,727"/>
+	<TextEquiv>
+	<Unicode>but</Unicode></TextEquiv></Word>
+	<Word id="r180">
+	<Coords points="576,715 605,715 605,731 576,731"/>
+	<TextEquiv>
+	<Unicode>lhcy</Unicode></TextEquiv></Word>
+	<Word id="r181">
+	<Coords points="610,719 643,719 643,727 610,727"/>
+	<TextEquiv>
+	<Unicode>were</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="648,715 691,715 691,731 648,731"/>
+	<TextEquiv>
+	<Unicode>lriglrly</Unicode></TextEquiv></Word>
+	<Word id="r183">
+	<Coords points="696,715 766,715 766,731 696,731"/>
+	<TextEquiv>
+	<Unicode>irnprcsscd</Unicode></TextEquiv></Word>
+	<Word id="r184">
+	<Coords points="771,715 801,715 801,727 771,727"/>
+	<TextEquiv>
+	<Unicode>wim</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="806,719 843,719 843,731 806,731"/>
+	<TextEquiv>
+	<Unicode>every</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="848,717 891,717 891,731 848,731"/>
+	<TextEquiv>
+	<Unicode>nspeer</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="896,715 911,715 911,727 896,727"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="915,715 935,715 935,727 915,727"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r189">
+	<Coords points="940,715 982,715 982,731 940,731"/>
+	<TextEquiv>
+	<Unicode>lodge;</Unicode></TextEquiv></Word>
+	<Word id="r190">
+	<Coords points="988,715 1009,715 1009,727 988,727"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r191">
+	<Coords points="1014,715 1092,715 1092,731 1014,731"/>
+	<TextEquiv>
+	<Unicode>cxzeptional</Unicode></TextEquiv></Word>
+	<Word id="r192">
+	<Coords points="1098,715 1150,715 1150,729 1098,729"/>
+	<TextEquiv>
+	<Unicode>servioe.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>but lhcy were lriglrly irnprcsscd wim every nspeer of the lodge; are cxzeptional servioe.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r193">
+	<Coords points="549,739 1150,739 1150,755 549,755"/>
+	<Word id="r194">
+	<Coords points="549,739 570,739 570,752 549,752"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r195">
+	<Coords points="577,739 647,739 647,752 577,752"/>
+	<TextEquiv>
+	<Unicode>wonderful</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="653,739 684,739 684,752 653,752"/>
+	<TextEquiv>
+	<Unicode>{nod</Unicode></TextEquiv></Word>
+	<Word id="r197">
+	<Coords points="691,740 719,740 719,754 691,754"/>
+	<TextEquiv>
+	<Unicode>and.</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="727,739 742,739 742,752 727,752"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r199">
+	<Coords points="747,743 796,743 796,754 747,754"/>
+	<TextEquiv>
+	<Unicode>course,</Unicode></TextEquiv></Word>
+	<Word id="r200">
+	<Coords points="803,739 850,739 850,755 803,755"/>
+	<TextEquiv>
+	<Unicode>Rocky.</Unicode></TextEquiv></Word>
+	<Word id="r201">
+	<Coords points="858,739 878,739 878,752 858,752"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="r202">
+	<Coords points="885,739 925,739 925,752 885,752"/>
+	<TextEquiv>
+	<Unicode>social</Unicode></TextEquiv></Word>
+	<Word id="r203">
+	<Coords points="931,740 989,740 989,752 931,752"/>
+	<TextEquiv>
+	<Unicode>direcrorl</Unicode></TextEquiv></Word>
+	<Word id="r204">
+	<Coords points="1001,739 1028,739 1028,752 1001,752"/>
+	<TextEquiv>
+	<Unicode>Tire</Unicode></TextEquiv></Word>
+	<Word id="r205">
+	<Coords points="1034,739 1059,739 1059,752 1034,752"/>
+	<TextEquiv>
+	<Unicode>end</Unicode></TextEquiv></Word>
+	<Word id="r206">
+	<Coords points="1065,739 1104,739 1104,752 1065,752"/>
+	<TextEquiv>
+	<Unicode>result</Unicode></TextEquiv></Word>
+	<Word id="r207">
+	<Coords points="1110,743 1136,743 1136,752 1110,752"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r208">
+	<Coords points="1143,743 1150,743 1150,752 1143,752"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>the wonderful {nod and. of course, Rocky. die social direcrorl Tire end result was a</Unicode></TextEquiv></TextLine>
+	<TextLine id="r209">
+	<Coords points="550,764 1150,764 1150,780 550,780"/>
+	<Word id="r210">
+	<Coords points="550,764 642,764 642,780 550,780"/>
+	<TextEquiv>
+	<Unicode>srnoerlrly.run</Unicode></TextEquiv></Word>
+	<Word id="r211">
+	<Coords points="646,766 686,766 686,776 646,776"/>
+	<TextEquiv>
+	<Unicode>eveni.</Unicode></TextEquiv></Word>
+	<Word id="r212">
+	<Coords points="692,764 718,764 718,776 692,776"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r213">
+	<Coords points="722,764 802,764 802,780 722,780"/>
+	<TextEquiv>
+	<Unicode>psriieipsnur</Unicode></TextEquiv></Word>
+	<Word id="r214">
+	<Coords points="807,764 838,764 838,776 807,776"/>
+	<TextEquiv>
+	<Unicode>lrsve</Unicode></TextEquiv></Word>
+	<Word id="r215">
+	<Coords points="842,764 896,764 896,776 842,776"/>
+	<TextEquiv>
+	<Unicode>«linnlred</Unicode></TextEquiv></Word>
+	<Word id="r216">
+	<Coords points="901,768 921,768 921,776 901,776"/>
+	<TextEquiv>
+	<Unicode>rne</Unicode></TextEquiv></Word>
+	<Word id="r217">
+	<Coords points="925,764 989,764 989,776 925,776"/>
+	<TextEquiv>
+	<Unicode>oouniless</Unicode></TextEquiv></Word>
+	<Word id="r218">
+	<Coords points="993,764 1030,764 1030,776 993,776"/>
+	<TextEquiv>
+	<Unicode>u'rnes</Unicode></TextEquiv></Word>
+	<Word id="r219">
+	<Coords points="1034,764 1079,764 1079,776 1034,776"/>
+	<TextEquiv>
+	<Unicode>rnrme</Unicode></TextEquiv></Word>
+	<Word id="r220">
+	<Coords points="1083,764 1150,764 1150,780 1083,780"/>
+	<TextEquiv>
+	<Unicode>eﬁiciency</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>srnoerlrly.run eveni. The psriieipsnur lrsve «linnlred rne oouniless u'rnes rnrme eﬁiciency</Unicode></TextEquiv></TextLine>
+	<TextLine id="r221">
+	<Coords points="549,788 1054,788 1054,805 549,805"/>
+	<Word id="r222">
+	<Coords points="549,788 565,788 565,801 549,801"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r223">
+	<Coords points="568,789 589,789 589,801 568,801"/>
+	<TextEquiv>
+	<Unicode>ilre</Unicode></TextEquiv></Word>
+	<Word id="r224">
+	<Coords points="593,791 633,791 633,801 593,801"/>
+	<TextEquiv>
+	<Unicode>event.</Unicode></TextEquiv></Word>
+	<Word id="r225">
+	<Coords points="639,789 645,789 645,801 639,801"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r226">
+	<Coords points="650,789 692,789 692,801 650,801"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r227">
+	<Coords points="697,789 722,789 722,801 697,801"/>
+	<TextEquiv>
+	<Unicode>like</Unicode></TextEquiv></Word>
+	<Word id="r228">
+	<Coords points="727,791 740,791 740,801 727,801"/>
+	<TextEquiv>
+	<Unicode>(0</Unicode></TextEquiv></Word>
+	<Word id="r229">
+	<Coords points="744,792 773,792 773,805 744,805"/>
+	<TextEquiv>
+	<Unicode>pass</Unicode></TextEquiv></Word>
+	<Word id="r230">
+	<Coords points="778,792 795,792 795,801 778,801"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r231">
+	<Coords points="800,789 831,789 831,801 800,801"/>
+	<TextEquiv>
+	<Unicode>rlreir</Unicode></TextEquiv></Word>
+	<Word id="r232">
+	<Coords points="836,789 920,789 920,805 836,805"/>
+	<TextEquiv>
+	<Unicode>appreeinrion</Unicode></TextEquiv></Word>
+	<Word id="r233">
+	<Coords points="925,792 938,792 938,801 925,801"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r234">
+	<Coords points="944,789 972,789 972,801 944,801"/>
+	<TextEquiv>
+	<Unicode>wen</Unicode></TextEquiv></Word>
+	<Word id="r235">
+	<Coords points="977,792 991,792 991,801 977,801"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r236">
+	<Coords points="996,792 1017,792 1017,805 996,805"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r237">
+	<Coords points="1022,792 1054,792 1054,801 1022,801"/>
+	<TextEquiv>
+	<Unicode>own.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>of ilre event. 1 would like (0 pass on rlreir appreeinrion as wen as my own.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Tire folks in my department are nut easily impressed. Tlrey are very seasoned crevelers,
+but lhcy were lriglrly irnprcsscd wim every nspeer of the lodge; are cxzeptional servioe.
+the wonderful {nod and. of course, Rocky. die social direcrorl Tire end result was a
+srnoerlrly.run eveni. The psriieipsnur lrsve «linnlred rne oouniless u'rnes rnrme eﬁiciency
+of ilre event. 1 would like (0 pass on rlreir appreeinrion as wen as my own.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r238" type="caption">
+	<Coords points="591,865 656,865 656,866 785,866 785,882 591,882 591,878 549,878 549,866 591,866"/>
+	<TextLine id="r239">
+	<Coords points="549,865 785,865 785,882 549,882"/>
+	<Word id="r240">
+	<Coords points="549,866 586,866 586,878 549,878"/>
+	<TextEquiv>
+	<Unicode>we'll</Unicode></TextEquiv></Word>
+	<Word id="r241">
+	<Coords points="591,865 656,865 656,882 591,882"/>
+	<TextEquiv>
+	<Unicode>deﬁnitely</Unicode></TextEquiv></Word>
+	<Word id="r242">
+	<Coords points="660,866 676,866 676,878 660,878"/>
+	<TextEquiv>
+	<Unicode>be</Unicode></TextEquiv></Word>
+	<Word id="r243">
+	<Coords points="681,866 714,866 714,878 681,878"/>
+	<TextEquiv>
+	<Unicode>back</Unicode></TextEquiv></Word>
+	<Word id="r244">
+	<Coords points="718,868 747,868 747,878 718,878"/>
+	<TextEquiv>
+	<Unicode>next</Unicode></TextEquiv></Word>
+	<Word id="r245">
+	<Coords points="752,866 785,866 785,882 752,882"/>
+	<TextEquiv>
+	<Unicode>year!</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>we'll deﬁnitely be back next year!</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>we'll deﬁnitely be back next year!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r246" type="paragraph">
+	<Coords points="550,925 617,925 617,950 699,950 699,966 610,966 610,962 549,962 549,950 550,950"/>
+	<TextLine id="r247">
+	<Coords points="550,925 617,925 617,941 550,941"/>
+	<Word id="r248">
+	<Coords points="550,925 617,925 617,941 550,941"/>
+	<TextEquiv>
+	<Unicode>sincerely.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>sincerely.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r249">
+	<Coords points="549,950 699,950 699,966 549,966"/>
+	<Word id="r250">
+	<Coords points="549,950 605,950 605,962 549,962"/>
+	<TextEquiv>
+	<Unicode>Michele</Unicode></TextEquiv></Word>
+	<Word id="r251">
+	<Coords points="610,950 699,950 699,966 610,966"/>
+	<TextEquiv>
+	<Unicode>Blamninglon</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Michele Blamninglon</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>sincerely.
+Michele Blamninglon</Unicode></TextEquiv></TextRegion></Page></PcGts>

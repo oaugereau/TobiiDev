@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-12T11:07:22</Created>
+	<LastChange>2015-03-02T05:02:30</LastChange></Metadata>
+	<Page imageFilename="1 the_picture_of_dorian_gray.png" imageWidth="1555" imageHeight="918">
+	<Border>
+	<Coords points="0,0 1554,0 1554,917 0,917"/></Border>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="905,4 905,57 640,57 640,4"/>
+	<TextLine id="r8">
+	<Coords points="640,4 905,4 905,28 640,28"/>
+	<Word id="r43">
+	<Coords points="640,4 676,4 676,23 640,23"/>
+	<TextEquiv>
+	<Unicode>All</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="684,5 719,5 719,23 684,23"/>
+	<TextEquiv>
+	<Unicode>art</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="726,4 744,4 744,23 726,23"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="752,4 812,4 812,28 752,28"/>
+	<TextEquiv>
+	<Unicode>quite</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="820,4 905,4 905,23 820,23"/>
+	<TextEquiv>
+	<Unicode>useless.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>All art is quite useless.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r9">
+	<Coords points="674,39 873,39 873,57 674,57"/>
+	<Word id="r49">
+	<Coords points="674,39 770,39 770,57 674,57"/>
+	<TextEquiv>
+	<Unicode>OSCAR</Unicode></TextEquiv></Word>
+	<Word id="r50">
+	<Coords points="779,39 873,39 873,57 779,57"/>
+	<TextEquiv>
+	<Unicode>WILDE</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>OSCAR WILDF.</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="850,220 850,238 696,238 696,220"/>
+	<TextLine id="r10">
+	<Coords points="696,220 850,220 850,238 696,238"/>
+	<Word id="r51">
+	<Coords points="696,220 830,220 830,238 696,238"/>
+	<TextEquiv>
+	<Unicode>CHAPTER</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="841,220 848,220 848,238 841,238"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>CHAPTER 1</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1541,277 1541,336 7,336 7,277"/>
+	<TextLine id="r11">
+	<Coords points="68,281 1541,281 1541,302 68,302"/>
+	<Word id="r53">
+	<Coords points="68,281 105,281 105,298 68,298"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="113,281 170,281 170,298 113,298"/>
+	<TextEquiv>
+	<Unicode>studio</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="178,287 215,287 215,298 178,298"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="223,281 273,281 273,298 223,298"/>
+	<TextEquiv>
+	<Unicode>ﬁlled</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="280,281 323,281 323,298 280,298"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r58">
+	<Coords points="330,281 359,281 359,298 330,298"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r59">
+	<Coords points="366,281 404,281 404,298 366,298"/>
+	<TextEquiv>
+	<Unicode>rich</Unicode></TextEquiv></Word>
+	<Word id="r60">
+	<Coords points="412,281 467,281 467,298 412,298"/>
+	<TextEquiv>
+	<Unicode>odour</Unicode></TextEquiv></Word>
+	<Word id="r61">
+	<Coords points="475,281 497,281 497,298 475,298"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="501,287 556,287 556,302 501,302"/>
+	<TextEquiv>
+	<Unicode>roses,</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="565,281 599,281 599,298 565,298"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="606,281 658,281 658,298 606,298"/>
+	<TextEquiv>
+	<Unicode>when</Unicode></TextEquiv></Word>
+	<Word id="r15">
+	<Coords points="665,281 694,281 694,298 665,298"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="702,281 746,281 746,302 702,302"/>
+	<TextEquiv>
+	<Unicode>light</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="754,287 831,287 831,298 754,298"/>
+	<TextEquiv>
+	<Unicode>summer</Unicode></TextEquiv></Word>
+	<Word id="r18">
+	<Coords points="837,281 886,281 886,298 837,298"/>
+	<TextEquiv>
+	<Unicode>wind</Unicode></TextEquiv></Word>
+	<Word id="r66">
+	<Coords points="894,281 955,281 955,298 894,298"/>
+	<TextEquiv>
+	<Unicode>stirred</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="962,281 1026,281 1026,298 962,298"/>
+	<TextEquiv>
+	<Unicode>amidst</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="1032,281 1062,281 1062,298 1032,298"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="1069,283 1114,283 1114,298 1069,298"/>
+	<TextEquiv>
+	<Unicode>trees</Unicode></TextEquiv></Word>
+	<Word id="r23">
+	<Coords points="1122,281 1145,281 1145,298 1122,298"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="1149,281 1178,281 1178,298 1149,298"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r25">
+	<Coords points="1186,281 1256,281 1256,302 1186,302"/>
+	<TextEquiv>
+	<Unicode>garden,</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="1264,281 1312,281 1312,298 1264,298"/>
+	<TextEquiv>
+	<Unicode>there</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="1320,287 1369,287 1369,298 1320,298"/>
+	<TextEquiv>
+	<Unicode>came</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="1377,281 1452,281 1452,302 1377,302"/>
+	<TextEquiv>
+	<Unicode>through</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="1459,281 1488,281 1488,298 1459,298"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="1496,287 1541,287 1541,302 1496,302"/>
+	<TextEquiv>
+	<Unicode>open</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The studio was ﬁlled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open</Unicode></TextEquiv></TextLine>
+	<TextLine id="r13">
+	<Coords points="7,311 873,311 873,332 7,332"/>
+	<Word id="r72">
+	<Coords points="7,311 50,311 50,328 7,328"/>
+	<TextEquiv>
+	<Unicode>door</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="56,311 85,311 85,328 56,328"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="91,311 149,311 149,332 91,332"/>
+	<TextEquiv>
+	<Unicode>heavy</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="155,313 204,313 204,328 155,328"/>
+	<TextEquiv>
+	<Unicode>scent</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="211,311 233,311 233,328 211,328"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="236,311 265,311 265,328 236,328"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r78">
+	<Coords points="272,311 318,311 318,332 272,332"/>
+	<TextEquiv>
+	<Unicode>lilac,</Unicode></TextEquiv></Word>
+	<Word id="r79">
+	<Coords points="325,317 345,317 345,328 325,328"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="350,311 380,311 380,328 350,328"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="386,317 435,317 435,328 386,328"/>
+	<TextEquiv>
+	<Unicode>more</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="442,311 516,311 516,328 442,328"/>
+	<TextEquiv>
+	<Unicode>delicate</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="522,311 602,311 602,332 522,332"/>
+	<TextEquiv>
+	<Unicode>perfume</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="608,311 630,311 630,328 608,328"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="634,311 663,311 663,328 634,328"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="669,311 813,311 813,332 669,332"/>
+	<TextEquiv>
+	<Unicode>pink-ﬂowering</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="819,311 873,311 873,328 819,328"/>
+	<TextEquiv>
+	<Unicode>thorn.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>door the heavy scent of the lilac, or the more delicate perfume of the pink-ﬂowering them.</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1541,361 1541,570 6,570 6,361"/>
+	<TextLine id="r14">
+	<Coords points="68,365 1541,365 1541,386 68,386"/>
+	<Word id="r88">
+	<Coords points="68,366 120,366 120,382 68,382"/>
+	<TextEquiv>
+	<Unicode>From</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="127,365 157,365 157,382 127,382"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r90">
+	<Coords points="165,371 226,371 226,382 165,382"/>
+	<TextEquiv>
+	<Unicode>corner</Unicode></TextEquiv></Word>
+	<Word id="r91">
+	<Coords points="235,365 257,365 257,382 235,382"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r92">
+	<Coords points="262,365 291,365 291,382 262,382"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="300,365 353,365 353,382 300,382"/>
+	<TextEquiv>
+	<Unicode>divan</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="361,365 383,365 383,382 361,382"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r95">
+	<Coords points="388,365 460,365 460,382 388,382"/>
+	<TextEquiv>
+	<Unicode>Persian</Unicode></TextEquiv></Word>
+	<Word id="r96">
+	<Coords points="468,365 580,365 580,386 468,386"/>
+	<TextEquiv>
+	<Unicode>saddle-bags</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="589,371 613,371 613,382 589,382"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="620,365 679,365 679,382 620,382"/>
+	<TextEquiv>
+	<Unicode>which</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="687,365 709,365 709,382 687,382"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="717,371 755,371 755,382 717,382"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="763,365 817,365 817,386 763,386"/>
+	<TextEquiv>
+	<Unicode>lying,</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="827,365 914,365 914,386 827,386"/>
+	<TextEquiv>
+	<Unicode>smoking,</Unicode></TextEquiv></Word>
+	<Word id="r103">
+	<Coords points="924,371 943,371 943,382 924,382"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="951,371 988,371 988,382 951,382"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="996,365 1024,365 1024,382 996,382"/>
+	<TextEquiv>
+	<Unicode>his</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="1033,367 1107,367 1107,386 1033,386"/>
+	<TextEquiv>
+	<Unicode>custom,</Unicode></TextEquiv></Word>
+	<Word id="r107">
+	<Coords points="1116,365 1235,365 1235,382 1116,382"/>
+	<TextEquiv>
+	<Unicode>innumerable</Unicode></TextEquiv></Word>
+	<Word id="r108">
+	<Coords points="1244,365 1340,365 1340,386 1244,386"/>
+	<TextEquiv>
+	<Unicode>cigarettes,</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="1349,365 1396,365 1396,382 1349,382"/>
+	<TextEquiv>
+	<Unicode>Lord</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="1404,366 1464,366 1464,386 1404,386"/>
+	<TextEquiv>
+	<Unicode>Henry</Unicode></TextEquiv></Word>
+	<Word id="r111">
+	<Coords points="1472,366 1541,366 1541,382 1472,382"/>
+	<TextEquiv>
+	<Unicode>Wotton</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>From the comer of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton</Unicode></TextEquiv></TextLine>
+	<TextLine id="r16">
+	<Coords points="7,395 1541,395 1541,416 7,416"/>
+	<Word id="r112">
+	<Coords points="7,395 60,395 60,412 7,412"/>
+	<TextEquiv>
+	<Unicode>could</Unicode></TextEquiv></Word>
+	<Word id="r113">
+	<Coords points="64,395 101,395 101,416 64,416"/>
+	<TextEquiv>
+	<Unicode>just</Unicode></TextEquiv></Word>
+	<Word id="r114">
+	<Coords points="109,395 159,395 159,412 109,412"/>
+	<TextEquiv>
+	<Unicode>catch</Unicode></TextEquiv></Word>
+	<Word id="r115">
+	<Coords points="166,395 195,395 195,412 166,412"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r116">
+	<Coords points="203,395 261,395 261,416 203,416"/>
+	<TextEquiv>
+	<Unicode>gleam</Unicode></TextEquiv></Word>
+	<Word id="r117">
+	<Coords points="269,395 291,395 291,412 269,412"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r118">
+	<Coords points="295,395 324,395 324,412 295,412"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r119">
+	<Coords points="331,395 453,395 453,416 331,416"/>
+	<TextEquiv>
+	<Unicode>honey-sweet</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="461,395 495,395 495,412 461,412"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="502,395 653,395 653,416 502,416"/>
+	<TextEquiv>
+	<Unicode>honey-coloured</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="660,395 749,395 749,412 660,412"/>
+	<TextEquiv>
+	<Unicode>blossoms</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="757,395 779,395 779,412 757,412"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="784,401 794,401 794,412 784,412"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r125">
+	<Coords points="801,395 898,395 898,416 801,416"/>
+	<TextEquiv>
+	<Unicode>laburnum,</Unicode></TextEquiv></Word>
+	<Word id="r126">
+	<Coords points="906,395 967,395 967,412 906,412"/>
+	<TextEquiv>
+	<Unicode>whose</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="974,395 1070,395 1070,412 974,412"/>
+	<TextEquiv>
+	<Unicode>tremulous</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="1078,395 1163,395 1163,412 1078,412"/>
+	<TextEquiv>
+	<Unicode>branches</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="1171,395 1242,395 1242,412 1171,412"/>
+	<TextEquiv>
+	<Unicode>seemed</Unicode></TextEquiv></Word>
+	<Word id="r130">
+	<Coords points="1249,395 1311,395 1311,416 1249,416"/>
+	<TextEquiv>
+	<Unicode>hardly</Unicode></TextEquiv></Word>
+	<Word id="r131">
+	<Coords points="1318,395 1357,395 1357,412 1318,412"/>
+	<TextEquiv>
+	<Unicode>able</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="1365,397 1383,397 1383,412 1365,412"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r133">
+	<Coords points="1390,395 1432,395 1432,412 1390,412"/>
+	<TextEquiv>
+	<Unicode>bear</Unicode></TextEquiv></Word>
+	<Word id="r134">
+	<Coords points="1439,395 1468,395 1468,412 1439,412"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r135">
+	<Coords points="1475,395 1541,395 1541,412 1475,412"/>
+	<TextEquiv>
+	<Unicode>burden</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>could just catch the gleam of the honey-sweet and honey-coloured blossoms of a labumum, whose tremulous branches seemed hardly able to bear the burden</Unicode></TextEquiv></TextLine>
+	<TextLine id="r17">
+	<Coords points="7,425 1541,425 1541,446 7,446"/>
+	<Word id="r136">
+	<Coords points="7,425 29,425 29,442 7,442"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r137">
+	<Coords points="34,431 45,431 45,442 34,442"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r138">
+	<Coords points="52,425 116,425 116,446 52,446"/>
+	<TextEquiv>
+	<Unicode>beauty</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="124,431 144,431 144,442 124,442"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="152,425 242,425 242,442 152,442"/>
+	<TextEquiv>
+	<Unicode>ﬂamelike</Unicode></TextEquiv></Word>
+	<Word id="r141">
+	<Coords points="251,431 270,431 270,442 251,442"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r142">
+	<Coords points="277,425 336,425 336,446 277,446"/>
+	<TextEquiv>
+	<Unicode>theirs;</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="345,425 380,425 380,442 345,442"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="387,431 429,431 429,442 387,442"/>
+	<TextEquiv>
+	<Unicode>now</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="436,425 471,425 471,442 436,442"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="478,425 520,425 520,442 478,442"/>
+	<TextEquiv>
+	<Unicode>then</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="527,425 556,425 556,442 527,442"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r148">
+	<Coords points="564,425 645,425 645,442 564,442"/>
+	<TextEquiv>
+	<Unicode>fantastic</Unicode></TextEquiv></Word>
+	<Word id="r149">
+	<Coords points="653,425 734,425 734,442 653,442"/>
+	<TextEquiv>
+	<Unicode>shadows</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="743,425 765,425 765,442 743,442"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r151">
+	<Coords points="770,425 817,425 817,442 770,442"/>
+	<TextEquiv>
+	<Unicode>birds</Unicode></TextEquiv></Word>
+	<Word id="r152">
+	<Coords points="826,425 844,425 844,442 826,442"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="852,425 904,425 904,446 852,446"/>
+	<TextEquiv>
+	<Unicode>ﬂight</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="911,425 969,425 969,442 911,442"/>
+	<TextEquiv>
+	<Unicode>ﬂitted</Unicode></TextEquiv></Word>
+	<Word id="r155">
+	<Coords points="976,431 1035,431 1035,442 976,442"/>
+	<TextEquiv>
+	<Unicode>across</Unicode></TextEquiv></Word>
+	<Word id="r156">
+	<Coords points="1043,425 1072,425 1072,442 1043,442"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r157">
+	<Coords points="1080,425 1123,425 1123,446 1080,446"/>
+	<TextEquiv>
+	<Unicode>long</Unicode></TextEquiv></Word>
+	<Word id="r158">
+	<Coords points="1130,425 1241,425 1241,442 1130,442"/>
+	<TextEquiv>
+	<Unicode>tussore-silk</Unicode></TextEquiv></Word>
+	<Word id="r159">
+	<Coords points="1249,425 1324,425 1324,442 1249,442"/>
+	<TextEquiv>
+	<Unicode>curtains</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="1332,425 1368,425 1368,442 1332,442"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="1375,431 1422,431 1422,442 1375,442"/>
+	<TextEquiv>
+	<Unicode>were</Unicode></TextEquiv></Word>
+	<Word id="r162">
+	<Coords points="1430,425 1516,425 1516,442 1430,442"/>
+	<TextEquiv>
+	<Unicode>stretched</Unicode></TextEquiv></Word>
+	<Word id="r163">
+	<Coords points="1524,425 1541,425 1541,442 1524,442"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>of a beauty so ﬂamelike as theils; and now and then the fantastic shadows of birds in ﬂight ﬂjtted across the long tussore-silk curtains that were sketched in</Unicode></TextEquiv></TextLine>
+	<TextLine id="r19">
+	<Coords points="7,455 1540,455 1540,476 7,476"/>
+	<Word id="r164">
+	<Coords points="7,455 53,455 53,472 7,472"/>
+	<TextEquiv>
+	<Unicode>front</Unicode></TextEquiv></Word>
+	<Word id="r165">
+	<Coords points="59,455 82,455 82,472 59,472"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r166">
+	<Coords points="85,455 114,455 114,472 85,472"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r167">
+	<Coords points="120,455 167,455 167,476 120,476"/>
+	<TextEquiv>
+	<Unicode>huge</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="173,455 254,455 254,476 173,476"/>
+	<TextEquiv>
+	<Unicode>window,</Unicode></TextEquiv></Word>
+	<Word id="r169">
+	<Coords points="261,455 358,455 358,476 261,476"/>
+	<TextEquiv>
+	<Unicode>producing</Unicode></TextEquiv></Word>
+	<Word id="r170">
+	<Coords points="365,461 376,461 376,472 365,472"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r171">
+	<Coords points="381,455 424,455 424,472 381,472"/>
+	<TextEquiv>
+	<Unicode>kind</Unicode></TextEquiv></Word>
+	<Word id="r172">
+	<Coords points="431,455 453,455 453,472 431,472"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r173">
+	<Coords points="456,457 566,457 566,476 456,476"/>
+	<TextEquiv>
+	<Unicode>momentary</Unicode></TextEquiv></Word>
+	<Word id="r174">
+	<Coords points="572,456 657,456 657,476 572,476"/>
+	<TextEquiv>
+	<Unicode>Japanese</Unicode></TextEquiv></Word>
+	<Word id="r175">
+	<Coords points="664,455 722,455 722,476 664,476"/>
+	<TextEquiv>
+	<Unicode>effect,</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="730,455 764,455 764,472 730,472"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r177">
+	<Coords points="770,455 842,455 842,476 770,476"/>
+	<TextEquiv>
+	<Unicode>making</Unicode></TextEquiv></Word>
+	<Word id="r178">
+	<Coords points="848,455 886,455 886,472 848,472"/>
+	<TextEquiv>
+	<Unicode>him</Unicode></TextEquiv></Word>
+	<Word id="r179">
+	<Coords points="892,455 942,455 942,472 892,472"/>
+	<TextEquiv>
+	<Unicode>think</Unicode></TextEquiv></Word>
+	<Word id="r180">
+	<Coords points="948,455 970,455 970,472 948,472"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r181">
+	<Coords points="973,455 1024,455 1024,472 973,472"/>
+	<TextEquiv>
+	<Unicode>those</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="1030,455 1090,455 1090,476 1030,476"/>
+	<TextEquiv>
+	<Unicode>pallid,</Unicode></TextEquiv></Word>
+	<Word id="r486">
+	<Coords points="1095,455 1095,477 1197,477 1197,455"/>
+	<TextEquiv>
+	<Unicode>jade-faced</Unicode></TextEquiv></Word>
+	<Word id="r183">
+	<Coords points="1203,455 1279,455 1279,476 1203,476"/>
+	<TextEquiv>
+	<Unicode>painters</Unicode></TextEquiv></Word>
+	<Word id="r184">
+	<Coords points="1286,455 1308,455 1308,472 1286,472"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="1312,455 1372,455 1372,476 1312,476"/>
+	<TextEquiv>
+	<Unicode>Tokyo</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="1378,455 1425,455 1425,476 1378,476"/>
+	<TextEquiv>
+	<Unicode>who,</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="1432,455 1507,455 1507,476 1432,476"/>
+	<TextEquiv>
+	<Unicode>through</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="1513,455 1540,455 1540,472 1513,472"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>front of the huge window, producing a kind of momentary Japanese effect, and making him think of those pal1id,jade-faced painters of Tokyo who, thmugh the</Unicode></TextEquiv></TextLine>
+	<TextLine id="r21">
+	<Coords points="6,485 1541,485 1541,506 6,506"/>
+	<Word id="r189">
+	<Coords points="6,485 85,485 85,502 6,502"/>
+	<TextEquiv>
+	<Unicode>medium</Unicode></TextEquiv></Word>
+	<Word id="r190">
+	<Coords points="92,485 114,485 114,502 92,502"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r191">
+	<Coords points="118,491 141,491 141,502 118,502"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r192">
+	<Coords points="147,487 172,487 172,502 147,502"/>
+	<TextEquiv>
+	<Unicode>art</Unicode></TextEquiv></Word>
+	<Word id="r193">
+	<Coords points="178,485 215,485 215,502 178,502"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r194">
+	<Coords points="221,485 236,485 236,502 221,502"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r195">
+	<Coords points="243,485 350,485 350,506 243,506"/>
+	<TextEquiv>
+	<Unicode>necessarily</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="357,485 453,485 453,506 357,506"/>
+	<TextEquiv>
+	<Unicode>immobile,</Unicode></TextEquiv></Word>
+	<Word id="r197">
+	<Coords points="461,485 504,485 504,502 461,502"/>
+	<TextEquiv>
+	<Unicode>seek</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="510,487 528,487 528,502 510,502"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r199">
+	<Coords points="535,491 604,491 604,506 535,506"/>
+	<TextEquiv>
+	<Unicode>convey</Unicode></TextEquiv></Word>
+	<Word id="r200">
+	<Coords points="610,485 640,485 640,502 610,502"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r201">
+	<Coords points="647,491 698,491 698,502 647,502"/>
+	<TextEquiv>
+	<Unicode>sense</Unicode></TextEquiv></Word>
+	<Word id="r202">
+	<Coords points="705,485 728,485 728,502 705,502"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r203">
+	<Coords points="732,485 820,485 820,502 732,502"/>
+	<TextEquiv>
+	<Unicode>swiftness</Unicode></TextEquiv></Word>
+	<Word id="r204">
+	<Coords points="827,485 862,485 862,502 827,502"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r205">
+	<Coords points="868,485 940,485 940,502 868,502"/>
+	<TextEquiv>
+	<Unicode>motion.</Unicode></TextEquiv></Word>
+	<Word id="r206">
+	<Coords points="949,485 985,485 985,502 949,502"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r207">
+	<Coords points="993,485 1050,485 1050,502 993,502"/>
+	<TextEquiv>
+	<Unicode>sullen</Unicode></TextEquiv></Word>
+	<Word id="r208">
+	<Coords points="1056,491 1133,491 1133,502 1056,502"/>
+	<TextEquiv>
+	<Unicode>murmur</Unicode></TextEquiv></Word>
+	<Word id="r209">
+	<Coords points="1140,485 1162,485 1162,502 1140,502"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r210">
+	<Coords points="1166,485 1195,485 1195,502 1166,502"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r211">
+	<Coords points="1202,485 1244,485 1244,502 1202,502"/>
+	<TextEquiv>
+	<Unicode>bees</Unicode></TextEquiv></Word>
+	<Word id="r212">
+	<Coords points="1252,485 1364,485 1364,506 1252,506"/>
+	<TextEquiv>
+	<Unicode>shouldering</Unicode></TextEquiv></Word>
+	<Word id="r213">
+	<Coords points="1370,485 1415,485 1415,502 1370,502"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r214">
+	<Coords points="1421,491 1461,491 1461,506 1421,506"/>
+	<TextEquiv>
+	<Unicode>way</Unicode></TextEquiv></Word>
+	<Word id="r215">
+	<Coords points="1467,485 1541,485 1541,506 1467,506"/>
+	<TextEquiv>
+	<Unicode>through</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>medium of an art that is necessarily immobile, seek to convey the sense of swiﬁness and motion. The sullen murmur of the bees shoulderlng their way through</Unicode></TextEquiv></TextLine>
+	<TextLine id="r24">
+	<Coords points="6,515 1540,515 1540,536 6,536"/>
+	<Word id="r216">
+	<Coords points="6,515 35,515 35,532 6,532"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r217">
+	<Coords points="45,515 87,515 87,536 45,536"/>
+	<TextEquiv>
+	<Unicode>long</Unicode></TextEquiv></Word>
+	<Word id="r218">
+	<Coords points="96,521 181,521 181,532 96,532"/>
+	<TextEquiv>
+	<Unicode>unmown</Unicode></TextEquiv></Word>
+	<Word id="r219">
+	<Coords points="190,521 244,521 244,536 190,536"/>
+	<TextEquiv>
+	<Unicode>grass,</Unicode></TextEquiv></Word>
+	<Word id="r220">
+	<Coords points="254,521 274,521 274,532 254,532"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r221">
+	<Coords points="283,515 356,515 356,536 283,536"/>
+	<TextEquiv>
+	<Unicode>circling</Unicode></TextEquiv></Word>
+	<Word id="r222">
+	<Coords points="365,515 408,515 408,532 365,532"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r223">
+	<Coords points="416,517 535,517 535,532 416,532"/>
+	<TextEquiv>
+	<Unicode>monotonous</Unicode></TextEquiv></Word>
+	<Word id="r224">
+	<Coords points="545,515 639,515 639,532 545,532"/>
+	<TextEquiv>
+	<Unicode>insistence</Unicode></TextEquiv></Word>
+	<Word id="r225">
+	<Coords points="648,515 704,515 704,532 648,532"/>
+	<TextEquiv>
+	<Unicode>round</Unicode></TextEquiv></Word>
+	<Word id="r226">
+	<Coords points="713,515 742,515 742,532 713,532"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r227">
+	<Coords points="752,515 804,515 804,536 752,536"/>
+	<TextEquiv>
+	<Unicode>dusty</Unicode></TextEquiv></Word>
+	<Word id="r228">
+	<Coords points="813,515 845,515 845,536 813,536"/>
+	<TextEquiv>
+	<Unicode>gilt</Unicode></TextEquiv></Word>
+	<Word id="r229">
+	<Coords points="853,515 907,515 907,532 853,532"/>
+	<TextEquiv>
+	<Unicode>horns</Unicode></TextEquiv></Word>
+	<Word id="r230">
+	<Coords points="917,515 939,515 939,532 917,532"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r231">
+	<Coords points="945,515 974,515 974,532 945,532"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r232">
+	<Coords points="984,515 1079,515 1079,536 984,536"/>
+	<TextEquiv>
+	<Unicode>straggling</Unicode></TextEquiv></Word>
+	<Word id="r233">
+	<Coords points="1088,515 1188,515 1188,536 1088,536"/>
+	<TextEquiv>
+	<Unicode>woodbine,</Unicode></TextEquiv></Word>
+	<Word id="r234">
+	<Coords points="1199,515 1271,515 1271,532 1199,532"/>
+	<TextEquiv>
+	<Unicode>seemed</Unicode></TextEquiv></Word>
+	<Word id="r235">
+	<Coords points="1279,517 1298,517 1298,532 1279,532"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r236">
+	<Coords points="1307,515 1359,515 1359,532 1307,532"/>
+	<TextEquiv>
+	<Unicode>make</Unicode></TextEquiv></Word>
+	<Word id="r237">
+	<Coords points="1368,515 1397,515 1397,532 1368,532"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r238">
+	<Coords points="1407,515 1483,515 1483,532 1407,532"/>
+	<TextEquiv>
+	<Unicode>stillness</Unicode></TextEquiv></Word>
+	<Word id="r239">
+	<Coords points="1492,521 1540,521 1540,532 1492,532"/>
+	<TextEquiv>
+	<Unicode>more</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>the long unmown grass, or circling with monotonous insistence round the dusty gilt hams of the straggling woodbine, seemed to make the stillness more</Unicode></TextEquiv></TextLine>
+	<TextLine id="r28">
+	<Coords points="7,545 782,545 782,566 7,566"/>
+	<Word id="r240">
+	<Coords points="7,545 113,545 113,566 7,566"/>
+	<TextEquiv>
+	<Unicode>oppressive.</Unicode></TextEquiv></Word>
+	<Word id="r241">
+	<Coords points="121,545 158,545 158,562 121,562"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r242">
+	<Coords points="165,545 201,545 201,562 165,562"/>
+	<TextEquiv>
+	<Unicode>dim</Unicode></TextEquiv></Word>
+	<Word id="r243">
+	<Coords points="207,551 246,551 246,562 207,562"/>
+	<TextEquiv>
+	<Unicode>roar</Unicode></TextEquiv></Word>
+	<Word id="r244">
+	<Coords points="253,545 275,545 275,562 253,562"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r245">
+	<Coords points="278,545 353,545 353,562 278,562"/>
+	<TextEquiv>
+	<Unicode>London</Unicode></TextEquiv></Word>
+	<Word id="r246">
+	<Coords points="358,551 396,551 396,562 358,562"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r247">
+	<Coords points="402,545 438,545 438,562 402,562"/>
+	<TextEquiv>
+	<Unicode>like</Unicode></TextEquiv></Word>
+	<Word id="r248">
+	<Coords points="444,545 473,545 473,562 444,562"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r249">
+	<Coords points="479,545 560,545 560,562 479,562"/>
+	<TextEquiv>
+	<Unicode>bourdon</Unicode></TextEquiv></Word>
+	<Word id="r250">
+	<Coords points="565,547 606,547 606,562 565,562"/>
+	<TextEquiv>
+	<Unicode>note</Unicode></TextEquiv></Word>
+	<Word id="r251">
+	<Coords points="613,545 635,545 635,562 613,562"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r252">
+	<Coords points="639,551 650,551 650,562 639,562"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r253">
+	<Coords points="656,545 719,545 719,562 656,562"/>
+	<TextEquiv>
+	<Unicode>distant</Unicode></TextEquiv></Word>
+	<Word id="r254">
+	<Coords points="726,551 780,551 780,566 726,566"/>
+	<TextEquiv>
+	<Unicode>organ</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>oppressive. The dim roar of London was like the bourdon note of a distant organ</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1540,595 1540,684 7,684 7,595"/>
+	<TextLine id="r29">
+	<Coords points="68,599 1540,599 1540,620 68,620"/>
+	<Word id="r255">
+	<Coords points="68,600 88,600 88,616 68,616"/>
+	<TextEquiv>
+	<Unicode>In</Unicode></TextEquiv></Word>
+	<Word id="r256">
+	<Coords points="94,599 124,599 124,616 94,616"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r257">
+	<Coords points="131,601 189,601 189,616 131,616"/>
+	<TextEquiv>
+	<Unicode>centre</Unicode></TextEquiv></Word>
+	<Word id="r258">
+	<Coords points="197,599 220,599 220,616 197,616"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r259">
+	<Coords points="224,599 253,599 253,616 224,616"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r260">
+	<Coords points="260,605 316,605 316,620 260,620"/>
+	<TextEquiv>
+	<Unicode>room,</Unicode></TextEquiv></Word>
+	<Word id="r261">
+	<Coords points="324,599 406,599 406,620 324,620"/>
+	<TextEquiv>
+	<Unicode>clamped</Unicode></TextEquiv></Word>
+	<Word id="r262">
+	<Coords points="412,601 431,601 431,616 412,616"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r263">
+	<Coords points="439,605 461,605 461,616 439,616"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r264">
+	<Coords points="467,599 537,599 537,620 467,620"/>
+	<TextEquiv>
+	<Unicode>upright</Unicode></TextEquiv></Word>
+	<Word id="r265">
+	<Coords points="545,599 597,599 597,620 545,620"/>
+	<TextEquiv>
+	<Unicode>easel,</Unicode></TextEquiv></Word>
+	<Word id="r266">
+	<Coords points="606,599 658,599 658,616 606,616"/>
+	<TextEquiv>
+	<Unicode>stood</Unicode></TextEquiv></Word>
+	<Word id="r267">
+	<Coords points="664,599 693,599 693,616 664,616"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r268">
+	<Coords points="701,599 802,599 802,620 701,620"/>
+	<TextEquiv>
+	<Unicode>full-length</Unicode></TextEquiv></Word>
+	<Word id="r269">
+	<Coords points="809,599 880,599 880,620 809,620"/>
+	<TextEquiv>
+	<Unicode>portrait</Unicode></TextEquiv></Word>
+	<Word id="r270">
+	<Coords points="887,599 910,599 910,616 887,616"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r271">
+	<Coords points="914,605 925,605 925,616 914,616"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r272">
+	<Coords points="931,605 991,605 991,620 931,620"/>
+	<TextEquiv>
+	<Unicode>young</Unicode></TextEquiv></Word>
+	<Word id="r273">
+	<Coords points="998,605 1040,605 1040,616 998,616"/>
+	<TextEquiv>
+	<Unicode>man</Unicode></TextEquiv></Word>
+	<Word id="r274">
+	<Coords points="1048,599 1070,599 1070,616 1048,616"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r275">
+	<Coords points="1075,599 1203,599 1203,620 1075,620"/>
+	<TextEquiv>
+	<Unicode>extraordinary</Unicode></TextEquiv></Word>
+	<Word id="r276">
+	<Coords points="1210,599 1292,599 1292,620 1210,620"/>
+	<TextEquiv>
+	<Unicode>personal</Unicode></TextEquiv></Word>
+	<Word id="r277">
+	<Coords points="1299,599 1366,599 1366,620 1299,620"/>
+	<TextEquiv>
+	<Unicode>beauty,</Unicode></TextEquiv></Word>
+	<Word id="r278">
+	<Coords points="1375,599 1409,599 1409,616 1375,616"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r279">
+	<Coords points="1417,599 1435,599 1435,616 1417,616"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r280">
+	<Coords points="1442,599 1489,599 1489,616 1442,616"/>
+	<TextEquiv>
+	<Unicode>front</Unicode></TextEquiv></Word>
+	<Word id="r281">
+	<Coords points="1496,599 1519,599 1519,616 1496,616"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r282">
+	<Coords points="1523,599 1540,599 1540,620 1523,620"/>
+	<TextEquiv>
+	<Unicode>it,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>In the centre of the room, clamped to an upright easel, stood the ﬁlll-le11g1h portrait of a young man of extraordjnmy personal beauty, and in front of it,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r30">
+	<Coords points="7,629 1540,629 1540,650 7,650"/>
+	<Word id="r283">
+	<Coords points="7,635 56,635 56,646 7,646"/>
+	<TextEquiv>
+	<Unicode>some</Unicode></TextEquiv></Word>
+	<Word id="r284">
+	<Coords points="68,629 111,629 111,646 68,646"/>
+	<TextEquiv>
+	<Unicode>little</Unicode></TextEquiv></Word>
+	<Word id="r285">
+	<Coords points="123,629 201,629 201,646 123,646"/>
+	<TextEquiv>
+	<Unicode>distance</Unicode></TextEquiv></Word>
+	<Word id="r286">
+	<Coords points="212,635 266,635 266,650 212,650"/>
+	<TextEquiv>
+	<Unicode>away,</Unicode></TextEquiv></Word>
+	<Word id="r287">
+	<Coords points="277,635 315,635 315,646 277,646"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r288">
+	<Coords points="327,629 386,629 386,650 327,650"/>
+	<TextEquiv>
+	<Unicode>sitting</Unicode></TextEquiv></Word>
+	<Word id="r289">
+	<Coords points="397,629 426,629 426,646 397,646"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r290">
+	<Coords points="438,629 485,629 485,646 438,646"/>
+	<TextEquiv>
+	<Unicode>artist</Unicode></TextEquiv></Word>
+	<Word id="r291">
+	<Coords points="496,629 573,629 573,650 496,650"/>
+	<TextEquiv>
+	<Unicode>himself,</Unicode></TextEquiv></Word>
+	<Word id="r292">
+	<Coords points="584,629 634,629 634,646 584,646"/>
+	<TextEquiv>
+	<Unicode>Basil</Unicode></TextEquiv></Word>
+	<Word id="r293">
+	<Coords points="645,629 739,629 739,650 645,650"/>
+	<TextEquiv>
+	<Unicode>Hallward,</Unicode></TextEquiv></Word>
+	<Word id="r294">
+	<Coords points="751,629 812,629 812,646 751,646"/>
+	<TextEquiv>
+	<Unicode>whose</Unicode></TextEquiv></Word>
+	<Word id="r295">
+	<Coords points="824,629 892,629 892,646 824,646"/>
+	<TextEquiv>
+	<Unicode>sudden</Unicode></TextEquiv></Word>
+	<Word id="r296">
+	<Coords points="903,629 1038,629 1038,650 903,650"/>
+	<TextEquiv>
+	<Unicode>disappearance</Unicode></TextEquiv></Word>
+	<Word id="r297">
+	<Coords points="1049,635 1099,635 1099,646 1049,646"/>
+	<TextEquiv>
+	<Unicode>some</Unicode></TextEquiv></Word>
+	<Word id="r298">
+	<Coords points="1110,635 1160,635 1160,650 1110,650"/>
+	<TextEquiv>
+	<Unicode>years</Unicode></TextEquiv></Word>
+	<Word id="r299">
+	<Coords points="1172,635 1206,635 1206,650 1172,650"/>
+	<TextEquiv>
+	<Unicode>ago</Unicode></TextEquiv></Word>
+	<Word id="r300">
+	<Coords points="1218,629 1288,629 1288,650 1218,650"/>
+	<TextEquiv>
+	<Unicode>caused,</Unicode></TextEquiv></Word>
+	<Word id="r301">
+	<Coords points="1300,631 1317,631 1317,646 1300,646"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r302">
+	<Coords points="1327,629 1357,629 1357,646 1327,646"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r303">
+	<Coords points="1368,629 1415,629 1415,650 1368,650"/>
+	<TextEquiv>
+	<Unicode>time,</Unicode></TextEquiv></Word>
+	<Word id="r304">
+	<Coords points="1428,629 1472,629 1472,646 1428,646"/>
+	<TextEquiv>
+	<Unicode>such</Unicode></TextEquiv></Word>
+	<Word id="r305">
+	<Coords points="1482,629 1540,629 1540,650 1482,650"/>
+	<TextEquiv>
+	<Unicode>public</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>some little distance away, was sitting the artist himself, Basil Hallward, whose sudden disappearance some years ago caused, at the time, such public</Unicode></TextEquiv></TextLine>
+	<TextLine id="r33">
+	<Coords points="7,659 549,659 549,680 7,680"/>
+	<Word id="r306">
+	<Coords points="7,659 112,659 112,676 7,676"/>
+	<TextEquiv>
+	<Unicode>excitement</Unicode></TextEquiv></Word>
+	<Word id="r307">
+	<Coords points="118,659 152,659 152,676 118,676"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r308">
+	<Coords points="158,665 203,665 203,680 158,680"/>
+	<TextEquiv>
+	<Unicode>gave</Unicode></TextEquiv></Word>
+	<Word id="r309">
+	<Coords points="209,659 244,659 244,676 209,676"/>
+	<TextEquiv>
+	<Unicode>rise</Unicode></TextEquiv></Word>
+	<Word id="r310">
+	<Coords points="250,661 268,661 268,676 250,676"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r311">
+	<Coords points="275,665 296,665 296,676 275,676"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r312">
+	<Coords points="302,665 355,665 355,680 302,680"/>
+	<TextEquiv>
+	<Unicode>many</Unicode></TextEquiv></Word>
+	<Word id="r313">
+	<Coords points="362,661 430,661 430,680 362,680"/>
+	<TextEquiv>
+	<Unicode>strange</Unicode></TextEquiv></Word>
+	<Word id="r314">
+	<Coords points="437,659 549,659 549,680 437,680"/>
+	<TextEquiv>
+	<Unicode>conjectures.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>excitement and gave rise ta so many slrauge conjectures.</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1541,709 1541,797 7,797 7,709"/>
+	<TextLine id="r34">
+	<Coords points="68,713 1541,713 1541,734 68,734"/>
+	<Word id="r315">
+	<Coords points="68,714 94,714 94,730 68,730"/>
+	<TextEquiv>
+	<Unicode>As</Unicode></TextEquiv></Word>
+	<Word id="r316">
+	<Coords points="102,713 131,713 131,730 102,730"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r317">
+	<Coords points="140,713 207,713 207,734 140,734"/>
+	<TextEquiv>
+	<Unicode>painter</Unicode></TextEquiv></Word>
+	<Word id="r318">
+	<Coords points="215,713 280,713 280,730 215,730"/>
+	<TextEquiv>
+	<Unicode>looked</Unicode></TextEquiv></Word>
+	<Word id="r319">
+	<Coords points="288,715 305,715 305,730 288,730"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r320">
+	<Coords points="313,713 342,713 342,730 313,730"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r321">
+	<Coords points="351,713 432,713 432,734 351,734"/>
+	<TextEquiv>
+	<Unicode>gracious</Unicode></TextEquiv></Word>
+	<Word id="r322">
+	<Coords points="441,713 475,713 475,730 441,730"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r323">
+	<Coords points="483,713 554,713 554,734 483,734"/>
+	<TextEquiv>
+	<Unicode>comely</Unicode></TextEquiv></Word>
+	<Word id="r324">
+	<Coords points="562,713 608,713 608,730 562,730"/>
+	<TextEquiv>
+	<Unicode>form</Unicode></TextEquiv></Word>
+	<Word id="r325">
+	<Coords points="616,713 639,713 639,730 616,730"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r326">
+	<Coords points="647,713 682,713 682,730 647,730"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r327">
+	<Coords points="691,719 711,719 711,730 691,730"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r328">
+	<Coords points="720,713 799,713 799,734 720,734"/>
+	<TextEquiv>
+	<Unicode>skilfully</Unicode></TextEquiv></Word>
+	<Word id="r329">
+	<Coords points="807,713 892,713 892,730 807,730"/>
+	<TextEquiv>
+	<Unicode>mirrored</Unicode></TextEquiv></Word>
+	<Word id="r330">
+	<Coords points="900,713 919,713 919,730 900,730"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r331">
+	<Coords points="926,713 954,713 954,730 926,730"/>
+	<TextEquiv>
+	<Unicode>his</Unicode></TextEquiv></Word>
+	<Word id="r332">
+	<Coords points="963,715 993,715 993,734 963,734"/>
+	<TextEquiv>
+	<Unicode>art,</Unicode></TextEquiv></Word>
+	<Word id="r333">
+	<Coords points="1002,719 1013,719 1013,730 1002,730"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r334">
+	<Coords points="1021,713 1072,713 1072,730 1021,730"/>
+	<TextEquiv>
+	<Unicode>smile</Unicode></TextEquiv></Word>
+	<Word id="r335">
+	<Coords points="1081,713 1104,713 1104,730 1081,730"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r336">
+	<Coords points="1109,713 1189,713 1189,734 1109,734"/>
+	<TextEquiv>
+	<Unicode>pleasure</Unicode></TextEquiv></Word>
+	<Word id="r337">
+	<Coords points="1197,713 1261,713 1261,734 1197,734"/>
+	<TextEquiv>
+	<Unicode>passed</Unicode></TextEquiv></Word>
+	<Word id="r338">
+	<Coords points="1270,719 1329,719 1329,730 1270,730"/>
+	<TextEquiv>
+	<Unicode>across</Unicode></TextEquiv></Word>
+	<Word id="r339">
+	<Coords points="1337,713 1365,713 1365,730 1337,730"/>
+	<TextEquiv>
+	<Unicode>his</Unicode></TextEquiv></Word>
+	<Word id="r340">
+	<Coords points="1374,713 1418,713 1418,734 1374,734"/>
+	<TextEquiv>
+	<Unicode>face,</Unicode></TextEquiv></Word>
+	<Word id="r341">
+	<Coords points="1428,713 1462,713 1462,730 1428,730"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r342">
+	<Coords points="1471,713 1541,713 1541,730 1471,730"/>
+	<TextEquiv>
+	<Unicode>seemed</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>As the painter looked at the gracious and camely form he had so sldlfully minored in his art, a smile of pleasure passed across his face, and seemed</Unicode></TextEquiv></TextLine>
+	<TextLine id="r35">
+	<Coords points="7,743 1540,743 1540,764 7,764"/>
+	<Word id="r343">
+	<Coords points="7,743 60,743 60,760 7,760"/>
+	<TextEquiv>
+	<Unicode>about</Unicode></TextEquiv></Word>
+	<Word id="r344">
+	<Coords points="66,745 85,745 85,760 66,760"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r345">
+	<Coords points="92,743 148,743 148,764 92,764"/>
+	<TextEquiv>
+	<Unicode>linger</Unicode></TextEquiv></Word>
+	<Word id="r346">
+	<Coords points="155,743 207,743 207,760 155,760"/>
+	<TextEquiv>
+	<Unicode>there.</Unicode></TextEquiv></Word>
+	<Word id="r347">
+	<Coords points="215,744 251,744 251,760 215,760"/>
+	<TextEquiv>
+	<Unicode>But</Unicode></TextEquiv></Word>
+	<Word id="r348">
+	<Coords points="257,743 280,743 280,760 257,760"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r349">
+	<Coords points="288,743 373,743 373,764 288,764"/>
+	<TextEquiv>
+	<Unicode>suddenly</Unicode></TextEquiv></Word>
+	<Word id="r350">
+	<Coords points="381,743 445,743 445,760 381,760"/>
+	<TextEquiv>
+	<Unicode>started</Unicode></TextEquiv></Word>
+	<Word id="r351">
+	<Coords points="451,749 480,749 480,764 451,764"/>
+	<TextEquiv>
+	<Unicode>up,</Unicode></TextEquiv></Word>
+	<Word id="r352">
+	<Coords points="489,743 523,743 523,760 489,760"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r353">
+	<Coords points="530,743 599,743 599,764 530,764"/>
+	<TextEquiv>
+	<Unicode>closing</Unicode></TextEquiv></Word>
+	<Word id="r354">
+	<Coords points="606,743 634,743 634,760 606,760"/>
+	<TextEquiv>
+	<Unicode>his</Unicode></TextEquiv></Word>
+	<Word id="r355">
+	<Coords points="641,749 689,749 689,764 641,764"/>
+	<TextEquiv>
+	<Unicode>eyes,</Unicode></TextEquiv></Word>
+	<Word id="r356">
+	<Coords points="696,743 759,743 759,764 696,764"/>
+	<TextEquiv>
+	<Unicode>placed</Unicode></TextEquiv></Word>
+	<Word id="r357">
+	<Coords points="766,743 794,743 794,760 766,760"/>
+	<TextEquiv>
+	<Unicode>his</Unicode></TextEquiv></Word>
+	<Word id="r358">
+	<Coords points="801,743 867,743 867,764 801,764"/>
+	<TextEquiv>
+	<Unicode>ﬁngers</Unicode></TextEquiv></Word>
+	<Word id="r359">
+	<Coords points="874,749 923,749 923,764 874,764"/>
+	<TextEquiv>
+	<Unicode>upon</Unicode></TextEquiv></Word>
+	<Word id="r360">
+	<Coords points="929,743 958,743 958,760 929,760"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r361">
+	<Coords points="966,743 1005,743 1005,764 966,764"/>
+	<TextEquiv>
+	<Unicode>lids,</Unicode></TextEquiv></Word>
+	<Word id="r362">
+	<Coords points="1014,749 1033,749 1033,760 1014,760"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r363">
+	<Coords points="1040,743 1107,743 1107,764 1040,764"/>
+	<TextEquiv>
+	<Unicode>though</Unicode></TextEquiv></Word>
+	<Word id="r364">
+	<Coords points="1113,743 1136,743 1136,760 1113,760"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r365">
+	<Coords points="1144,743 1207,743 1207,764 1144,764"/>
+	<TextEquiv>
+	<Unicode>sought</Unicode></TextEquiv></Word>
+	<Word id="r366">
+	<Coords points="1214,745 1233,745 1233,760 1214,760"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r367">
+	<Coords points="1240,743 1325,743 1325,764 1240,764"/>
+	<TextEquiv>
+	<Unicode>imprison</Unicode></TextEquiv></Word>
+	<Word id="r368">
+	<Coords points="1332,743 1394,743 1394,760 1332,760"/>
+	<TextEquiv>
+	<Unicode>within</Unicode></TextEquiv></Word>
+	<Word id="r369">
+	<Coords points="1400,743 1428,743 1428,760 1400,760"/>
+	<TextEquiv>
+	<Unicode>his</Unicode></TextEquiv></Word>
+	<Word id="r370">
+	<Coords points="1435,743 1485,743 1485,760 1435,760"/>
+	<TextEquiv>
+	<Unicode>brain</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="1492,749 1540,749 1540,760 1492,760"/>
+	<TextEquiv>
+	<Unicode>some</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>about to linger there. But he suddenly started up, and closing his eyes, placed his ﬁngers upon the lids, as though he sought to imprison within his brain some</Unicode></TextEquiv></TextLine>
+	<TextLine id="r38">
+	<Coords points="7,773 516,773 516,794 7,794"/>
+	<Word id="r371">
+	<Coords points="7,773 76,773 76,790 7,790"/>
+	<TextEquiv>
+	<Unicode>curious</Unicode></TextEquiv></Word>
+	<Word id="r372">
+	<Coords points="83,773 143,773 143,790 83,790"/>
+	<TextEquiv>
+	<Unicode>dream</Unicode></TextEquiv></Word>
+	<Word id="r373">
+	<Coords points="149,773 195,773 195,790 149,790"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<Word id="r374">
+	<Coords points="201,773 260,773 260,790 201,790"/>
+	<TextEquiv>
+	<Unicode>which</Unicode></TextEquiv></Word>
+	<Word id="r375">
+	<Coords points="266,773 288,773 288,790 266,790"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r376">
+	<Coords points="295,773 355,773 355,790 295,790"/>
+	<TextEquiv>
+	<Unicode>feared</Unicode></TextEquiv></Word>
+	<Word id="r377">
+	<Coords points="360,773 383,773 383,790 360,790"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r378">
+	<Coords points="389,773 445,773 445,794 389,794"/>
+	<TextEquiv>
+	<Unicode>might</Unicode></TextEquiv></Word>
+	<Word id="r379">
+	<Coords points="452,773 516,773 516,790 452,790"/>
+	<TextEquiv>
+	<Unicode>awake.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>cmious dream from which he feared he might awake.</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1541,823 1541,911 6,911 6,823"/>
+	<TextLine id="r39">
+	<Coords points="69,827 1540,827 1540,848 69,848"/>
+	<Word id="r380">
+	<Coords points="69,828 92,828 92,844 69,844"/>
+	<TextEquiv>
+	<Unicode>"It</Unicode></TextEquiv></Word>
+	<Word id="r381">
+	<Coords points="99,827 114,827 114,844 99,844"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r382">
+	<Coords points="121,833 166,833 166,848 121,848"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r383">
+	<Coords points="173,827 212,827 212,844 173,844"/>
+	<TextEquiv>
+	<Unicode>best</Unicode></TextEquiv></Word>
+	<Word id="r384">
+	<Coords points="218,827 273,827 273,848 218,848"/>
+	<TextEquiv>
+	<Unicode>work,</Unicode></TextEquiv></Word>
+	<Word id="r385">
+	<Coords points="280,827 335,827 335,848 280,848"/>
+	<TextEquiv>
+	<Unicode>Basil,</Unicode></TextEquiv></Word>
+	<Word id="r386">
+	<Coords points="343,827 372,827 372,844 343,844"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r387">
+	<Coords points="379,827 418,827 418,844 379,844"/>
+	<TextEquiv>
+	<Unicode>best</Unicode></TextEquiv></Word>
+	<Word id="r388">
+	<Coords points="425,827 474,827 474,848 425,848"/>
+	<TextEquiv>
+	<Unicode>thing</Unicode></TextEquiv></Word>
+	<Word id="r389">
+	<Coords points="480,833 517,833 517,848 480,848"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r390">
+	<Coords points="524,827 569,827 569,844 524,844"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r391">
+	<Coords points="577,833 618,833 618,844 577,844"/>
+	<TextEquiv>
+	<Unicode>ever</Unicode></TextEquiv></Word>
+	<Word id="r392">
+	<Coords points="625,827 686,827 686,848 625,848"/>
+	<TextEquiv>
+	<Unicode>done,"</Unicode></TextEquiv></Word>
+	<Word id="r393">
+	<Coords points="695,827 733,827 733,844 695,844"/>
+	<TextEquiv>
+	<Unicode>said</Unicode></TextEquiv></Word>
+	<Word id="r394">
+	<Coords points="739,827 787,827 787,844 739,844"/>
+	<TextEquiv>
+	<Unicode>Lord</Unicode></TextEquiv></Word>
+	<Word id="r395">
+	<Coords points="793,828 853,828 853,848 793,848"/>
+	<TextEquiv>
+	<Unicode>Henry</Unicode></TextEquiv></Word>
+	<Word id="r396">
+	<Coords points="860,827 953,827 953,848 860,848"/>
+	<TextEquiv>
+	<Unicode>languidly.</Unicode></TextEquiv></Word>
+	<Word id="r397">
+	<Coords points="963,828 1011,828 1011,844 963,844"/>
+	<TextEquiv>
+	<Unicode>"You</Unicode></TextEquiv></Word>
+	<Word id="r398">
+	<Coords points="1017,829 1065,829 1065,844 1017,844"/>
+	<TextEquiv>
+	<Unicode>must</Unicode></TextEquiv></Word>
+	<Word id="r399">
+	<Coords points="1072,827 1155,827 1155,848 1072,848"/>
+	<TextEquiv>
+	<Unicode>certainly</Unicode></TextEquiv></Word>
+	<Word id="r400">
+	<Coords points="1163,827 1207,827 1207,844 1163,844"/>
+	<TextEquiv>
+	<Unicode>send</Unicode></TextEquiv></Word>
+	<Word id="r401">
+	<Coords points="1214,827 1227,827 1227,844 1214,844"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r402">
+	<Coords points="1233,829 1275,829 1275,844 1233,844"/>
+	<TextEquiv>
+	<Unicode>next</Unicode></TextEquiv></Word>
+	<Word id="r403">
+	<Coords points="1281,833 1323,833 1323,848 1281,848"/>
+	<TextEquiv>
+	<Unicode>year</Unicode></TextEquiv></Word>
+	<Word id="r404">
+	<Coords points="1330,829 1348,829 1348,844 1330,844"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r405">
+	<Coords points="1355,827 1385,827 1385,844 1355,844"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r406">
+	<Coords points="1392,828 1496,828 1496,844 1392,844"/>
+	<TextEquiv>
+	<Unicode>Grosvenor.</Unicode></TextEquiv></Word>
+	<Word id="r407">
+	<Coords points="1505,827 1540,827 1540,844 1505,844"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>"It is your best work, Basil, the best thing you have ever dune," said Lord Henry languidly. "You must certainly send it next year ta the Gmsvenor. The</Unicode></TextEquiv></TextLine>
+	<TextLine id="r41">
+	<Coords points="6,857 1541,857 1541,878 6,878"/>
+	<Word id="r408">
+	<Coords points="6,857 98,857 98,878 6,878"/>
+	<TextEquiv>
+	<Unicode>Academy</Unicode></TextEquiv></Word>
+	<Word id="r409">
+	<Coords points="106,857 121,857 121,874 106,874"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r410">
+	<Coords points="128,859 159,859 159,874 128,874"/>
+	<TextEquiv>
+	<Unicode>too</Unicode></TextEquiv></Word>
+	<Word id="r411">
+	<Coords points="167,857 214,857 214,878 167,878"/>
+	<TextEquiv>
+	<Unicode>large</Unicode></TextEquiv></Word>
+	<Word id="r412">
+	<Coords points="222,857 256,857 256,874 222,874"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r413">
+	<Coords points="263,859 293,859 293,874 263,874"/>
+	<TextEquiv>
+	<Unicode>too</Unicode></TextEquiv></Word>
+	<Word id="r414">
+	<Coords points="300,857 365,857 365,878 300,878"/>
+	<TextEquiv>
+	<Unicode>vulgar.</Unicode></TextEquiv></Word>
+	<Word id="r415">
+	<Coords points="374,857 473,857 473,874 374,874"/>
+	<TextEquiv>
+	<Unicode>Whenever</Unicode></TextEquiv></Word>
+	<Word id="r416">
+	<Coords points="480,858 488,858 488,874 480,874"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r417">
+	<Coords points="495,857 540,857 540,874 495,874"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r418">
+	<Coords points="548,863 594,863 594,878 548,878"/>
+	<TextEquiv>
+	<Unicode>gone</Unicode></TextEquiv></Word>
+	<Word id="r419">
+	<Coords points="601,857 655,857 655,878 601,878"/>
+	<TextEquiv>
+	<Unicode>there,</Unicode></TextEquiv></Word>
+	<Word id="r420">
+	<Coords points="663,857 711,857 711,874 663,874"/>
+	<TextEquiv>
+	<Unicode>there</Unicode></TextEquiv></Word>
+	<Word id="r421">
+	<Coords points="718,857 763,857 763,874 718,874"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r422">
+	<Coords points="770,857 816,857 816,874 770,874"/>
+	<TextEquiv>
+	<Unicode>been</Unicode></TextEquiv></Word>
+	<Word id="r423">
+	<Coords points="824,857 878,857 878,874 824,874"/>
+	<TextEquiv>
+	<Unicode>either</Unicode></TextEquiv></Word>
+	<Word id="r424">
+	<Coords points="886,863 906,863 906,874 886,874"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r425">
+	<Coords points="913,863 967,863 967,878 913,878"/>
+	<TextEquiv>
+	<Unicode>many</Unicode></TextEquiv></Word>
+	<Word id="r426">
+	<Coords points="974,857 1038,857 1038,878 974,878"/>
+	<TextEquiv>
+	<Unicode>people</Unicode></TextEquiv></Word>
+	<Word id="r427">
+	<Coords points="1045,857 1081,857 1081,874 1045,874"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r428">
+	<Coords points="1089,858 1096,858 1096,874 1089,874"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r429">
+	<Coords points="1103,857 1149,857 1149,874 1103,874"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r430">
+	<Coords points="1156,859 1187,859 1187,874 1156,874"/>
+	<TextEquiv>
+	<Unicode>not</Unicode></TextEquiv></Word>
+	<Word id="r431">
+	<Coords points="1194,857 1240,857 1240,874 1194,874"/>
+	<TextEquiv>
+	<Unicode>been</Unicode></TextEquiv></Word>
+	<Word id="r432">
+	<Coords points="1247,857 1286,857 1286,874 1247,874"/>
+	<TextEquiv>
+	<Unicode>able</Unicode></TextEquiv></Word>
+	<Word id="r433">
+	<Coords points="1294,859 1312,859 1312,874 1294,874"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r434">
+	<Coords points="1320,863 1350,863 1350,874 1320,874"/>
+	<TextEquiv>
+	<Unicode>see</Unicode></TextEquiv></Word>
+	<Word id="r435">
+	<Coords points="1358,857 1387,857 1387,874 1358,874"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r436">
+	<Coords points="1394,857 1475,857 1475,878 1394,878"/>
+	<TextEquiv>
+	<Unicode>pictures,</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="1483,857 1541,857 1541,874 1483,874"/>
+	<TextEquiv>
+	<Unicode>which</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Academy is too large and too vulgar. Whenever I have gone there, there have been either so many people that I have not been able ta see the pictures, which</Unicode></TextEquiv></TextLine>
+	<TextLine id="r44">
+	<Coords points="6,887 1308,887 1308,908 6,908"/>
+	<Word id="r437">
+	<Coords points="6,893 43,893 43,904 6,904"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r438">
+	<Coords points="50,887 134,887 134,908 50,908"/>
+	<TextEquiv>
+	<Unicode>dreadful,</Unicode></TextEquiv></Word>
+	<Word id="r439">
+	<Coords points="142,893 162,893 162,904 142,904"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r440">
+	<Coords points="168,893 188,893 188,904 168,904"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r441">
+	<Coords points="194,893 248,893 248,908 194,908"/>
+	<TextEquiv>
+	<Unicode>many</Unicode></TextEquiv></Word>
+	<Word id="r442">
+	<Coords points="254,887 329,887 329,908 254,908"/>
+	<TextEquiv>
+	<Unicode>pictures</Unicode></TextEquiv></Word>
+	<Word id="r443">
+	<Coords points="336,887 372,887 372,904 336,904"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r444">
+	<Coords points="378,888 386,888 386,904 378,904"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r445">
+	<Coords points="392,887 437,887 437,904 392,904"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r446">
+	<Coords points="443,889 474,889 474,904 443,904"/>
+	<TextEquiv>
+	<Unicode>not</Unicode></TextEquiv></Word>
+	<Word id="r447">
+	<Coords points="480,887 526,887 526,904 480,904"/>
+	<TextEquiv>
+	<Unicode>been</Unicode></TextEquiv></Word>
+	<Word id="r448">
+	<Coords points="532,887 571,887 571,904 532,904"/>
+	<TextEquiv>
+	<Unicode>able</Unicode></TextEquiv></Word>
+	<Word id="r449">
+	<Coords points="577,889 596,889 596,904 577,904"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r450">
+	<Coords points="603,893 632,893 632,904 603,904"/>
+	<TextEquiv>
+	<Unicode>see</Unicode></TextEquiv></Word>
+	<Word id="r451">
+	<Coords points="638,887 668,887 668,904 638,904"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r452">
+	<Coords points="674,887 743,887 743,908 674,908"/>
+	<TextEquiv>
+	<Unicode>people,</Unicode></TextEquiv></Word>
+	<Word id="r453">
+	<Coords points="749,887 809,887 809,904 749,904"/>
+	<TextEquiv>
+	<Unicode>which</Unicode></TextEquiv></Word>
+	<Word id="r454">
+	<Coords points="814,893 851,893 851,904 814,904"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r455">
+	<Coords points="857,893 919,893 919,904 857,904"/>
+	<TextEquiv>
+	<Unicode>worse.</Unicode></TextEquiv></Word>
+	<Word id="r456">
+	<Coords points="927,887 964,887 964,904 927,904"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r457">
+	<Coords points="971,888 1072,888 1072,904 971,904"/>
+	<TextEquiv>
+	<Unicode>Grosvenor</Unicode></TextEquiv></Word>
+	<Word id="r458">
+	<Coords points="1078,887 1093,887 1093,904 1078,904"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r459">
+	<Coords points="1099,887 1154,887 1154,908 1099,908"/>
+	<TextEquiv>
+	<Unicode>really</Unicode></TextEquiv></Word>
+	<Word id="r460">
+	<Coords points="1160,887 1189,887 1189,904 1160,904"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r461">
+	<Coords points="1196,887 1238,887 1238,908 1196,908"/>
+	<TextEquiv>
+	<Unicode>only</Unicode></TextEquiv></Word>
+	<Word id="r462">
+	<Coords points="1244,887 1308,887 1308,908 1244,908"/>
+	<TextEquiv>
+	<Unicode>place."</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>was dreadﬁﬂ, or so many pictures that I have not been able to see the people, which was worse. The Grcsvenor is really the only place."</Unicode></TextEquiv></TextLine></TextRegion></Page></PcGts>

@@ -1,0 +1,7 @@
+Screen Bounds in pixels: (0, 0), 1920 x 1080
+Display Size in millimeters 509.0 x 286.3
+Eye tracking device status: Tracking
+User presence: Present
+User profile name: olivier - Glasses
+Gaze Point Data Mode: LightlyFiltered
+Recording speed: UNDEFINED

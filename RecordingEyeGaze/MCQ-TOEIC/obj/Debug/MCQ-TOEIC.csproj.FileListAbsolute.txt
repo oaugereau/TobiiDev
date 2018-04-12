@@ -1,0 +1,9 @@
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\MCQ-TOEIC\bin\Debug\MCQ-TOEIC.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\MCQ-TOEIC\bin\Debug\MCQ-TOEIC.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\MCQ-TOEIC\bin\Debug\MCQ-TOEIC.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\MCQ-TOEIC\obj\Debug\MCQ_TOEIC.Form1.resources
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\MCQ-TOEIC\obj\Debug\MCQ_TOEIC.FormSure.resources
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\MCQ-TOEIC\obj\Debug\MCQ_TOEIC.Properties.Resources.resources
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\MCQ-TOEIC\obj\Debug\MCQ-TOEIC.csproj.GenerateResource.Cache
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\MCQ-TOEIC\obj\Debug\MCQ-TOEIC.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\MCQ-TOEIC\obj\Debug\MCQ-TOEIC.pdb

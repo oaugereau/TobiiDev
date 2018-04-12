@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-04-02T09:16:46</Created>
+	<LastChange>2015-04-02T09:16:46</LastChange></Metadata>
+	<Page imageFilename="9 Happy Prince.png" imageWidth="825" imageHeight="193">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="27,26 779,26 779,62 790,62 790,84 751,84 751,120 703,120 703,127 409,127 409,157 184,157 184,164 27,164"/>
+	<TextLine id="r2">
+	<Coords points="27,26 779,26 779,48 497,48 497,52 398,52 398,48 279,48 279,55 227,55 227,48 89,48 89,55 27,55"/>
+	<Word id="r3">
+	<Coords points="27,26 89,26 89,55 27,55"/>
+	<TextEquiv>
+	<Unicode>High</Unicode></TextEquiv></Word>
+	<Word id="r4">
+	<Coords points="98,26 171,26 171,48 98,48"/>
+	<TextEquiv>
+	<Unicode>above</Unicode></TextEquiv></Word>
+	<Word id="r5">
+	<Coords points="180,26 217,26 217,48 180,48"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r6">
+	<Coords points="227,26 279,26 279,55 227,55"/>
+	<TextEquiv>
+	<Unicode>city,</Unicode></TextEquiv></Word>
+	<Word id="r7">
+	<Coords points="289,34 319,34 319,48 289,48"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r8">
+	<Coords points="328,34 341,34 341,48 328,48"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r9">
+	<Coords points="349,26 388,26 388,48 349,48"/>
+	<TextEquiv>
+	<Unicode>tall</Unicode></TextEquiv></Word>
+	<Word id="r10">
+	<Coords points="398,26 497,26 497,52 398,52"/>
+	<TextEquiv>
+	<Unicode>column,</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="507,26 574,26 574,48 507,48"/>
+	<TextEquiv>
+	<Unicode>stood</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="582,26 619,26 619,48 582,48"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="629,29 699,29 699,48 629,48"/>
+	<TextEquiv>
+	<Unicode>statue</Unicode></TextEquiv></Word>
+	<Word id="r14">
+	<Coords points="709,26 738,26 738,48 709,48"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r15">
+	<Coords points="742,26 779,26 779,48 742,48"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>High above the city, on a tall column, stood the statue of the</Unicode></TextEquiv></TextLine>
+	<TextLine id="r16">
+	<Coords points="118,62 204,62 204,63 315,63 315,62 790,62 790,84 392,84 392,91 315,91 315,84 110,84 110,91 27,91 27,63 118,63"/>
+	<Word id="r17">
+	<Coords points="27,63 110,63 110,91 27,91"/>
+	<TextEquiv>
+	<Unicode>Happy</Unicode></TextEquiv></Word>
+	<Word id="r18">
+	<Coords points="118,62 204,62 204,84 118,84"/>
+	<TextEquiv>
+	<Unicode>Prince.</Unicode></TextEquiv></Word>
+	<Word id="r19">
+	<Coords points="214,63 249,63 249,84 214,84"/>
+	<TextEquiv>
+	<Unicode>He</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="258,70 305,70 305,84 258,84"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="315,62 392,62 392,91 315,91"/>
+	<TextEquiv>
+	<Unicode>gilded</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="401,62 431,62 431,84 401,84"/>
+	<TextEquiv>
+	<Unicode>all</Unicode></TextEquiv></Word>
+	<Word id="r23">
+	<Coords points="440,70 495,70 495,84 440,84"/>
+	<TextEquiv>
+	<Unicode>over</Unicode></TextEquiv></Word>
+	<Word id="r24">
+	<Coords points="503,62 558,62 558,84 503,84"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r25">
+	<Coords points="566,62 615,62 615,84 566,84"/>
+	<TextEquiv>
+	<Unicode>thin</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="623,62 699,62 699,84 623,84"/>
+	<TextEquiv>
+	<Unicode>leaves</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="709,62 737,62 737,84 709,84"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r28">
+	<Coords points="743,62 790,62 790,84 743,84"/>
+	<TextEquiv>
+	<Unicode>fine</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Happy Prince. He was gilded all over with thin leaves of fine</Unicode></TextEquiv></TextLine>
+	<TextLine id="r29">
+	<Coords points="28,98 751,98 751,120 703,120 703,127 351,127 351,120 197,120 197,127 28,127"/>
+	<Word id="r30">
+	<Coords points="28,98 89,98 89,127 28,127"/>
+	<TextEquiv>
+	<Unicode>gold,</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="99,98 135,98 135,120 99,120"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="143,106 197,106 197,127 143,127"/>
+	<TextEquiv>
+	<Unicode>eyes</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="206,98 234,98 234,120 206,120"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="243,98 288,98 288,120 243,120"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="296,101 342,101 342,120 296,120"/>
+	<TextEquiv>
+	<Unicode>two</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="351,98 425,98 425,127 351,127"/>
+	<TextEquiv>
+	<Unicode>bright</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="435,98 557,98 557,127 435,127"/>
+	<TextEquiv>
+	<Unicode>sapphires,</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="568,98 612,98 612,120 568,120"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="621,106 633,106 633,120 621,120"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r40">
+	<Coords points="643,98 703,98 703,127 643,127"/>
+	<TextEquiv>
+	<Unicode>large</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="712,98 751,98 751,120 712,120"/>
+	<TextEquiv>
+	<Unicode>red</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>gold, for eyes he had two bright sapphires, and a large red</Unicode></TextEquiv></TextLine>
+	<TextLine id="r42">
+	<Coords points="27,135 409,135 409,157 184,157 184,164 27,164"/>
+	<Word id="r43">
+	<Coords points="27,135 84,135 84,164 27,164"/>
+	<TextEquiv>
+	<Unicode>ruby</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="93,135 184,135 184,164 93,164"/>
+	<TextEquiv>
+	<Unicode>glowed</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="193,143 223,143 223,157 193,157"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="231,135 266,135 266,157 231,157"/>
+	<TextEquiv>
+	<Unicode>his</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="277,135 409,135 409,157 277,157"/>
+	<TextEquiv>
+	<Unicode>sword-hilt.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ruby glowed on his sword-hilt.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>High above the city, on a tall column, stood the statue of the
+Happy Prince. He was gilded all over with thin leaves of fine
+gold, for eyes he had two bright sapphires, and a large red
+ruby glowed on his sword-hilt.</Unicode></TextEquiv></TextRegion></Page></PcGts>

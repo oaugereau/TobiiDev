@@ -1,0 +1,14 @@
+c:\users\charles\documents\visual studio 2013\Projects\JinsTest\JinsTest\bin\Debug\JinsTest.exe.config
+c:\users\charles\documents\visual studio 2013\Projects\JinsTest\JinsTest\obj\Debug\JinsTest.csprojResolveAssemblyReference.cache
+c:\users\charles\documents\visual studio 2013\Projects\JinsTest\JinsTest\bin\Debug\JinsTest.exe
+c:\users\charles\documents\visual studio 2013\Projects\JinsTest\JinsTest\bin\Debug\JinsTest.pdb
+c:\users\charles\documents\visual studio 2013\Projects\JinsTest\JinsTest\obj\Debug\JinsTest.exe
+c:\users\charles\documents\visual studio 2013\Projects\JinsTest\JinsTest\obj\Debug\JinsTest.pdb
+c:\users\charles\documents\visual studio 2013\Projects\JinsTest\JinsTest\bin\Debug\DataEncryption.dll
+C:\Users\Olivier\Documents\GitHub\eyex\JinsDemo\JinsTest\bin\Debug\JinsTest.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\JinsDemo\JinsTest\bin\Debug\JinsTest.exe
+C:\Users\Olivier\Documents\GitHub\eyex\JinsDemo\JinsTest\bin\Debug\JinsTest.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\JinsDemo\JinsTest\bin\Debug\DataEncryption.dll
+C:\Users\Olivier\Documents\GitHub\eyex\JinsDemo\JinsTest\obj\Debug\JinsTest.exe
+C:\Users\Olivier\Documents\GitHub\eyex\JinsDemo\JinsTest\obj\Debug\JinsTest.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\JinsDemo\JinsTest\obj\Debug\JinsTest.csprojResolveAssemblyReference.cache

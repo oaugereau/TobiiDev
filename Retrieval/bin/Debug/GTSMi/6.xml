@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-27T03:10:19</Created>
+	<LastChange>2015-02-27T03:10:19</LastChange></Metadata>
+	<Page imageFilename="doc6.jpg" imageWidth="1680" imageHeight="1050">
+	<ImageRegion id="r1">
+	<Coords points="0,0 1685,0 1685,1049 0,1049"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="549,123 641,123 641,136 549,136"/>
+	<TextLine id="r3">
+	<Coords points="549,123 641,123 641,136 549,136"/>
+	<Word id="r4">
+	<Coords points="549,123 583,123 583,136 549,136"/>
+	<TextEquiv>
+	<Unicode>Dear</Unicode></TextEquiv></Word>
+	<Word id="r5">
+	<Coords points="587,123 641,123 641,136 587,136"/>
+	<TextEquiv>
+	<Unicode>Parents:</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Dear Parents:</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Dear Parents:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="549,172 1151,172 1151,286 549,286"/>
+	<TextLine id="r7">
+	<Coords points="549,172 1150,172 1150,188 549,188"/>
+	<Word id="r8">
+	<Coords points="549,172 614,172 614,185 549,185"/>
+	<TextEquiv>
+	<Unicode>weioorne</Unicode></TextEquiv></Word>
+	<Word id="r9">
+	<Coords points="618,174 631,174 631,185 618,185"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r10">
+	<Coords points="636,176 643,176 643,185 636,185"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="648,176 675,176 675,185 648,185"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="681,172 724,172 724,185 681,185"/>
+	<TextEquiv>
+	<Unicode>school</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="729,172 763,172 763,188 729,188"/>
+	<TextEquiv>
+	<Unicode>year!</Unicode></TextEquiv></Word>
+	<Word id="r14">
+	<Coords points="770,172 792,172 792,185 770,185"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r15">
+	<Coords points="797,172 830,172 830,188 797,188"/>
+	<TextEquiv>
+	<Unicode>hope</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="834,176 860,176 860,188 834,188"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r17">
+	<Coords points="865,172 889,172 889,185 865,185"/>
+	<TextEquiv>
+	<Unicode>sud</Unicode></TextEquiv></Word>
+	<Word id="r18">
+	<Coords points="893,176 925,176 925,188 893,188"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r19">
+	<Coords points="929,172 984,172 984,185 929,185"/>
+	<TextEquiv>
+	<Unicode>rnnuiies</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="989,172 1013,172 1013,185 989,185"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="1018,176 1025,176 1025,185 1018,185"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="1029,172 1088,172 1088,185 1029,185"/>
+	<TextEquiv>
+	<Unicode>fabulous</Unicode></TextEquiv></Word>
+	<Word id="r23">
+	<Coords points="1092,172 1150,172 1150,185 1092,185"/>
+	<TextEquiv>
+	<Unicode>wcalion</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>weioorne to a new school year! we hope you sud your rnnuiies had a fabulous wcalion</Unicode></TextEquiv></TextLine>
+	<TextLine id="r24">
+	<Coords points="550,197 1150,197 1150,213 550,213"/>
+	<Word id="r25">
+	<Coords points="550,197 574,197 574,209 550,209"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="579,200 599,200 599,209 579,209"/>
+	<TextEquiv>
+	<Unicode>nre</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="604,197 642,197 642,213 604,213"/>
+	<TextEquiv>
+	<Unicode>ready</Unicode></TextEquiv></Word>
+	<Word id="r28">
+	<Coords points="647,197 667,197 667,209 647,209"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r29">
+	<Coords points="672,197 724,197 724,209 672,209"/>
+	<TextEquiv>
+	<Unicode>nnouner</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="728,199 763,199 763,213 728,213"/>
+	<TextEquiv>
+	<Unicode>green</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="767,200 797,200 797,213 767,213"/>
+	<TextEquiv>
+	<Unicode>year</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="802,199 814,199 814,209 802,209"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="818,197 865,197 865,209 818,209"/>
+	<TextEquiv>
+	<Unicode>Milton</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="870,197 938,197 938,213 870,213"/>
+	<TextEquiv>
+	<Unicode>Acndenry.</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="945,197 972,197 972,209 945,209"/>
+	<TextEquiv>
+	<Unicode>our</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="977,200 1004,200 1004,209 977,209"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="1009,197 1056,197 1056,213 1009,213"/>
+	<TextEquiv>
+	<Unicode>faculty</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="1062,197 1124,197 1124,209 1062,209"/>
+	<TextEquiv>
+	<Unicode>membczs</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="1130,200 1150,200 1150,209 1130,209"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>and nre ready for nnouner green year at Milton Acndenry. our new faculty membczs are</Unicode></TextEquiv></TextLine>
+	<TextLine id="r40">
+	<Coords points="550,221 1150,221 1150,237 550,237"/>
+	<Word id="r41">
+	<Coords points="550,221 595,221 595,234 550,234"/>
+	<TextEquiv>
+	<Unicode>almost</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="600,221 653,221 653,237 600,237"/>
+	<TextEquiv>
+	<Unicode>through</Unicode></TextEquiv></Word>
+	<Word id="r43">
+	<Coords points="659,221 691,221 691,234 659,234"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="696,221 722,221 722,234 696,234"/>
+	<TextEquiv>
+	<Unicode>ﬁrs!</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="727,221 763,221 763,234 727,234"/>
+	<TextEquiv>
+	<Unicode>week</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="769,221 784,221 784,234 769,234"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="788,221 866,221 866,234 788,234"/>
+	<TextEquiv>
+	<Unicode>orienlalion.</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="874,221 900,221 900,234 874,234"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r49">
+	<Coords points="906,221 929,221 929,234 906,234"/>
+	<TextEquiv>
+	<Unicode>run</Unicode></TextEquiv></Word>
+	<Word id="r50">
+	<Coords points="935,221 982,221 982,237 935,237"/>
+	<TextEquiv>
+	<Unicode>faculty</Unicode></TextEquiv></Word>
+	<Word id="r51">
+	<Coords points="987,223 1035,223 1035,234 987,234"/>
+	<TextEquiv>
+	<Unicode>relunis</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="1040,223 1069,223 1069,234 1040,234"/>
+	<TextEquiv>
+	<Unicode>nexl</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="1075,221 1131,221 1131,237 1075,237"/>
+	<TextEquiv>
+	<Unicode>Monday</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="1137,223 1150,223 1150,234 1137,234"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>almost through their ﬁrs! week or orienlalion. The run faculty relunis nexl Monday to</Unicode></TextEquiv></TextLine>
+	<TextLine id="r55">
+	<Coords points="549,246 1151,246 1151,262 549,262"/>
+	<Word id="r56">
+	<Coords points="549,250 601,250 601,262 549,262"/>
+	<TextEquiv>
+	<Unicode>prepnre</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="605,246 625,246 625,258 605,258"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r58">
+	<Coords points="629,250 661,250 661,262 629,262"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r59">
+	<Coords points="665,246 732,246 732,258 665,258"/>
+	<TextEquiv>
+	<Unicode>I;hild.rtn's</Unicode></TextEquiv></Word>
+	<Word id="r60">
+	<Coords points="737,246 763,246 763,258 737,258"/>
+	<TextEquiv>
+	<Unicode>first</Unicode></TextEquiv></Word>
+	<Word id="r61">
+	<Coords points="768,246 792,246 792,262 768,262"/>
+	<TextEquiv>
+	<Unicode>any</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="796,246 812,246 812,258 796,258"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="815,246 863,246 863,258 815,258"/>
+	<TextEquiv>
+	<Unicode>school.</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="869,246 896,246 896,258 869,258"/>
+	<TextEquiv>
+	<Unicode>You</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="901,246 927,246 927,258 901,258"/>
+	<TextEquiv>
+	<Unicode>will</Unicode></TextEquiv></Word>
+	<Word id="r66">
+	<Coords points="932,246 963,246 963,258 932,258"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="968,250 984,250 984,258 968,258"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="988,246 1068,246 1068,262 988,262"/>
+	<TextEquiv>
+	<Unicode>cippomlnity</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="1072,248 1085,248 1085,258 1072,258"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="1090,248 1123,248 1123,258 1090,258"/>
+	<TextEquiv>
+	<Unicode>nreer</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="1127,250 1151,250 1151,258 1127,258"/>
+	<TextEquiv>
+	<Unicode>our</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>prepnre for your I;hild.rtn's first any of school. You will have an cippomlnity to nreer our</Unicode></TextEquiv></TextLine>
+	<TextLine id="r72">
+	<Coords points="550,270 992,270 992,286 550,286"/>
+	<Word id="r73">
+	<Coords points="550,270 605,270 605,283 550,283"/>
+	<TextEquiv>
+	<Unicode>teachers</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="610,270 649,270 649,283 610,283"/>
+	<TextEquiv>
+	<Unicode>eiLher</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="654,272 683,272 683,283 654,283"/>
+	<TextEquiv>
+	<Unicode>next</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="687,270 723,270 723,283 687,283"/>
+	<TextEquiv>
+	<Unicode>week</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="728,274 742,274 742,283 728,283"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r78">
+	<Coords points="747,272 759,272 759,283 747,283"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r79">
+	<Coords points="763,274 786,274 786,283 763,283"/>
+	<TextEquiv>
+	<Unicode>our</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="790,270 859,270 859,286 790,286"/>
+	<TextEquiv>
+	<Unicode>upcoming</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="863,274 896,274 896,286 863,286"/>
+	<TextEquiv>
+	<Unicode>open</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="901,270 941,270 941,283 901,283"/>
+	<TextEquiv>
+	<Unicode>house</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="945,272 992,272 992,283 945,283"/>
+	<TextEquiv>
+	<Unicode>evenvs.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>teachers eiLher next week or at our upcoming open house evenvs.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>weioorne to a new school year! we hope you sud your rnnuiies had a fabulous wcalion
+and nre ready for nnouner green year at Milton Acndenry. our new faculty membczs are
+almost through their ﬁrs! week or orienlalion. The run faculty relunis nexl Monday to
+prepnre for your I;hild.rtn's first any of school. You will have an cippomlnity to nreer our
+teachers eiLher next week or at our upcoming open house evenvs.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r84" type="paragraph">
+	<Coords points="549,326 1150,326 1150,465 549,465"/>
+	<TextLine id="r85">
+	<Coords points="550,326 1150,326 1150,342 550,342"/>
+	<Word id="r86">
+	<Coords points="550,326 602,326 602,339 550,339"/>
+	<TextEquiv>
+	<Unicode>Student</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="607,326 678,326 678,342 607,342"/>
+	<TextEquiv>
+	<Unicode>placement</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="684,326 694,326 694,339 684,339"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="701,326 746,326 746,339 701,339"/>
+	<TextEquiv>
+	<Unicode>allnnsl</Unicode></TextEquiv></Word>
+	<Word id="r90">
+	<Coords points="752,326 818,326 818,342 752,342"/>
+	<TextEquiv>
+	<Unicode>complete.</Unicode></TextEquiv></Word>
+	<Word id="r91">
+	<Coords points="827,327 850,327 850,339 827,339"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r92">
+	<Coords points="856,326 887,326 887,339 856,339"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="893,326 967,326 967,339 893,339"/>
+	<TextEquiv>
+	<Unicode>considered</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="973,330 1004,330 1004,342 973,342"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r95">
+	<Coords points="1010,326 1055,326 1055,339 1010,339"/>
+	<TextEquiv>
+	<Unicode>child's</Unicode></TextEquiv></Word>
+	<Word id="r96">
+	<Coords points="1061,328 1089,328 1089,342 1061,342"/>
+	<TextEquiv>
+	<Unicode>past</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="1094,326 1150,326 1150,342 1094,342"/>
+	<TextEquiv>
+	<Unicode>leaniing</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Student placement is allnnsl complete. we have considered your child's past leaniing</Unicode></TextEquiv></TextLine>
+	<TextLine id="r98">
+	<Coords points="549,351 1150,351 1150,367 549,367"/>
+	<Word id="r99">
+	<Coords points="549,351 630,351 630,367 549,367"/>
+	<TextEquiv>
+	<Unicode>experiences</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="635,351 648,351 648,363 635,363"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="653,351 736,351 736,367 653,367"/>
+	<TextEquiv>
+	<Unicode>dererrnining</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="741,351 774,351 774,363 741,363"/>
+	<TextEquiv>
+	<Unicode>eisss</Unicode></TextEquiv></Word>
+	<Word id="r103">
+	<Coords points="779,351 856,351 856,367 779,367"/>
+	<TextEquiv>
+	<Unicode>placcmcnls</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="861,351 881,351 881,363 861,363"/>
+	<TextEquiv>
+	<Unicode>fm</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="886,351 910,351 910,363 886,363"/>
+	<TextEquiv>
+	<Unicode>nus</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="916,351 960,351 960,363 916,363"/>
+	<TextEquiv>
+	<Unicode>renooi</Unicode></TextEquiv></Word>
+	<Word id="r107">
+	<Coords points="965,355 997,355 997,367 965,367"/>
+	<TextEquiv>
+	<Unicode>yesr.</Unicode></TextEquiv></Word>
+	<Word id="r108">
+	<Coords points="1004,351 1031,351 1031,363 1004,363"/>
+	<TextEquiv>
+	<Unicode>1-ire</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="1036,351 1112,351 1112,363 1036,363"/>
+	<TextEquiv>
+	<Unicode>ndrnirsions</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="1117,353 1150,353 1150,363 1117,363"/>
+	<TextEquiv>
+	<Unicode>resrn</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>experiences in dererrnining eisss placcmcnls fm nus renooi yesr. 1-ire ndrnirsions resrn</Unicode></TextEquiv></TextLine>
+	<TextLine id="r111">
+	<Coords points="549,375 1150,375 1150,392 549,392"/>
+	<Word id="r112">
+	<Coords points="549,375 572,375 572,388 549,388"/>
+	<TextEquiv>
+	<Unicode>has</Unicode></TextEquiv></Word>
+	<Word id="r113">
+	<Coords points="578,375 609,375 609,388 578,388"/>
+	<TextEquiv>
+	<Unicode>nied</Unicode></TextEquiv></Word>
+	<Word id="r114">
+	<Coords points="615,379 644,379 644,391 615,391"/>
+	<TextEquiv>
+	<Unicode>very</Unicode></TextEquiv></Word>
+	<Word id="r115">
+	<Coords points="650,375 680,375 680,388 650,388"/>
+	<TextEquiv>
+	<Unicode>hard</Unicode></TextEquiv></Word>
+	<Word id="r116">
+	<Coords points="686,378 699,378 699,388 686,388"/>
+	<TextEquiv>
+	<Unicode>ro</Unicode></TextEquiv></Word>
+	<Word id="r117">
+	<Coords points="704,375 764,375 764,388 704,388"/>
+	<TextEquiv>
+	<Unicode>esraniisn</Unicode></TextEquiv></Word>
+	<Word id="r118">
+	<Coords points="770,375 830,375 830,388 770,388"/>
+	<TextEquiv>
+	<Unicode>balanced</Unicode></TextEquiv></Word>
+	<Word id="r119">
+	<Coords points="836,375 883,375 883,388 836,388"/>
+	<TextEquiv>
+	<Unicode>classes</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="889,376 915,376 915,388 889,388"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="920,376 974,376 974,392 920,392"/>
+	<TextEquiv>
+	<Unicode>respond</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="980,377 993,377 993,388 980,388"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="999,379 1022,379 1022,388 999,388"/>
+	<TextEquiv>
+	<Unicode>our</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="1027,375 1087,375 1087,388 1027,388"/>
+	<TextEquiv>
+	<Unicode>students’</Unicode></TextEquiv></Word>
+	<Word id="r125">
+	<Coords points="1094,375 1150,375 1150,391 1094,391"/>
+	<TextEquiv>
+	<Unicode>learning</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>has nied very hard ro esraniisn balanced classes that respond to our students’ learning</Unicode></TextEquiv></TextLine>
+	<TextLine id="r126">
+	<Coords points="550,400 1150,400 1150,416 550,416"/>
+	<Word id="r127">
+	<Coords points="550,400 588,400 588,416 550,416"/>
+	<TextEquiv>
+	<Unicode>sryies</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="594,400 619,400 619,413 594,413"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="625,400 667,400 667,413 625,413"/>
+	<TextEquiv>
+	<Unicode>needs.</Unicode></TextEquiv></Word>
+	<Word id="r130">
+	<Coords points="677,400 710,400 710,413 677,413"/>
+	<TextEquiv>
+	<Unicode>Your</Unicode></TextEquiv></Word>
+	<Word id="r131">
+	<Coords points="716,400 761,400 761,413 716,413"/>
+	<TextEquiv>
+	<Unicode>child's</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="767,400 841,400 841,413 767,413"/>
+	<TextEquiv>
+	<Unicode>norneroonr</Unicode></TextEquiv></Word>
+	<Word id="r133">
+	<Coords points="847,400 868,400 868,412 847,412"/>
+	<TextEquiv>
+	<Unicode>list</Unicode></TextEquiv></Word>
+	<Word id="r134">
+	<Coords points="874,400 904,400 904,412 874,412"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r135">
+	<Coords points="910,400 957,400 957,413 910,413"/>
+	<TextEquiv>
+	<Unicode>his/her</Unicode></TextEquiv></Word>
+	<Word id="r136">
+	<Coords points="962,400 1012,400 1012,413 962,413"/>
+	<TextEquiv>
+	<Unicode>reseirer</Unicode></TextEquiv></Word>
+	<Word id="r137">
+	<Coords points="1017,400 1043,400 1043,412 1017,412"/>
+	<TextEquiv>
+	<Unicode>wiu</Unicode></TextEquiv></Word>
+	<Word id="r138">
+	<Coords points="1049,400 1065,400 1065,413 1049,413"/>
+	<TextEquiv>
+	<Unicode>be</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="1071,400 1131,400 1131,413 1071,413"/>
+	<TextEquiv>
+	<Unicode>e.rnni1ed</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="1137,402 1150,402 1150,412 1137,412"/>
+	<TextEquiv>
+	<Unicode>Io</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>sryies and needs. Your child's norneroonr list with his/her reseirer wiu be e.rnni1ed Io</Unicode></TextEquiv></TextLine>
+	<TextLine id="r141">
+	<Coords points="550,424 1150,424 1150,441 550,441"/>
+	<Word id="r142">
+	<Coords points="550,428 575,428 575,441 550,441"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="580,428 597,428 597,437 580,437"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="602,425 661,425 661,441 602,441"/>
+	<TextEquiv>
+	<Unicode>Inesdny.</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="670,425 719,425 719,441 670,441"/>
+	<TextEquiv>
+	<Unicode>August</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="724,425 736,425 736,437 724,437"/>
+	<TextEquiv>
+	<Unicode>9.</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="744,425 758,425 758,437 744,437"/>
+	<TextEquiv>
+	<Unicode>In</Unicode></TextEquiv></Word>
+	<Word id="r148">
+	<Coords points="763,425 823,425 823,439 763,439"/>
+	<TextEquiv>
+	<Unicode>sddinon,</Unicode></TextEquiv></Word>
+	<Word id="r149">
+	<Coords points="829,425 845,425 845,437 829,437"/>
+	<TextEquiv>
+	<Unicode>all</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="850,425 883,425 883,437 850,437"/>
+	<TextEquiv>
+	<Unicode>eisss</Unicode></TextEquiv></Word>
+	<Word id="r151">
+	<Coords points="889,425 959,425 959,441 889,441"/>
+	<TextEquiv>
+	<Unicode>pineenrenr</Unicode></TextEquiv></Word>
+	<Word id="r152">
+	<Coords points="964,425 991,425 991,437 964,437"/>
+	<TextEquiv>
+	<Unicode>iisrs</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="997,425 1023,425 1023,437 997,437"/>
+	<TextEquiv>
+	<Unicode>wi11</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="1028,425 1044,425 1044,437 1028,437"/>
+	<TextEquiv>
+	<Unicode>be</Unicode></TextEquiv></Word>
+	<Word id="r155">
+	<Coords points="1049,425 1094,425 1094,441 1049,441"/>
+	<TextEquiv>
+	<Unicode>posred</Unicode></TextEquiv></Word>
+	<Word id="r156">
+	<Coords points="1099,425 1112,425 1112,437 1099,437"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r157">
+	<Coords points="1117,424 1150,424 1150,437 1117,437"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>you on Inesdny. August 9. In sddinon, all eisss pineenrenr iisrs wi11 be posred in from</Unicode></TextEquiv></TextLine>
+	<TextLine id="r158">
+	<Coords points="550,449 963,449 963,465 550,465"/>
+	<Word id="r159">
+	<Coords points="550,449 565,449 565,462 550,462"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="568,449 589,449 589,462 568,462"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="594,449 638,449 638,462 594,462"/>
+	<TextEquiv>
+	<Unicode>school</Unicode></TextEquiv></Word>
+	<Word id="r162">
+	<Coords points="643,449 688,449 688,465 643,465"/>
+	<TextEquiv>
+	<Unicode>library</Unicode></TextEquiv></Word>
+	<Word id="r163">
+	<Coords points="693,453 709,453 709,462 693,462"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r164">
+	<Coords points="714,449 774,449 774,465 714,465"/>
+	<TextEquiv>
+	<Unicode>Tuesday,</Unicode></TextEquiv></Word>
+	<Word id="r165">
+	<Coords points="779,449 829,449 829,465 779,465"/>
+	<TextEquiv>
+	<Unicode>August</Unicode></TextEquiv></Word>
+	<Word id="r166">
+	<Coords points="833,449 841,449 841,462 833,462"/>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv></Word>
+	<Word id="r167">
+	<Coords points="846,449 878,449 878,462 846,462"/>
+	<TextEquiv>
+	<Unicode>srrer</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="884,449 921,449 921,462 884,462"/>
+	<TextEquiv>
+	<Unicode>12:00</Unicode></TextEquiv></Word>
+	<Word id="r169">
+	<Coords points="925,453 963,453 963,462 925,462"/>
+	<TextEquiv>
+	<Unicode>noon.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>or the school library on Tuesday, August 9 srrer 12:00 noon.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Student placement is allnnsl complete. we have considered your child's past leaniing
+experiences in dererrnining eisss placcmcnls fm nus renooi yesr. 1-ire ndrnirsions resrn
+has nied very hard ro esraniisn balanced classes that respond to our students’ learning
+sryies and needs. Your child's norneroonr list with his/her reseirer wiu be e.rnni1ed Io
+you on Inesdny. August 9. In sddinon, all eisss pineenrenr iisrs wi11 be posred in from
+or the school library on Tuesday, August 9 srrer 12:00 noon.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r170" type="paragraph">
+	<Coords points="549,502 1151,502 1151,542 549,542"/>
+	<TextLine id="r171">
+	<Coords points="549,502 1151,502 1151,518 549,518"/>
+	<Word id="r172">
+	<Coords points="549,502 576,502 576,514 549,514"/>
+	<TextEquiv>
+	<Unicode>Tire</Unicode></TextEquiv></Word>
+	<Word id="r173">
+	<Coords points="580,502 648,502 648,518 580,518"/>
+	<TextEquiv>
+	<Unicode>beginning</Unicode></TextEquiv></Word>
+	<Word id="r174">
+	<Coords points="653,502 692,502 692,514 653,514"/>
+	<TextEquiv>
+	<Unicode>onne</Unicode></TextEquiv></Word>
+	<Word id="r175">
+	<Coords points="697,505 724,505 724,514 697,514"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="729,502 773,502 773,514 729,514"/>
+	<TextEquiv>
+	<Unicode>school</Unicode></TextEquiv></Word>
+	<Word id="r177">
+	<Coords points="778,505 808,505 808,518 778,518"/>
+	<TextEquiv>
+	<Unicode>year</Unicode></TextEquiv></Word>
+	<Word id="r178">
+	<Coords points="812,502 823,502 823,514 812,514"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r179">
+	<Coords points="828,505 835,505 835,514 828,514"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r180">
+	<Coords points="839,502 871,502 871,518 839,518"/>
+	<TextEquiv>
+	<Unicode>busy</Unicode></TextEquiv></Word>
+	<Word id="r181">
+	<Coords points="876,502 909,502 909,514 876,514"/>
+	<TextEquiv>
+	<Unicode>rirne.</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="916,502 949,502 949,514 916,514"/>
+	<TextEquiv>
+	<Unicode>Here</Unicode></TextEquiv></Word>
+	<Word id="r183">
+	<Coords points="954,505 974,505 974,514 954,514"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r184">
+	<Coords points="979,505 986,505 986,514 979,514"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="990,502 1015,502 1015,514 990,514"/>
+	<TextEquiv>
+	<Unicode>few</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="1020,502 1087,502 1087,518 1020,518"/>
+	<TextEquiv>
+	<Unicode>impomnl</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="1091,502 1126,502 1126,514 1091,514"/>
+	<TextEquiv>
+	<Unicode>dares</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="1130,502 1151,502 1151,514 1130,514"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Tire beginning onne new school year is a busy rirne. Here are a few impomnl dares for</Unicode></TextEquiv></TextLine>
+	<TextLine id="r189">
+	<Coords points="549,526 647,526 647,542 549,542"/>
+	<Word id="r190">
+	<Coords points="549,530 581,530 581,542 549,542"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r191">
+	<Coords points="585,526 647,526 647,539 585,539"/>
+	<TextEquiv>
+	<Unicode>calendar’.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>your calendar’.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Tire beginning onne new school year is a busy rirne. Here are a few impomnl dares for
+your calendar’.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r192" type="paragraph">
+	<Coords points="550,579 875,579 875,595 550,595"/>
+	<TextLine id="r193">
+	<Coords points="550,579 875,579 875,595 550,595"/>
+	<Word id="r194">
+	<Coords points="550,579 598,579 598,591 550,591"/>
+	<TextEquiv>
+	<Unicode>Grades</Unicode></TextEquiv></Word>
+	<Word id="r195">
+	<Coords points="603,579 624,579 624,591 603,591"/>
+	<TextEquiv>
+	<Unicode>2-5</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="630,581 659,581 659,591 630,591"/>
+	<TextEquiv>
+	<Unicode>start</Unicode></TextEquiv></Word>
+	<Word id="r197">
+	<Coords points="664,579 712,579 712,591 664,591"/>
+	<TextEquiv>
+	<Unicode>school:</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="718,579 786,579 786,595 718,595"/>
+	<TextEquiv>
+	<Unicode>Thursday,</Unicode></TextEquiv></Word>
+	<Word id="r199">
+	<Coords points="791,579 841,579 841,595 791,595"/>
+	<TextEquiv>
+	<Unicode>August</Unicode></TextEquiv></Word>
+	<Word id="r200">
+	<Coords points="847,579 875,579 875,591 847,591"/>
+	<TextEquiv>
+	<Unicode>11m</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Grades 2-5 start school: Thursday, August 11m</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Grades 2-5 start school: Thursday, August 11m</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r201" type="paragraph">
+	<Coords points="550,603 853,603 853,619 550,619"/>
+	<TextLine id="r202">
+	<Coords points="550,603 853,603 853,619 550,619"/>
+	<Word id="r203">
+	<Coords points="550,603 591,603 591,616 550,616"/>
+	<TextEquiv>
+	<Unicode>Grade</Unicode></TextEquiv></Word>
+	<Word id="r204">
+	<Coords points="598,603 602,603 602,616 598,616"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r205">
+	<Coords points="609,603 690,603 690,616 609,616"/>
+	<TextEquiv>
+	<Unicode>orieniarion:</Unicode></TextEquiv></Word>
+	<Word id="r206">
+	<Coords points="697,603 764,603 764,619 697,619"/>
+	<TextEquiv>
+	<Unicode>Thursday.</Unicode></TextEquiv></Word>
+	<Word id="r207">
+	<Coords points="769,603 819,603 819,619 769,619"/>
+	<TextEquiv>
+	<Unicode>August</Unicode></TextEquiv></Word>
+	<Word id="r208">
+	<Coords points="825,603 853,603 853,616 825,616"/>
+	<TextEquiv>
+	<Unicode>11:11</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Grade 1 orieniarion: Thursday. August 11:11</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Grade 1 orieniarion: Thursday. August 11:11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r209" type="paragraph">
+	<Coords points="550,628 839,628 839,644 550,644"/>
+	<TextLine id="r210">
+	<Coords points="550,628 839,628 839,644 550,644"/>
+	<Word id="r211">
+	<Coords points="550,628 591,628 591,640 550,640"/>
+	<TextEquiv>
+	<Unicode>Grad:</Unicode></TextEquiv></Word>
+	<Word id="r212">
+	<Coords points="598,628 602,628 602,640 598,640"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r213">
+	<Coords points="609,628 635,628 635,640 609,640"/>
+	<TextEquiv>
+	<Unicode>iirsr</Unicode></TextEquiv></Word>
+	<Word id="r214">
+	<Coords points="640,628 663,628 663,640 640,640"/>
+	<TextEquiv>
+	<Unicode>full</Unicode></TextEquiv></Word>
+	<Word id="r215">
+	<Coords points="668,628 696,628 696,644 668,644"/>
+	<TextEquiv>
+	<Unicode>day:</Unicode></TextEquiv></Word>
+	<Word id="r216">
+	<Coords points="703,628 750,628 750,644 703,644"/>
+	<TextEquiv>
+	<Unicode>Friday.</Unicode></TextEquiv></Word>
+	<Word id="r217">
+	<Coords points="755,628 805,628 805,644 755,644"/>
+	<TextEquiv>
+	<Unicode>August</Unicode></TextEquiv></Word>
+	<Word id="r218">
+	<Coords points="811,628 839,628 839,640 811,640"/>
+	<TextEquiv>
+	<Unicode>1211.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Grad: 1 iirsr full day: Friday. August 1211.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Grad: 1 iirsr full day: Friday. August 1211.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r219" type="paragraph">
+	<Coords points="550,652 1037,652 1037,718 550,718"/>
+	<TextLine id="r220">
+	<Coords points="550,652 1013,652 1013,668 550,668"/>
+	<Word id="r221">
+	<Coords points="550,652 639,652 639,668 550,668"/>
+	<TextEquiv>
+	<Unicode>Kindergarien</Unicode></TextEquiv></Word>
+	<Word id="r222">
+	<Coords points="644,653 656,653 656,665 644,665"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></Word>
+	<Word id="r223">
+	<Coords points="665,652 755,652 755,668 665,668"/>
+	<TextEquiv>
+	<Unicode>Kindergnrren</Unicode></TextEquiv></Word>
+	<Word id="r224">
+	<Coords points="760,653 770,653 770,665 760,665"/>
+	<TextEquiv>
+	<Unicode>13</Unicode></TextEquiv></Word>
+	<Word id="r225">
+	<Coords points="775,652 857,652 857,665 775,665"/>
+	<TextEquiv>
+	<Unicode>orienmion:</Unicode></TextEquiv></Word>
+	<Word id="r226">
+	<Coords points="864,653 923,653 923,668 864,668"/>
+	<TextEquiv>
+	<Unicode>Monday,</Unicode></TextEquiv></Word>
+	<Word id="r227">
+	<Coords points="929,653 978,653 978,668 929,668"/>
+	<TextEquiv>
+	<Unicode>August</Unicode></TextEquiv></Word>
+	<Word id="r228">
+	<Coords points="984,652 1013,652 1013,665 984,665"/>
+	<TextEquiv>
+	<Unicode>isrn</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Kindergarien A Kindergnrren 13 orienmion: Monday, August isrn</Unicode></TextEquiv></TextLine>
+	<TextLine id="r229">
+	<Coords points="550,677 990,677 990,693 550,693"/>
+	<Word id="r230">
+	<Coords points="550,677 639,677 639,693 550,693"/>
+	<TextEquiv>
+	<Unicode>Kindergsrien</Unicode></TextEquiv></Word>
+	<Word id="r231">
+	<Coords points="644,677 656,677 656,689 644,689"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></Word>
+	<Word id="r232">
+	<Coords points="665,677 755,677 755,693 665,693"/>
+	<TextEquiv>
+	<Unicode>Kindergnnen</Unicode></TextEquiv></Word>
+	<Word id="r233">
+	<Coords points="760,677 770,677 770,689 760,689"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></Word>
+	<Word id="r234">
+	<Coords points="775,677 803,677 803,689 775,689"/>
+	<TextEquiv>
+	<Unicode>mi:</Unicode></TextEquiv></Word>
+	<Word id="r235">
+	<Coords points="806,677 835,677 835,693 806,693"/>
+	<TextEquiv>
+	<Unicode>any:</Unicode></TextEquiv></Word>
+	<Word id="r236">
+	<Coords points="841,677 901,677 901,693 841,693"/>
+	<TextEquiv>
+	<Unicode>11rerdsy,</Unicode></TextEquiv></Word>
+	<Word id="r237">
+	<Coords points="906,677 956,677 956,693 906,693"/>
+	<TextEquiv>
+	<Unicode>August</Unicode></TextEquiv></Word>
+	<Word id="r238">
+	<Coords points="962,677 990,677 990,689 962,689"/>
+	<TextEquiv>
+	<Unicode>15111</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Kindergsrien A Kindergnnen 3 mi: any: 11rerdsy, August 15111</Unicode></TextEquiv></TextLine>
+	<TextLine id="r239">
+	<Coords points="550,701 1037,701 1037,718 550,718"/>
+	<Word id="r240">
+	<Coords points="550,702 639,702 639,718 550,718"/>
+	<TextEquiv>
+	<Unicode>Kindergancn</Unicode></TextEquiv></Word>
+	<Word id="r241">
+	<Coords points="644,702 656,702 656,714 644,714"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></Word>
+	<Word id="r242">
+	<Coords points="665,701 755,701 755,718 665,718"/>
+	<TextEquiv>
+	<Unicode>Kindcrganen</Unicode></TextEquiv></Word>
+	<Word id="r243">
+	<Coords points="760,701 767,701 767,714 760,714"/>
+	<TextEquiv>
+	<Unicode>8</Unicode></TextEquiv></Word>
+	<Word id="r244">
+	<Coords points="773,701 799,701 799,714 773,714"/>
+	<TextEquiv>
+	<Unicode>ﬁrs:</Unicode></TextEquiv></Word>
+	<Word id="r245">
+	<Coords points="804,701 827,701 827,714 804,714"/>
+	<TextEquiv>
+	<Unicode>full</Unicode></TextEquiv></Word>
+	<Word id="r246">
+	<Coords points="832,701 860,701 860,717 832,717"/>
+	<TextEquiv>
+	<Unicode>day:</Unicode></TextEquiv></Word>
+	<Word id="r247">
+	<Coords points="866,701 1003,701 1003,717 866,717"/>
+	<TextEquiv>
+	<Unicode>Wed.ncsday,Augus1</Unicode></TextEquiv></Word>
+	<Word id="r248">
+	<Coords points="1009,702 1037,702 1037,714 1009,714"/>
+	<TextEquiv>
+	<Unicode>l7v.h</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Kindergancn A Kindcrganen 8 ﬁrs: full day: Wed.ncsday,Augus1 l7v.h</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Kindergarien A Kindergnrren 13 orienmion: Monday, August isrn
+Kindergsrien A Kindergnnen 3 mi: any: 11rerdsy, August 15111
+Kindergancn A Kindcrganen 8 ﬁrs: full day: Wed.ncsday,Augus1 l7v.h</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r249" type="caption">
+	<Coords points="549,778 1150,778 1150,868 549,868"/>
+	<TextLine id="r250">
+	<Coords points="549,778 1150,778 1150,795 549,795"/>
+	<Word id="r251">
+	<Coords points="549,779 609,779 609,791 549,791"/>
+	<TextEquiv>
+	<Unicode>Whether</Unicode></TextEquiv></Word>
+	<Word id="r252">
+	<Coords points="612,782 638,782 638,794 612,794"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r253">
+	<Coords points="642,782 662,782 662,791 642,791"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r254">
+	<Coords points="666,778 729,778 729,795 666,795"/>
+	<TextEquiv>
+	<Unicode>ramming</Unicode></TextEquiv></Word>
+	<Word id="r255">
+	<Coords points="733,781 746,781 746,791 733,791"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r256">
+	<Coords points="750,778 797,778 797,791 750,791"/>
+	<TextEquiv>
+	<Unicode>Milton</Unicode></TextEquiv></Word>
+	<Word id="r257">
+	<Coords points="801,779 866,779 866,794 801,794"/>
+	<TextEquiv>
+	<Unicode>Academy</Unicode></TextEquiv></Word>
+	<Word id="r258">
+	<Coords points="871,778 891,778 891,791 871,791"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r259">
+	<Coords points="895,779 946,779 946,791 895,791"/>
+	<TextEquiv>
+	<Unicode>another</Unicode></TextEquiv></Word>
+	<Word id="r260">
+	<Coords points="950,779 994,779 994,791 950,791"/>
+	<TextEquiv>
+	<Unicode>school</Unicode></TextEquiv></Word>
+	<Word id="r261">
+	<Coords points="998,782 1031,782 1031,794 998,794"/>
+	<TextEquiv>
+	<Unicode>year,</Unicode></TextEquiv></Word>
+	<Word id="r262">
+	<Coords points="1035,778 1078,778 1078,795 1035,795"/>
+	<TextEquiv>
+	<Unicode>orjllsl</Unicode></TextEquiv></Word>
+	<Word id="r263">
+	<Coords points="1082,778 1150,778 1150,795 1082,795"/>
+	<TextEquiv>
+	<Unicode>beginning</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Whether you are ramming to Milton Academy for another school year, orjllsl beginning</Unicode></TextEquiv></TextLine>
+	<TextLine id="r264">
+	<Coords points="549,803 1150,803 1150,819 549,819"/>
+	<Word id="r265">
+	<Coords points="549,807 581,807 581,819 549,819"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r266">
+	<Coords points="586,803 613,803 613,815 586,815"/>
+	<TextEquiv>
+	<Unicode>MA</Unicode></TextEquiv></Word>
+	<Word id="r267">
+	<Coords points="619,803 696,803 696,819 619,819"/>
+	<TextEquiv>
+	<Unicode>experienoe,</Unicode></TextEquiv></Word>
+	<Word id="r268">
+	<Coords points="703,803 708,803 708,815 703,815"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r269">
+	<Coords points="714,803 744,803 744,816 714,816"/>
+	<TextEquiv>
+	<Unicode>look</Unicode></TextEquiv></Word>
+	<Word id="r270">
+	<Coords points="749,803 803,803 803,816 749,816"/>
+	<TextEquiv>
+	<Unicode>forward</Unicode></TextEquiv></Word>
+	<Word id="r271">
+	<Coords points="808,805 821,805 821,816 808,816"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r272">
+	<Coords points="827,803 874,803 874,819 827,819"/>
+	<TextEquiv>
+	<Unicode>geltirig</Unicode></TextEquiv></Word>
+	<Word id="r273">
+	<Coords points="880,805 893,805 893,816 880,816"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r274">
+	<Coords points="898,803 935,803 935,816 898,816"/>
+	<TextEquiv>
+	<Unicode>know</Unicode></TextEquiv></Word>
+	<Word id="r275">
+	<Coords points="941,807 966,807 966,819 941,819"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r276">
+	<Coords points="972,803 996,803 996,816 972,816"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r277">
+	<Coords points="1001,807 1033,807 1033,819 1001,819"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r278">
+	<Coords points="1038,803 1098,803 1098,816 1038,816"/>
+	<TextEquiv>
+	<Unicode>eniidren.</Unicode></TextEquiv></Word>
+	<Word id="r279">
+	<Coords points="1107,803 1150,803 1150,816 1107,816"/>
+	<TextEquiv>
+	<Unicode>nesse</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>your MA experienoe, 1 look forward to geltirig to know you and your eniidren. nesse</Unicode></TextEquiv></TextLine>
+	<TextLine id="r280">
+	<Coords points="549,828 1150,828 1150,844 549,844"/>
+	<Word id="r281">
+	<Coords points="549,828 575,828 575,840 549,840"/>
+	<TextEquiv>
+	<Unicode>feel</Unicode></TextEquiv></Word>
+	<Word id="r282">
+	<Coords points="580,828 607,828 607,840 580,840"/>
+	<TextEquiv>
+	<Unicode>free</Unicode></TextEquiv></Word>
+	<Word id="r283">
+	<Coords points="612,830 625,830 625,840 612,840"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r284">
+	<Coords points="631,828 655,828 655,840 631,840"/>
+	<TextEquiv>
+	<Unicode>call</Unicode></TextEquiv></Word>
+	<Word id="r285">
+	<Coords points="661,831 681,831 681,840 661,840"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r286">
+	<Coords points="687,828 765,828 765,842 687,842"/>
+	<TextEquiv>
+	<Unicode>2873-9900,</Unicode></TextEquiv></Word>
+	<Word id="r287">
+	<Coords points="771,830 795,830 795,840 771,840"/>
+	<TextEquiv>
+	<Unicode>ext.</Unicode></TextEquiv></Word>
+	<Word id="r288">
+	<Coords points="805,828 829,828 829,840 805,840"/>
+	<TextEquiv>
+	<Unicode>108</Unicode></TextEquiv></Word>
+	<Word id="r289">
+	<Coords points="835,831 849,831 849,840 835,840"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r290">
+	<Coords points="854,830 867,830 867,840 854,840"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r291">
+	<Coords points="873,828 916,828 916,840 873,840"/>
+	<TextEquiv>
+	<Unicode>e-mail</Unicode></TextEquiv></Word>
+	<Word id="r292">
+	<Coords points="922,831 942,831 942,840 922,840"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r293">
+	<Coords points="948,828 1084,828 1084,840 948,840"/>
+	<TextEquiv>
+	<Unicode>1noranc@ms.edII.1w</Unicode></TextEquiv></Word>
+	<Word id="r294">
+	<Coords points="1090,828 1120,828 1120,840 1090,840"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r295">
+	<Coords points="1126,831 1150,831 1150,844 1126,844"/>
+	<TextEquiv>
+	<Unicode>any</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>feel free to call me 2873-9900, ext. 108 or to e-mail me 1noranc@ms.edII.1w with any</Unicode></TextEquiv></TextLine>
+	<TextLine id="r296">
+	<Coords points="549,852 702,852 702,868 549,868"/>
+	<Word id="r297">
+	<Coords points="549,852 614,852 614,868 549,868"/>
+	<TextEquiv>
+	<Unicode>quesrions</Unicode></TextEquiv></Word>
+	<Word id="r298">
+	<Coords points="619,856 633,856 633,865 619,865"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r299">
+	<Coords points="637,856 702,856 702,865 637,865"/>
+	<TextEquiv>
+	<Unicode>eoneerns.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>quesrions or eoneerns.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Whether you are ramming to Milton Academy for another school year, orjllsl beginning
+your MA experienoe, 1 look forward to geltirig to know you and your eniidren. nesse
+feel free to call me 2873-9900, ext. 108 or to e-mail me 1noranc@ms.edII.1w with any
+quesrions or eoneerns.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r300" type="paragraph">
+	<Coords points="549,898 833,898 833,963 549,963"/>
+	<TextLine id="r301">
+	<Coords points="550,898 617,898 617,914 550,914"/>
+	<Word id="r302">
+	<Coords points="550,898 617,898 617,914 550,914"/>
+	<TextEquiv>
+	<Unicode>sineereiy.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>sineereiy.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r303">
+	<Coords points="550,922 666,922 666,935 550,935"/>
+	<Word id="r304">
+	<Coords points="550,922 616,922 616,935 550,935"/>
+	<TextEquiv>
+	<Unicode>cnunerine</Unicode></TextEquiv></Word>
+	<Word id="r305">
+	<Coords points="621,922 666,922 666,935 621,935"/>
+	<TextEquiv>
+	<Unicode>Moran</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>cnunerine Moran</Unicode></TextEquiv></TextLine>
+	<TextLine id="r306">
+	<Coords points="549,947 833,947 833,963 549,963"/>
+	<Word id="r307">
+	<Coords points="549,947 596,947 596,959 549,959"/>
+	<TextEquiv>
+	<Unicode>Miiron</Unicode></TextEquiv></Word>
+	<Word id="r308">
+	<Coords points="601,947 666,947 666,963 601,963"/>
+	<TextEquiv>
+	<Unicode>Acadcmy</Unicode></TextEquiv></Word>
+	<Word id="r309">
+	<Coords points="671,947 715,947 715,959 671,959"/>
+	<TextEquiv>
+	<Unicode>Luwcr</Unicode></TextEquiv></Word>
+	<Word id="r310">
+	<Coords points="720,947 767,947 767,959 720,959"/>
+	<TextEquiv>
+	<Unicode>senooi</Unicode></TextEquiv></Word>
+	<Word id="r311">
+	<Coords points="772,947 833,947 833,963 772,963"/>
+	<TextEquiv>
+	<Unicode>Principal</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Miiron Acadcmy Luwcr senooi Principal</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>sineereiy.
+cnunerine Moran
+Miiron Acadcmy Luwcr senooi Principal</Unicode></TextEquiv></TextRegion></Page></PcGts>

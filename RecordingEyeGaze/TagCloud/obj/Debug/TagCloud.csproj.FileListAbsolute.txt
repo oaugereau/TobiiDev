@@ -1,0 +1,11 @@
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\bin\Debug\TagCloud.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\bin\Debug\TagCloud.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\bin\Debug\TagCloud.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\bin\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\bin\Debug\Retrieval.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\bin\Debug\ReadingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\bin\Debug\Retrieval.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\obj\Debug\TagCloud.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\obj\Debug\TagCloud.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\TagCloud\obj\Debug\TagCloud.pdb

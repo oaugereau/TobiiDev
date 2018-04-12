@@ -1,0 +1,15 @@
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\RecordingEyeGaze.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\RecordingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\RecordingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\ModelUtpal.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\ReadingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\ModelUtpal.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\obj\Debug\RecordingEyeGaze.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\obj\Debug\RecordingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\RecordingEyeGaze\obj\Debug\RecordingEyeGaze.pdb
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyex\RecordingEyeGaze\RecordingEyeGaze\bin\Debug\RecordingEyeGaze.exe.config
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyex\RecordingEyeGaze\RecordingEyeGaze\obj\Debug\RecordingEyeGaze.exe
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyex\RecordingEyeGaze\RecordingEyeGaze\obj\Debug\RecordingEyeGaze.pdb

@@ -1,0 +1,9 @@
+C:\Users\Olivier\Documents\GitHub\eyex\Retrieval\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Olivier\Documents\GitHub\eyex\Retrieval\bin\Debug\Retrieval.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\Retrieval\bin\Debug\Retrieval.exe
+C:\Users\Olivier\Documents\GitHub\eyex\Retrieval\bin\Debug\Retrieval.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\Retrieval\bin\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\Retrieval\bin\Debug\ReadingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\Retrieval\obj\Debug\Retrieval.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Documents\GitHub\eyex\Retrieval\obj\Debug\Retrieval.exe
+C:\Users\Olivier\Documents\GitHub\eyex\Retrieval\obj\Debug\Retrieval.pdb

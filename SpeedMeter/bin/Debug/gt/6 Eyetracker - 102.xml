@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-04-02T02:39:24</Created>
+	<LastChange>2015-04-02T02:39:24</LastChange></Metadata>
+	<Page imageFilename="6 Eyetracker.png" imageWidth="897" imageHeight="523">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="104,37 288,37 288,44 410,44 410,37 435,37 435,38 591,38 591,37 835,37 835,58 833,58 833,146 832,146 832,284 834,284 834,387 833,387 833,429 277,429 277,476 48,476 48,85 49,85 49,38 104,38"/>
+	<TextLine id="r2">
+	<Coords points="104,37 288,37 288,44 410,44 410,37 435,37 435,38 591,38 591,37 835,37 835,58 797,58 797,64 733,64 733,58 578,58 578,64 49,64 49,38 104,38"/>
+	<Word id="r3">
+	<Coords points="49,38 91,38 91,64 49,64"/>
+	<TextEquiv>
+	<Unicode>Eye</Unicode></TextEquiv></Word>
+	<Word id="r4">
+	<Coords points="104,37 204,37 204,64 104,64"/>
+	<TextEquiv>
+	<Unicode>tracking</Unicode></TextEquiv></Word>
+	<Word id="r5">
+	<Coords points="218,38 234,38 234,58 218,58"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r6">
+	<Coords points="247,37 288,37 288,58 247,58"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r7">
+	<Coords points="302,44 396,44 396,64 302,64"/>
+	<TextEquiv>
+	<Unicode>process</Unicode></TextEquiv></Word>
+	<Word id="r8">
+	<Coords points="410,37 435,37 435,58 410,58"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r9">
+	<Coords points="448,38 578,38 578,64 448,64"/>
+	<TextEquiv>
+	<Unicode>measuring</Unicode></TextEquiv></Word>
+	<Word id="r10">
+	<Coords points="591,37 665,37 665,58 591,58"/>
+	<TextEquiv>
+	<Unicode>either</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="678,37 718,37 718,58 678,58"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="733,38 797,38 797,64 733,64"/>
+	<TextEquiv>
+	<Unicode>point</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="810,37 835,37 835,58 810,58"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Eye tracking is the process of measuring either the point of</Unicode></TextEquiv></TextLine>
+	<TextLine id="r14">
+	<Coords points="113,78 474,78 474,79 583,79 583,78 799,78 799,81 833,81 833,99 696,99 696,105 654,105 654,99 390,99 390,105 48,105 48,85 113,85"/>
+	<Word id="r15">
+	<Coords points="48,85 103,85 103,105 48,105"/>
+	<TextEquiv>
+	<Unicode>gaze</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="113,78 200,78 200,105 113,105"/>
+	<TextEquiv>
+	<Unicode>(where</Unicode></TextEquiv></Word>
+	<Word id="r17">
+	<Coords points="210,85 256,85 256,99 210,99"/>
+	<TextEquiv>
+	<Unicode>one</Unicode></TextEquiv></Word>
+	<Word id="r18">
+	<Coords points="266,79 282,79 282,99 266,99"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r19">
+	<Coords points="292,78 390,78 390,105 292,105"/>
+	<TextEquiv>
+	<Unicode>looking)</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="400,85 426,85 426,99 400,99"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="434,78 474,78 474,99 434,99"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="485,79 572,79 572,99 485,99"/>
+	<TextEquiv>
+	<Unicode>motion</Unicode></TextEquiv></Word>
+	<Word id="r23">
+	<Coords points="583,78 608,78 608,99 583,99"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r24">
+	<Coords points="616,85 644,85 644,99 616,99"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r25">
+	<Coords points="654,85 696,85 696,105 654,105"/>
+	<TextEquiv>
+	<Unicode>eye</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="707,78 799,78 799,99 707,99"/>
+	<TextEquiv>
+	<Unicode>relative</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="808,81 833,81 833,99 808,99"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>gaze (where one is looking) or the motion of an eye relative to</Unicode></TextEquiv></TextLine>
+	<TextLine id="r28">
+	<Coords points="48,119 176,119 176,120 310,120 310,119 621,119 621,120 771,120 771,126 833,126 833,146 641,146 641,140 291,140 291,146 248,146 248,140 48,140"/>
+	<Word id="r29">
+	<Coords points="48,119 88,119 88,140 48,140"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="109,119 176,119 176,140 109,140"/>
+	<TextEquiv>
+	<Unicode>head.</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="196,120 227,120 227,140 196,140"/>
+	<TextEquiv>
+	<Unicode>An</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="248,126 291,126 291,146 248,146"/>
+	<TextEquiv>
+	<Unicode>eye</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="310,119 399,119 399,140 310,140"/>
+	<TextEquiv>
+	<Unicode>tracker</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="419,120 435,120 435,140 419,140"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="455,126 466,126 466,140 455,140"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="487,119 566,119 566,140 487,140"/>
+	<TextEquiv>
+	<Unicode>device</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="585,119 621,119 621,140 585,140"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="641,120 771,120 771,146 641,146"/>
+	<TextEquiv>
+	<Unicode>measuring</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="791,126 833,126 833,146 791,146"/>
+	<TextEquiv>
+	<Unicode>eye</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>the head. An eye tracker is a device for measuring eye</Unicode></TextEquiv></TextLine>
+	<TextLine id="r40">
+	<Coords points="169,161 213,161 213,164 426,164 426,162 475,162 475,161 832,161 832,182 467,182 467,188 426,188 426,182 265,182 265,188 49,188 49,162 169,162"/>
+	<Word id="r41">
+	<Coords points="49,162 161,162 161,188 49,188"/>
+	<TextEquiv>
+	<Unicode>positions</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="169,161 213,161 213,182 169,182"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r43">
+	<Coords points="222,168 265,168 265,188 222,188"/>
+	<TextEquiv>
+	<Unicode>eye</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="274,164 416,164 416,182 274,182"/>
+	<TextEquiv>
+	<Unicode>movement.</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="426,162 467,162 467,188 426,188"/>
+	<TextEquiv>
+	<Unicode>Eye</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="475,161 575,161 575,182 475,182"/>
+	<TextEquiv>
+	<Unicode>trackers</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="584,168 622,168 622,182 584,182"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="632,161 688,161 688,182 632,182"/>
+	<TextEquiv>
+	<Unicode>used</Unicode></TextEquiv></Word>
+	<Word id="r49">
+	<Coords points="697,162 717,162 717,182 697,182"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r50">
+	<Coords points="727,161 832,161 832,182 727,182"/>
+	<TextEquiv>
+	<Unicode>research</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>positions and eye movement. Eye trackers are used in research</Unicode></TextEquiv></TextLine>
+	<TextLine id="r51">
+	<Coords points="93,202 217,202 217,205 343,205 343,203 379,203 379,202 524,202 524,203 704,203 704,202 832,202 832,229 233,229 233,223 48,223 48,209 93,209"/>
+	<Word id="r52">
+	<Coords points="48,209 78,209 78,223 48,223"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="93,202 133,202 133,223 93,223"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="148,202 217,202 217,223 148,223"/>
+	<TextEquiv>
+	<Unicode>visual</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="233,205 327,205 327,229 233,229"/>
+	<TextEquiv>
+	<Unicode>system,</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="343,203 363,203 363,223 343,223"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="379,202 524,202 524,229 379,229"/>
+	<TextEquiv>
+	<Unicode>psychology,</Unicode></TextEquiv></Word>
+	<Word id="r58">
+	<Coords points="541,203 560,203 560,223 541,223"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r59">
+	<Coords points="576,203 689,203 689,229 576,229"/>
+	<TextEquiv>
+	<Unicode>cognitive</Unicode></TextEquiv></Word>
+	<Word id="r60">
+	<Coords points="704,202 832,202 832,229 704,229"/>
+	<TextEquiv>
+	<Unicode>linguistics,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>on the visual system, in psychology, in cognitive linguistics,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r61">
+	<Coords points="49,243 182,243 182,244 334,244 334,243 549,243 549,246 689,246 689,244 832,244 832,269 681,269 681,270 559,270 559,264 326,264 326,270 49,270"/>
+	<Word id="r62">
+	<Coords points="49,243 182,243 182,270 49,270"/>
+	<TextEquiv>
+	<Unicode>marketing,</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="191,250 216,250 216,264 191,264"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="224,250 252,250 252,264 224,264"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="262,244 326,244 326,270 262,270"/>
+	<TextEquiv>
+	<Unicode>input</Unicode></TextEquiv></Word>
+	<Word id="r66">
+	<Coords points="334,243 413,243 413,264 334,264"/>
+	<TextEquiv>
+	<Unicode>device</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="421,243 456,243 456,264 421,264"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="465,243 549,243 549,264 465,264"/>
+	<TextEquiv>
+	<Unicode>human</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="559,246 681,246 681,270 559,270"/>
+	<TextEquiv>
+	<Unicode>computer</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="689,244 832,244 832,269 689,269"/>
+	<TextEquiv>
+	<Unicode>interaction,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>marketing, as an input device for human computer interaction,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r71">
+	<Coords points="48,284 834,284 834,305 343,305 343,311 144,311 144,305 48,305"/>
+	<Word id="r72">
+	<Coords points="48,284 93,284 93,305 48,305"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="109,285 128,285 128,305 109,305"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="144,284 242,284 242,311 144,311"/>
+	<TextEquiv>
+	<Unicode>product</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="256,284 343,284 343,311 256,311"/>
+	<TextEquiv>
+	<Unicode>design.</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="357,284 429,284 429,305 357,305"/>
+	<TextEquiv>
+	<Unicode>There</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="444,291 482,291 482,305 444,305"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r78">
+	<Coords points="497,291 508,291 508,305 497,305"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r79">
+	<Coords points="525,284 623,284 623,305 525,305"/>
+	<TextEquiv>
+	<Unicode>number</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="637,284 662,284 662,305 637,305"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="675,284 784,284 784,305 675,305"/>
+	<TextEquiv>
+	<Unicode>methods</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="798,284 834,284 834,305 798,305"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>and in product design. There are a number of methods for</Unicode></TextEquiv></TextLine>
+	<TextLine id="r83">
+	<Coords points="418,325 658,325 658,326 762,326 762,332 833,332 833,346 658,346 658,352 562,352 562,346 239,346 239,352 49,352 49,326 179,326 179,328 418,328"/>
+	<Word id="r84">
+	<Coords points="49,326 179,326 179,352 49,352"/>
+	<TextEquiv>
+	<Unicode>measuring</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="197,332 239,332 239,352 197,352"/>
+	<TextEquiv>
+	<Unicode>eye</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="258,328 400,328 400,346 258,346"/>
+	<TextEquiv>
+	<Unicode>movement.</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="418,325 464,325 464,346 418,346"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="482,328 544,328 544,346 482,346"/>
+	<TextEquiv>
+	<Unicode>most</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="562,325 658,325 658,352 562,352"/>
+	<TextEquiv>
+	<Unicode>popular</Unicode></TextEquiv></Word>
+	<Word id="r90">
+	<Coords points="674,326 762,326 762,346 674,346"/>
+	<TextEquiv>
+	<Unicode>variant</Unicode></TextEquiv></Word>
+	<Word id="r91">
+	<Coords points="780,332 833,332 833,346 780,346"/>
+	<TextEquiv>
+	<Unicode>uses</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>measuring eye movement. The most popular variant uses</Unicode></TextEquiv></TextLine>
+	<TextLine id="r92">
+	<Coords points="48,366 115,366 115,367 224,367 224,366 419,366 419,367 624,367 624,366 834,366 834,387 584,387 584,393 431,393 431,387 214,387 214,393 127,393 127,387 48,387"/>
+	<Word id="r93">
+	<Coords points="48,366 115,366 115,387 48,387"/>
+	<TextEquiv>
+	<Unicode>video</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="127,367 214,367 214,393 127,393"/>
+	<TextEquiv>
+	<Unicode>images</Unicode></TextEquiv></Word>
+	<Word id="r95">
+	<Coords points="224,366 283,366 283,387 224,387"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<Word id="r96">
+	<Coords points="295,366 367,366 367,387 295,387"/>
+	<TextEquiv>
+	<Unicode>which</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="379,366 419,366 419,387 379,387"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="431,373 473,373 473,393 431,393"/>
+	<TextEquiv>
+	<Unicode>eye</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="485,367 584,367 584,393 485,393"/>
+	<TextEquiv>
+	<Unicode>position</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="597,367 613,367 613,387 597,387"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="624,366 750,366 750,387 624,387"/>
+	<TextEquiv>
+	<Unicode>extracted.</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="762,366 834,366 834,387 762,387"/>
+	<TextEquiv>
+	<Unicode>Other</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>video images from which the eye position is extracted. Other</Unicode></TextEquiv></TextLine>
+	<TextLine id="r103">
+	<Coords points="49,408 158,408 158,415 273,415 273,408 444,408 444,415 618,415 618,408 689,408 689,415 793,415 793,408 833,408 833,429 49,429"/>
+	<Word id="r104">
+	<Coords points="49,408 158,408 158,429 49,429"/>
+	<TextEquiv>
+	<Unicode>methods</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="196,415 236,415 236,429 196,429"/>
+	<TextEquiv>
+	<Unicode>use</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="273,408 353,408 353,429 273,429"/>
+	<TextEquiv>
+	<Unicode>search</Unicode></TextEquiv></Word>
+	<Word id="r107">
+	<Coords points="390,408 444,408 444,429 390,429"/>
+	<TextEquiv>
+	<Unicode>coils</Unicode></TextEquiv></Word>
+	<Word id="r108">
+	<Coords points="480,415 506,415 506,429 480,429"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="542,415 580,415 580,429 542,429"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="618,408 689,408 689,429 618,429"/>
+	<TextEquiv>
+	<Unicode>based</Unicode></TextEquiv></Word>
+	<Word id="r111">
+	<Coords points="727,415 756,415 756,429 727,429"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r112">
+	<Coords points="793,408 833,408 833,429 793,429"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>methods use search coils or are based on the</Unicode></TextEquiv></TextLine>
+	<TextLine id="r113">
+	<Coords points="48,449 277,449 277,476 48,476"/>
+	<Word id="r114">
+	<Coords points="48,449 277,449 277,476 48,476"/>
+	<TextEquiv>
+	<Unicode>electrooculogram.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>electrooculogram.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Eye tracking is the process of measuring either the point of
+gaze (where one is looking) or the motion of an eye relative to
+the head. An eye tracker is a device for measuring eye
+positions and eye movement. Eye trackers are used in research
+on the visual system, in psychology, in cognitive linguistics,
+marketing, as an input device for human computer interaction,
+and in product design. There are a number of methods for
+measuring eye movement. The most popular variant uses
+video images from which the eye position is extracted. Other
+methods use search coils or are based on the
+electrooculogram.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-27T03:11:56</Created>
+	<LastChange>2015-02-27T03:11:56</LastChange></Metadata>
+	<Page imageFilename="doc7.jpg" imageWidth="1680" imageHeight="1050">
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="550,126 692,126 692,175 719,175 719,187 602,187 602,189 550,189 550,162 549,162 549,150 550,150"/>
+	<TextLine id="r5">
+	<Coords points="550,126 692,126 692,138 550,138"/>
+	<Word id="r6">
+	<Coords points="550,126 590,126 590,138 550,138"/>
+	<TextEquiv>
+	<Unicode>Bravo</Unicode></TextEquiv></Word>
+	<Word id="r7">
+	<Coords points="595,126 692,126 692,138 595,138"/>
+	<TextEquiv>
+	<Unicode>Entertainment</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Bravo Entertainment</Unicode></TextEquiv></TextLine>
+	<TextLine id="r8">
+	<Coords points="549,150 660,150 660,162 549,162"/>
+	<Word id="r9">
+	<Coords points="549,150 575,150 575,162 549,162"/>
+	<TextEquiv>
+	<Unicode>444</Unicode></TextEquiv></Word>
+	<Word id="r10">
+	<Coords points="580,150 625,150 625,162 580,162"/>
+	<TextEquiv>
+	<Unicode>Dmxcl</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="630,151 660,151 660,162 630,162"/>
+	<TextEquiv>
+	<Unicode>Ave.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>444 Dmxcl Ave.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r12">
+	<Coords points="550,175 719,175 719,189 550,189"/>
+	<Word id="r13">
+	<Coords points="550,175 602,175 602,189 550,189"/>
+	<TextEquiv>
+	<Unicode>Omaha.</Unicode></TextEquiv></Word>
+	<Word id="r14">
+	<Coords points="608,175 672,175 672,187 608,187"/>
+	<TextEquiv>
+	<Unicode>Nebraska</Unicode></TextEquiv></Word>
+	<Word id="r15">
+	<Coords points="677,175 719,175 719,187 677,187"/>
+	<TextEquiv>
+	<Unicode>03123</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Omaha. Nebraska 03123</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Bravo Entertainment
+444 Dmxcl Ave.
+Omaha. Nebraska 03123</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="549,224 615,224 615,236 549,236"/>
+	<TextLine id="r17">
+	<Coords points="549,224 615,224 615,236 549,236"/>
+	<Word id="r18">
+	<Coords points="549,224 594,224 594,236 549,236"/>
+	<TextEquiv>
+	<Unicode>March</Unicode></TextEquiv></Word>
+	<Word id="r19">
+	<Coords points="601,224 615,224 615,236 601,236"/>
+	<TextEquiv>
+	<Unicode>12</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>March 12</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>March 12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="549,273 735,273 735,285 668,285 668,289 638,289 638,285 549,285"/>
+	<TextLine id="r21">
+	<Coords points="549,273 735,273 735,289 549,289"/>
+	<Word id="r22">
+	<Coords points="549,273 567,273 567,285 549,285"/>
+	<TextEquiv>
+	<Unicode>To</Unicode></TextEquiv></Word>
+	<Word id="r23">
+	<Coords points="571,273 618,273 618,285 571,285"/>
+	<TextEquiv>
+	<Unicode>Whom</Unicode></TextEquiv></Word>
+	<Word id="r24">
+	<Coords points="623,273 633,273 633,285 623,285"/>
+	<TextEquiv>
+	<Unicode>It</Unicode></TextEquiv></Word>
+	<Word id="r25">
+	<Coords points="638,273 668,273 668,289 638,289"/>
+	<TextEquiv>
+	<Unicode>May</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="673,273 735,273 735,285 673,285"/>
+	<TextEquiv>
+	<Unicode>Conc=m:</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>To Whom It May Conc=m:</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>To Whom It May Conc=m:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="550,343 1131,343 1131,347 1150,347 1150,429 1135,429 1135,454 1081,454 1081,457 982,457 982,455 910,455 910,454 760,454 760,457 718,457 718,454 550,454"/>
+	<TextLine id="r28">
+	<Coords points="550,343 1150,343 1150,359 550,359"/>
+	<Word id="r29">
+	<Coords points="550,343 563,343 563,355 550,355"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="569,343 654,343 654,359 569,359"/>
+	<TextEquiv>
+	<Unicode>mid-January</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="660,347 681,347 681,359 660,359"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="687,343 723,343 723,355 687,355"/>
+	<TextEquiv>
+	<Unicode>sisrer</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="728,343 752,343 752,355 728,355"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="758,343 762,343 762,355 758,355"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="768,343 820,343 820,355 768,355"/>
+	<TextEquiv>
+	<Unicode>ordered</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="826,343 846,343 846,355 826,355"/>
+	<TextEquiv>
+	<Unicode>rhe</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="852,343 878,343 878,355 852,355"/>
+	<TextEquiv>
+	<Unicode>ﬁrst</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="883,343 908,343 908,355 883,355"/>
+	<TextEquiv>
+	<Unicode>ﬁv:</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="913,347 965,347 965,355 913,355"/>
+	<TextEquiv>
+	<Unicode>seasons</Unicode></TextEquiv></Word>
+	<Word id="r40">
+	<Coords points="971,343 1010,343 1010,355 971,355"/>
+	<TextEquiv>
+	<Unicode>orrhe</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="1016,343 1038,343 1038,355 1016,355"/>
+	<TextEquiv>
+	<Unicode>TV</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="1044,343 1079,343 1079,355 1044,355"/>
+	<TextEquiv>
+	<Unicode>show</Unicode></TextEquiv></Word>
+	<Word id="r43">
+	<Coords points="1085,343 1131,343 1131,355 1085,355"/>
+	<TextEquiv>
+	<Unicode>Felicia</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="1136,347 1150,347 1150,355 1136,355"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>in mid-January my sisrer and I ordered rhe ﬁrst ﬁv: seasons orrhe TV show Felicia as</Unicode></TextEquiv></TextLine>
+	<TextLine id="r45">
+	<Coords points="550,367 1150,367 1150,383 550,383"/>
+	<Word id="r46">
+	<Coords points="550,371 557,371 557,380 550,380"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="563,368 622,368 622,383 563,383"/>
+	<TextEquiv>
+	<Unicode>package,</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="630,368 670,368 670,380 630,380"/>
+	<TextEquiv>
+	<Unicode>which</Unicode></TextEquiv></Word>
+	<Word id="r49">
+	<Coords points="677,368 725,368 725,380 677,380"/>
+	<TextEquiv>
+	<Unicode>amved</Unicode></TextEquiv></Word>
+	<Word id="r50">
+	<Coords points="731,370 743,370 743,380 731,380"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r51">
+	<Coords points="749,368 769,368 769,380 749,380"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="775,368 800,368 800,380 775,380"/>
+	<TextEquiv>
+	<Unicode>end</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="806,367 821,367 821,380 806,380"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="826,368 918,368 918,383 826,383"/>
+	<TextEquiv>
+	<Unicode>January/early</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="924,368 985,368 985,383 924,383"/>
+	<TextEquiv>
+	<Unicode>Fcbruany</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="992,375 997,375 997,376 992,376"/>
+	<TextEquiv>
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="1003,368 1008,368 1008,380 1003,380"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r58">
+	<Coords points="1014,368 1048,368 1048,380 1014,380"/>
+	<TextEquiv>
+	<Unicode>can‘!</Unicode></TextEquiv></Word>
+	<Word id="r59">
+	<Coords points="1054,368 1124,368 1124,380 1054,380"/>
+	<TextEquiv>
+	<Unicode>remember</Unicode></TextEquiv></Word>
+	<Word id="r60">
+	<Coords points="1130,368 1150,368 1150,380 1130,380"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>a package, which amved at the end of January/early Fcbruany — 1 can‘! remember the</Unicode></TextEquiv></TextLine>
+	<TextLine id="r61">
+	<Coords points="550,392 1150,392 1150,408 550,408"/>
+	<Word id="r62">
+	<Coords points="550,394 585,394 585,404 550,404"/>
+	<TextEquiv>
+	<Unicode>exam</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="590,392 622,392 622,404 590,404"/>
+	<TextEquiv>
+	<Unicode>dare.</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="630,392 671,392 671,404 630,404"/>
+	<TextEquiv>
+	<Unicode>when</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="677,394 686,394 686,404 677,404"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv></Word>
+	<Word id="r66">
+	<Coords points="691,392 742,392 742,406 691,406"/>
+	<TextEquiv>
+	<Unicode>arrived.</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="748,392 754,392 754,404 748,404"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="759,392 809,392 809,404 759,404"/>
+	<TextEquiv>
+	<Unicode>norioed</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="815,392 840,392 840,404 815,404"/>
+	<TextEquiv>
+	<Unicode>rhar</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="846,392 893,392 893,404 846,404"/>
+	<TextEquiv>
+	<Unicode>seven!</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="898,392 913,392 913,404 898,404"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r72">
+	<Coords points="917,392 938,392 938,404 917,404"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="943,392 986,392 986,404 943,404"/>
+	<TextEquiv>
+	<Unicode>DVD:</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="992,396 1024,396 1024,404 992,404"/>
+	<TextEquiv>
+	<Unicode>were</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="1030,392 1065,392 1065,404 1030,404"/>
+	<TextEquiv>
+	<Unicode>loose</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="1071,392 1095,392 1095,404 1071,404"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="1101,392 1150,392 1150,408 1101,408"/>
+	<TextEquiv>
+	<Unicode>ranling</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>exam dare. when n arrived. 1 norioed rhar seven! of die DVD: were loose and ranling</Unicode></TextEquiv></TextLine>
+	<TextLine id="r78">
+	<Coords points="550,417 1150,417 1150,433 550,433"/>
+	<Word id="r79">
+	<Coords points="550,417 597,417 597,429 550,429"/>
+	<TextEquiv>
+	<Unicode>around</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="602,417 615,417 615,429 602,429"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="620,417 640,417 640,429 620,429"/>
+	<TextEquiv>
+	<Unicode>rhe</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="646,420 685,420 685,429 646,429"/>
+	<TextEquiv>
+	<Unicode>cases.</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="693,417 705,417 705,429 693,429"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="710,417 734,417 734,429 710,429"/>
+	<TextEquiv>
+	<Unicode>rew</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="740,417 755,417 755,429 740,429"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="760,417 793,417 793,429 760,429"/>
+	<TextEquiv>
+	<Unicode>uiern</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="798,417 844,417 844,429 798,429"/>
+	<TextEquiv>
+	<Unicode>lookcd</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="850,417 918,417 918,431 850,431"/>
+	<TextEquiv>
+	<Unicode>serarehed,</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="924,417 945,417 945,429 924,429"/>
+	<TextEquiv>
+	<Unicode>but</Unicode></TextEquiv></Word>
+	<Word id="r90">
+	<Coords points="950,417 990,417 990,429 950,429"/>
+	<TextEquiv>
+	<Unicode>didn't</Unicode></TextEquiv></Word>
+	<Word id="r91">
+	<Coords points="996,420 1041,420 1041,433 996,433"/>
+	<TextEquiv>
+	<Unicode>appear</Unicode></TextEquiv></Word>
+	<Word id="r92">
+	<Coords points="1046,420 1070,420 1070,432 1046,432"/>
+	<TextEquiv>
+	<Unicode>any</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="1076,420 1115,420 1115,429 1076,429"/>
+	<TextEquiv>
+	<Unicode>worse</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="1121,417 1150,417 1150,429 1121,429"/>
+	<TextEquiv>
+	<Unicode>lhan</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>around in rhe cases. A rew of uiern lookcd serarehed, but didn't appear any worse lhan</Unicode></TextEquiv></TextLine>
+	<TextLine id="r95">
+	<Coords points="550,441 1135,441 1135,457 550,457"/>
+	<Word id="r96">
+	<Coords points="550,445 585,445 585,454 550,454"/>
+	<TextEquiv>
+	<Unicode>some</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="590,441 605,441 605,453 590,453"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="609,441 629,441 629,454 609,454"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="634,441 683,441 683,454 634,454"/>
+	<TextEquiv>
+	<Unicode>movies</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="688,441 713,441 713,453 688,453"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="718,443 760,443 760,457 718,457"/>
+	<TextEquiv>
+	<Unicode>gotten</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="765,441 798,441 798,454 765,454"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<Word id="r103">
+	<Coords points="803,445 825,445 825,453 803,453"/>
+	<TextEquiv>
+	<Unicode>mu</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="830,441 862,441 862,454 830,454"/>
+	<TextEquiv>
+	<Unicode>local</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="868,441 905,441 905,453 868,453"/>
+	<TextEquiv>
+	<Unicode>video</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="910,443 947,443 947,455 910,455"/>
+	<TextEquiv>
+	<Unicode>store,</Unicode></TextEquiv></Word>
+	<Word id="r107">
+	<Coords points="952,445 967,445 967,453 952,453"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r108">
+	<Coords points="972,441 976,441 976,453 972,453"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="982,441 1034,441 1034,457 982,457"/>
+	<TextEquiv>
+	<Unicode>thought</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="1039,441 1081,441 1081,457 1039,457"/>
+	<TextEquiv>
+	<Unicode>they'd</Unicode></TextEquiv></Word>
+	<Word id="r111">
+	<Coords points="1086,441 1101,441 1101,454 1086,454"/>
+	<TextEquiv>
+	<Unicode>be</Unicode></TextEquiv></Word>
+	<Word id="r112">
+	<Coords points="1106,441 1135,441 1135,454 1106,454"/>
+	<TextEquiv>
+	<Unicode>ﬁne.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>some of the movies we gotten from mu local video store, so I thought they'd be ﬁne.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>in mid-January my sisrer and I ordered rhe ﬁrst ﬁv: seasons orrhe TV show Felicia as
+a package, which amved at the end of January/early Fcbruany — 1 can‘! remember the
+exam dare. when n arrived. 1 norioed rhar seven! of die DVD: were loose and ranling
+around in rhe cases. A rew of uiern lookcd serarehed, but didn't appear any worse lhan
+some of the movies we gotten from mu local video store, so I thought they'd be ﬁne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r113" type="paragraph">
+	<Coords points="995,521 1021,521 1021,522 1149,522 1149,546 1151,546 1151,558 1150,558 1150,636 1107,636 1107,632 939,632 939,636 918,636 918,632 783,632 783,635 663,635 663,636 660,636 660,660 593,660 593,657 550,657 550,558 549,558 549,522 995,522"/>
+	<TextLine id="r114">
+	<Coords points="549,521 1149,521 1149,538 549,538"/>
+	<Word id="r115">
+	<Coords points="549,522 585,522 585,536 549,536"/>
+	<TextEquiv>
+	<Unicode>well,</Unicode></TextEquiv></Word>
+	<Word id="r116">
+	<Coords points="591,525 610,525 610,534 591,534"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r117">
+	<Coords points="614,522 641,522 641,537 614,537"/>
+	<TextEquiv>
+	<Unicode>just</Unicode></TextEquiv></Word>
+	<Word id="r118">
+	<Coords points="646,524 668,524 668,537 646,537"/>
+	<TextEquiv>
+	<Unicode>go!</Unicode></TextEquiv></Word>
+	<Word id="r119">
+	<Coords points="673,522 720,522 720,534 673,534"/>
+	<TextEquiv>
+	<Unicode>around</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="726,524 738,524 738,534 726,534"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="744,522 806,522 806,538 744,538"/>
+	<TextEquiv>
+	<Unicode>watching</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="812,522 832,522 832,534 812,534"/>
+	<TextEquiv>
+	<Unicode>Lhe</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="838,522 864,522 864,534 838,534"/>
+	<TextEquiv>
+	<Unicode>ﬁrsl</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="869,525 893,525 893,534 869,534"/>
+	<TextEquiv>
+	<Unicode>one</Unicode></TextEquiv></Word>
+	<Word id="r125">
+	<Coords points="899,522 923,522 923,534 899,534"/>
+	<TextEquiv>
+	<Unicode>last</Unicode></TextEquiv></Word>
+	<Word id="r126">
+	<Coords points="928,522 963,522 963,538 928,538"/>
+	<TextEquiv>
+	<Unicode>night</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="969,522 988,522 988,534 969,534"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="995,521 1021,521 1021,534 995,534"/>
+	<TextEquiv>
+	<Unicode>ﬁxsl.</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="1026,522 1062,522 1062,534 1026,534"/>
+	<TextEquiv>
+	<Unicode>DVD</Unicode></TextEquiv></Word>
+	<Word id="r130">
+	<Coords points="1067,522 1082,522 1082,534 1067,534"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r131">
+	<Coords points="1087,525 1132,525 1132,534 1087,534"/>
+	<TextEquiv>
+	<Unicode>season</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="1139,522 1149,522 1149,534 1139,534"/>
+	<TextEquiv>
+	<Unicode>1.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>well, we just go! around to watching Lhe ﬁrsl one last night die ﬁxsl. DVD or season 1.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r133">
+	<Coords points="549,546 1151,546 1151,562 549,562"/>
+	<Word id="r134">
+	<Coords points="549,546 576,546 576,558 549,558"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r135">
+	<Coords points="582,546 608,546 608,558 582,558"/>
+	<TextEquiv>
+	<Unicode>ﬁl’Sl</Unicode></TextEquiv></Word>
+	<Word id="r136">
+	<Coords points="613,546 665,546 665,562 613,562"/>
+	<TextEquiv>
+	<Unicode>episode</Unicode></TextEquiv></Word>
+	<Word id="r137">
+	<Coords points="671,550 688,550 688,558 671,558"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r138">
+	<Coords points="694,546 721,546 721,559 694,559"/>
+	<TextEquiv>
+	<Unicode>side</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="727,546 738,546 738,558 727,558"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="744,546 768,546 768,559 744,559"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r141">
+	<Coords points="774,550 810,550 810,558 774,558"/>
+	<TextEquiv>
+	<Unicode>some</Unicode></TextEquiv></Word>
+	<Word id="r142">
+	<Coords points="816,546 879,546 879,562 816,562"/>
+	<TextEquiv>
+	<Unicode>prohlerns</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="885,546 909,546 909,558 885,558"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="915,550 934,550 934,559 915,559"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="940,546 987,546 987,559 940,559"/>
+	<TextEquiv>
+	<Unicode>missed</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="993,550 1000,550 1000,558 993,558"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="1006,546 1051,546 1051,562 1006,562"/>
+	<TextEquiv>
+	<Unicode>couple</Unicode></TextEquiv></Word>
+	<Word id="r148">
+	<Coords points="1057,546 1072,546 1072,558 1057,558"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r149">
+	<Coords points="1077,546 1130,546 1130,558 1077,558"/>
+	<TextEquiv>
+	<Unicode>rninures</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="1136,546 1151,546 1151,558 1136,558"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>me ﬁl’Sl episode on side A had some prohlerns and we missed a couple of rninures of</Unicode></TextEquiv></TextLine>
+	<TextLine id="r151">
+	<Coords points="550,571 1150,571 1150,587 550,587"/>
+	<Word id="r152">
+	<Coords points="550,571 570,571 570,583 550,583"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="576,571 628,571 628,587 576,587"/>
+	<TextEquiv>
+	<Unicode>episode</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="634,578 638,578 638,580 634,580"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Word>
+	<Word id="r155">
+	<Coords points="644,571 677,571 677,586 644,586"/>
+	<TextEquiv>
+	<Unicode>right</Unicode></TextEquiv></Word>
+	<Word id="r156">
+	<Coords points="683,571 695,571 695,583 683,583"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r157">
+	<Coords points="701,571 721,571 721,583 701,583"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r158">
+	<Coords points="727,571 774,571 774,583 727,583"/>
+	<TextEquiv>
+	<Unicode>middle</Unicode></TextEquiv></Word>
+	<Word id="r159">
+	<Coords points="780,571 822,571 822,586 780,586"/>
+	<TextEquiv>
+	<Unicode>(whcn</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="828,571 874,571 874,583 828,583"/>
+	<TextEquiv>
+	<Unicode>Fclicin</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="880,574 906,574 906,583 880,583"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r162">
+	<Coords points="912,571 951,571 951,587 912,587"/>
+	<TextEquiv>
+	<Unicode>going</Unicode></TextEquiv></Word>
+	<Word id="r163">
+	<Coords points="956,573 969,573 969,583 956,583"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r164">
+	<Coords points="975,571 1006,571 1006,583 975,583"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r165">
+	<Coords points="1012,574 1027,574 1027,583 1012,583"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r166">
+	<Coords points="1034,571 1097,571 1097,583 1034,583"/>
+	<TextEquiv>
+	<Unicode>inrerview</Unicode></TextEquiv></Word>
+	<Word id="r167">
+	<Coords points="1103,571 1123,571 1123,583 1103,583"/>
+	<TextEquiv>
+	<Unicode>(or</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="1128,571 1150,571 1150,583 1128,583"/>
+	<TextEquiv>
+	<Unicode>her</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>the episode . right in the middle (whcn Fclicin was going to have an inrerview (or her</Unicode></TextEquiv></TextLine>
+	<TextLine id="r169">
+	<Coords points="550,595 1150,595 1150,611 550,611"/>
+	<Word id="r170">
+	<Coords points="550,595 576,595 576,608 550,608"/>
+	<TextEquiv>
+	<Unicode>first</Unicode></TextEquiv></Word>
+	<Word id="r171">
+	<Coords points="579,595 612,595 612,611 579,611"/>
+	<TextEquiv>
+	<Unicode>job).</Unicode></TextEquiv></Word>
+	<Word id="r172">
+	<Coords points="619,595 645,595 645,608 619,608"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r173">
+	<Coords points="650,595 697,595 697,608 650,608"/>
+	<TextEquiv>
+	<Unicode>second</Unicode></TextEquiv></Word>
+	<Word id="r174">
+	<Coords points="702,595 754,595 754,611 702,611"/>
+	<TextEquiv>
+	<Unicode>episode</Unicode></TextEquiv></Word>
+	<Word id="r175">
+	<Coords points="760,595 830,595 830,610 760,610"/>
+	<TextEquiv>
+	<Unicode>(Mal-issa’s</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="836,595 878,595 878,610 836,610"/>
+	<TextEquiv>
+	<Unicode>death)</Unicode></TextEquiv></Word>
+	<Word id="r177">
+	<Coords points="882,595 908,595 908,611 882,611"/>
+	<TextEquiv>
+	<Unicode>just</Unicode></TextEquiv></Word>
+	<Word id="r178">
+	<Coords points="913,595 965,595 965,611 913,611"/>
+	<TextEquiv>
+	<Unicode>stopped</Unicode></TextEquiv></Word>
+	<Word id="r179">
+	<Coords points="971,595 1008,595 1008,608 971,608"/>
+	<TextEquiv>
+	<Unicode>aboul</Unicode></TextEquiv></Word>
+	<Word id="r180">
+	<Coords points="1013,597 1059,597 1059,611 1013,611"/>
+	<TextEquiv>
+	<Unicode>rwenry</Unicode></TextEquiv></Word>
+	<Word id="r181">
+	<Coords points="1065,595 1118,595 1118,608 1065,608"/>
+	<TextEquiv>
+	<Unicode>minules</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="1124,595 1150,595 1150,608 1124,608"/>
+	<TextEquiv>
+	<Unicode>into</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>first job). The second episode (Mal-issa’s death) just stopped aboul rwenry minules into</Unicode></TextEquiv></TextLine>
+	<TextLine id="r183">
+	<Coords points="550,620 1150,620 1150,636 550,636"/>
+	<Word id="r184">
+	<Coords points="550,620 570,620 570,632 550,632"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="575,620 627,620 627,636 575,636"/>
+	<TextEquiv>
+	<Unicode>episode</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="633,620 663,620 663,636 633,636"/>
+	<TextEquiv>
+	<Unicode>(just</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="668,620 711,620 711,632 668,632"/>
+	<TextEquiv>
+	<Unicode>herore</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="717,620 739,620 739,632 717,632"/>
+	<TextEquiv>
+	<Unicode>she</Unicode></TextEquiv></Word>
+	<Word id="r189">
+	<Coords points="745,620 783,620 783,635 745,635"/>
+	<TextEquiv>
+	<Unicode>died).</Unicode></TextEquiv></Word>
+	<Word id="r190">
+	<Coords points="791,620 826,620 826,632 791,632"/>
+	<TextEquiv>
+	<Unicode>Then</Unicode></TextEquiv></Word>
+	<Word id="r191">
+	<Coords points="831,624 851,624 851,632 831,632"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r192">
+	<Coords points="856,620 913,620 913,632 856,632"/>
+	<TextEquiv>
+	<Unicode>couldn't</Unicode></TextEquiv></Word>
+	<Word id="r193">
+	<Coords points="918,622 939,622 939,636 918,636"/>
+	<TextEquiv>
+	<Unicode>get</Unicode></TextEquiv></Word>
+	<Word id="r194">
+	<Coords points="944,620 953,620 953,632 944,632"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r195">
+	<Coords points="958,620 1017,620 1017,632 958,632"/>
+	<TextEquiv>
+	<Unicode>resumed</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="1022,620 1035,620 1035,632 1022,632"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r197">
+	<Coords points="1040,620 1061,620 1061,632 1040,632"/>
+	<TextEquiv>
+	<Unicode>0|:</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="1066,620 1102,620 1102,632 1066,632"/>
+	<TextEquiv>
+	<Unicode>DVD</Unicode></TextEquiv></Word>
+	<Word id="r199">
+	<Coords points="1107,620 1150,620 1150,636 1107,636"/>
+	<TextEquiv>
+	<Unicode>player</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>me episode (just herore she died). Then we couldn't get it resumed in 0|: DVD player</Unicode></TextEquiv></TextLine>
+	<TextLine id="r200">
+	<Coords points="550,645 660,645 660,660 550,660"/>
+	<Word id="r201">
+	<Coords points="550,648 564,648 564,657 550,657"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r202">
+	<Coords points="568,645 588,645 588,657 568,657"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="r203">
+	<Coords points="593,647 660,647 660,660 593,660"/>
+	<TextEquiv>
+	<Unicode>con-lpuler.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>or die con-lpuler.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>well, we just go! around to watching Lhe ﬁrsl one last night die ﬁxsl. DVD or season 1.
+me ﬁl’Sl episode on side A had some prohlerns and we missed a couple of rninures of
+the episode . right in the middle (whcn Fclicin was going to have an inrerview (or her
+first job). The second episode (Mal-issa’s death) just stopped aboul rwenry minules into
+me episode (just herore she died). Then we couldn't get it resumed in 0|: DVD player
+or die con-lpuler.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r204" type="paragraph">
+	<Coords points="550,725 1150,725 1150,811 1030,811 1030,814 813,814 813,813 609,813 609,839 549,839 549,823 550,823"/>
+	<TextLine id="r205">
+	<Coords points="550,725 1150,725 1150,741 550,741"/>
+	<Word id="r206">
+	<Coords points="550,725 555,725 555,737 550,737"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r207">
+	<Coords points="561,725 603,725 603,737 561,737"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r208">
+	<Coords points="610,725 635,725 635,737 610,737"/>
+	<TextEquiv>
+	<Unicode>like</Unicode></TextEquiv></Word>
+	<Word id="r209">
+	<Coords points="642,727 655,727 655,737 642,737"/>
+	<TextEquiv>
+	<Unicode>lo</Unicode></TextEquiv></Word>
+	<Word id="r210">
+	<Coords points="661,727 682,727 682,741 661,741"/>
+	<TextEquiv>
+	<Unicode>gcl</Unicode></TextEquiv></Word>
+	<Word id="r211">
+	<Coords points="688,725 778,725 778,741 688,741"/>
+	<TextEquiv>
+	<Unicode>replasenrenrs</Unicode></TextEquiv></Word>
+	<Word id="r212">
+	<Coords points="785,725 805,725 805,737 785,737"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r213">
+	<Coords points="811,725 831,725 831,737 811,737"/>
+	<TextEquiv>
+	<Unicode>1h:</Unicode></TextEquiv></Word>
+	<Word id="r214">
+	<Coords points="838,725 881,725 881,737 838,737"/>
+	<TextEquiv>
+	<Unicode>DVDs</Unicode></TextEquiv></Word>
+	<Word id="r215">
+	<Coords points="888,725 913,725 913,737 888,737"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r216">
+	<Coords points="920,729 952,729 952,737 920,737"/>
+	<TextEquiv>
+	<Unicode>were</Unicode></TextEquiv></Word>
+	<Word id="r217">
+	<Coords points="959,725 1031,725 1031,741 959,741"/>
+	<TextEquiv>
+	<Unicode>appsrendy</Unicode></TextEquiv></Word>
+	<Word id="r218">
+	<Coords points="1037,725 1099,725 1099,741 1037,741"/>
+	<TextEquiv>
+	<Unicode>duinnged</Unicode></TextEquiv></Word>
+	<Word id="r219">
+	<Coords points="1106,725 1150,725 1150,741 1106,741"/>
+	<TextEquiv>
+	<Unicode>during</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>I would like lo gcl replasenrenrs for 1h: DVDs that were appsrendy duinnged during</Unicode></TextEquiv></TextLine>
+	<TextLine id="r220">
+	<Coords points="550,749 1149,749 1149,765 550,765"/>
+	<Word id="r221">
+	<Coords points="550,749 612,749 612,765 550,765"/>
+	<TextEquiv>
+	<Unicode>shipping.</Unicode></TextEquiv></Word>
+	<Word id="r222">
+	<Coords points="619,749 656,749 656,762 619,762"/>
+	<TextEquiv>
+	<Unicode>Since</Unicode></TextEquiv></Word>
+	<Word id="r223">
+	<Coords points="661,750 681,750 681,762 661,762"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="r224">
+	<Coords points="687,749 751,749 751,762 687,762"/>
+	<TextEquiv>
+	<Unicode>scralched</Unicode></TextEquiv></Word>
+	<Word id="r225">
+	<Coords points="756,750 798,750 798,762 756,762"/>
+	<TextEquiv>
+	<Unicode>DVDS</Unicode></TextEquiv></Word>
+	<Word id="r226">
+	<Coords points="803,753 823,753 823,762 803,762"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r227">
+	<Coords points="829,749 841,749 841,762 829,762"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r228">
+	<Coords points="847,749 866,749 866,762 847,762"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r229">
+	<Coords points="872,749 1049,749 1049,764 872,764"/>
+	<TextEquiv>
+	<Unicode>ﬁrst(lsIdisk).four1h(2nd</Unicode></TextEquiv></Word>
+	<Word id="r230">
+	<Coords points="1054,749 1087,749 1087,764 1054,764"/>
+	<TextEquiv>
+	<Unicode>disk)</Unicode></TextEquiv></Word>
+	<Word id="r231">
+	<Coords points="1093,749 1117,749 1117,762 1093,762"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r232">
+	<Coords points="1122,749 1149,749 1149,762 1122,762"/>
+	<TextEquiv>
+	<Unicode>min</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>shipping. Since die scralched DVDS are in the ﬁrst(lsIdisk).four1h(2nd disk) and min</Unicode></TextEquiv></TextLine>
+	<TextLine id="r233">
+	<Coords points="550,774 1150,774 1150,789 550,789"/>
+	<Word id="r234">
+	<Coords points="550,774 577,774 577,789 550,789"/>
+	<TextEquiv>
+	<Unicode>(4th</Unicode></TextEquiv></Word>
+	<Word id="r235">
+	<Coords points="581,774 615,774 615,789 581,789"/>
+	<TextEquiv>
+	<Unicode>disk)</Unicode></TextEquiv></Word>
+	<Word id="r236">
+	<Coords points="620,778 675,778 675,788 620,788"/>
+	<TextEquiv>
+	<Unicode>seasons,</Unicode></TextEquiv></Word>
+	<Word id="r237">
+	<Coords points="680,778 700,778 700,786 680,786"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r238">
+	<Coords points="704,774 743,774 743,786 704,786"/>
+	<TextEquiv>
+	<Unicode>wDn'I</Unicode></TextEquiv></Word>
+	<Word id="r239">
+	<Coords points="748,774 763,774 763,786 748,786"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r240">
+	<Coords points="768,774 796,774 796,786 768,786"/>
+	<TextEquiv>
+	<Unicode>able</Unicode></TextEquiv></Word>
+	<Word id="r241">
+	<Coords points="801,776 813,776 813,786 801,786"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r242">
+	<Coords points="818,774 858,774 858,786 818,786"/>
+	<TextEquiv>
+	<Unicode>wash</Unicode></TextEquiv></Word>
+	<Word id="r243">
+	<Coords points="863,774 883,774 883,786 863,786"/>
+	<TextEquiv>
+	<Unicode>rhe</Unicode></TextEquiv></Word>
+	<Word id="r244">
+	<Coords points="888,774 929,774 929,786 888,786"/>
+	<TextEquiv>
+	<Unicode>odiers</Unicode></TextEquiv></Word>
+	<Word id="r245">
+	<Coords points="934,774 987,774 987,786 934,786"/>
+	<TextEquiv>
+	<Unicode>because</Unicode></TextEquiv></Word>
+	<Word id="r246">
+	<Coords points="992,778 1011,778 1011,786 992,786"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r247">
+	<Coords points="1016,774 1058,774 1058,786 1016,786"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r248">
+	<Coords points="1063,774 1088,774 1088,786 1063,786"/>
+	<TextEquiv>
+	<Unicode>llkc</Unicode></TextEquiv></Word>
+	<Word id="r249">
+	<Coords points="1092,776 1105,776 1105,786 1092,786"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r250">
+	<Coords points="1110,774 1150,774 1150,786 1110,786"/>
+	<TextEquiv>
+	<Unicode>wareh</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>(4th disk) seasons, we wDn'I he able to wash rhe odiers because we would llkc to wareh</Unicode></TextEquiv></TextLine>
+	<TextLine id="r251">
+	<Coords points="550,798 1150,798 1150,814 550,814"/>
+	<Word id="r252">
+	<Coords points="550,799 583,799 583,811 550,811"/>
+	<TextEquiv>
+	<Unicode>them</Unicode></TextEquiv></Word>
+	<Word id="r253">
+	<Coords points="590,799 602,799 602,811 590,811"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r254">
+	<Coords points="609,799 648,799 648,811 609,811"/>
+	<TextEquiv>
+	<Unicode>order</Unicode></TextEquiv></Word>
+	<Word id="r255">
+	<Coords points="659,799 730,799 730,813 659,813"/>
+	<TextEquiv>
+	<Unicode>Thererore,</Unicode></TextEquiv></Word>
+	<Word id="r256">
+	<Coords points="738,802 757,802 757,811 738,811"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r257">
+	<Coords points="765,799 806,799 806,811 765,811"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r258">
+	<Coords points="813,799 883,799 883,814 813,814"/>
+	<TextEquiv>
+	<Unicode>appreclare</Unicode></TextEquiv></Word>
+	<Word id="r259">
+	<Coords points="890,799 899,799 899,811 890,811"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r260">
+	<Coords points="905,798 916,798 916,811 905,811"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r261">
+	<Coords points="922,802 947,802 947,814 922,814"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r262">
+	<Coords points="954,799 996,799 996,811 954,811"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r263">
+	<Coords points="1003,799 1030,799 1030,814 1003,814"/>
+	<TextEquiv>
+	<Unicode>ship</Unicode></TextEquiv></Word>
+	<Word id="r264">
+	<Coords points="1037,799 1070,799 1070,811 1037,811"/>
+	<TextEquiv>
+	<Unicode>lhem</Unicode></TextEquiv></Word>
+	<Word id="r265">
+	<Coords points="1077,802 1091,802 1091,811 1077,811"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r266">
+	<Coords points="1098,802 1129,802 1129,811 1098,811"/>
+	<TextEquiv>
+	<Unicode>soon</Unicode></TextEquiv></Word>
+	<Word id="r267">
+	<Coords points="1136,802 1150,802 1150,811 1136,811"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>them in order Thererore, we would appreclare it it you would ship lhem as soon as</Unicode></TextEquiv></TextLine>
+	<TextLine id="r268">
+	<Coords points="549,823 609,823 609,839 549,839"/>
+	<Word id="r269">
+	<Coords points="549,823 609,823 609,839 549,839"/>
+	<TextEquiv>
+	<Unicode>possible.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>possible.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>I would like lo gcl replasenrenrs for 1h: DVDs that were appsrendy duinnged during
+shipping. Since die scralched DVDS are in the ﬁrst(lsIdisk).four1h(2nd disk) and min
+(4th disk) seasons, we wDn'I he able to wash rhe odiers because we would llkc to wareh
+them in order Thererore, we would appreclare it it you would ship lhem as soon as
+possible.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r270" type="caption">
+	<Coords points="549,904 603,904 603,928 631,928 631,944 582,944 582,940 549,940"/>
+	<TextLine id="r271">
+	<Coords points="549,904 603,904 603,918 549,918"/>
+	<Word id="r272">
+	<Coords points="549,904 603,904 603,918 549,918"/>
+	<TextEquiv>
+	<Unicode>Thanks.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Thanks.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r273">
+	<Coords points="549,928 631,928 631,944 549,944"/>
+	<Word id="r274">
+	<Coords points="549,928 578,928 578,940 549,940"/>
+	<TextEquiv>
+	<Unicode>Dan</Unicode></TextEquiv></Word>
+	<Word id="r275">
+	<Coords points="582,928 631,928 631,944 582,944"/>
+	<TextEquiv>
+	<Unicode>Wright</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Dan Wright</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Thanks.
+Dan Wright</Unicode></TextEquiv></TextRegion></Page></PcGts>

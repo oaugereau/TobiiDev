@@ -1,0 +1,6 @@
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\Debug\ReadingEyeGaze.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\Debug\ReadingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\obj\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\obj\Debug\ReadingEyeGaze.pdb

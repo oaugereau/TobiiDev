@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-27T03:08:58</Created>
+	<LastChange>2015-02-27T03:08:58</LastChange></Metadata>
+	<Page imageFilename="doc4.jpg" imageWidth="1680" imageHeight="1050">
+	<ImageRegion id="r1">
+	<Coords points="1679,0 1679,1055 0,1055 0,0"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="550,126 618,126 618,150 645,150 645,166 590,166 590,163 550,163"/>
+	<TextLine id="r3">
+	<Coords points="550,126 618,126 618,138 550,138"/>
+	<Word id="r4">
+	<Coords points="550,126 578,126 578,138 550,138"/>
+	<TextEquiv>
+	<Unicode>Bob</Unicode></TextEquiv></Word>
+	<Word id="r5">
+	<Coords points="583,126 618,126 618,138 583,138"/>
+	<TextEquiv>
+	<Unicode>Kane</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Bob Kane</Unicode></TextEquiv></TextLine>
+	<TextLine id="r6">
+	<Coords points="550,150 645,150 645,166 550,166"/>
+	<Word id="r7">
+	<Coords points="550,151 585,151 585,163 550,163"/>
+	<TextEquiv>
+	<Unicode>Kane</Unicode></TextEquiv></Word>
+	<Word id="r8">
+	<Coords points="590,150 645,150 645,166 590,166"/>
+	<TextEquiv>
+	<Unicode>Designs</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Kane Designs</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Bob Kane
+Kane Designs</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="551,175 710,175 710,188 690,188 690,212 635,212 635,216 603,216 603,212 550,212 550,200 551,200"/>
+	<TextLine id="r10">
+	<Coords points="551,175 710,175 710,188 551,188"/>
+	<Word id="r11">
+	<Coords points="551,175 584,175 584,188 551,188"/>
+	<TextEquiv>
+	<Unicode>1300</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="588,175 665,175 665,188 588,188"/>
+	<TextEquiv>
+	<Unicode>Godierrnau</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="670,175 710,175 710,188 670,188"/>
+	<TextEquiv>
+	<Unicode>Street</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>1300 Godierrnau Street</Unicode></TextEquiv></TextLine>
+	<TextLine id="r14">
+	<Coords points="550,200 690,200 690,216 550,216"/>
+	<Word id="r15">
+	<Coords points="550,200 599,200 599,212 550,212"/>
+	<TextEquiv>
+	<Unicode>Kansas</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="603,200 635,200 635,216 603,216"/>
+	<TextEquiv>
+	<Unicode>ciry,</Unicode></TextEquiv></Word>
+	<Word id="r17">
+	<Coords points="641,200 690,200 690,212 641,212"/>
+	<TextEquiv>
+	<Unicode>Kansas</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Kansas ciry, Kansas</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>1300 Godierrnau Street
+Kansas ciry, Kansas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="549,256 657,256 657,270 617,270 617,268 549,268"/>
+	<TextLine id="r19">
+	<Coords points="549,256 657,256 657,270 549,270"/>
+	<Word id="r20">
+	<Coords points="549,256 583,256 583,268 549,268"/>
+	<TextEquiv>
+	<Unicode>Dear</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="587,256 610,256 610,268 587,268"/>
+	<TextEquiv>
+	<Unicode>M1.</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="617,256 657,256 657,270 617,270"/>
+	<TextEquiv>
+	<Unicode>Kalle.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Dear M1. Kalle.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Dear M1. Kalle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="549,333 898,333 898,335 967,335 967,336 1077,336 1077,333 1150,333 1150,419 1003,419 1003,443 891,443 891,447 828,447 828,443 631,443 631,447 568,447 568,443 550,443 550,419 549,419"/>
+	<TextLine id="r24">
+	<Coords points="549,333 1150,333 1150,349 549,349"/>
+	<Word id="r25">
+	<Coords points="549,333 579,333 579,345 549,345"/>
+	<TextEquiv>
+	<Unicode>This</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="586,333 621,333 621,345 586,345"/>
+	<TextEquiv>
+	<Unicode>leuer</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="626,333 637,333 637,345 626,345"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r28">
+	<Coords points="643,335 656,335 656,345 643,345"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r29">
+	<Coords points="662,333 709,333 709,345 662,345"/>
+	<TextEquiv>
+	<Unicode>infonn</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="714,336 740,336 740,349 714,349"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="746,333 782,333 782,345 746,345"/>
+	<TextEquiv>
+	<Unicode>that!</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="789,333 814,333 814,345 789,345"/>
+	<TextEquiv>
+	<Unicode>will</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="821,335 842,335 842,345 821,345"/>
+	<TextEquiv>
+	<Unicode>nol</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="848,333 864,333 864,345 848,345"/>
+	<TextEquiv>
+	<Unicode>be</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="870,333 898,333 898,345 870,345"/>
+	<TextEquiv>
+	<Unicode>able</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="904,335 917,335 917,345 904,345"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="923,335 967,335 967,349 923,349"/>
+	<TextEquiv>
+	<Unicode>accept</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="972,336 1004,336 1004,349 972,349"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="1009,336 1071,336 1071,349 1009,349"/>
+	<TextEquiv>
+	<Unicode>generous</Unicode></TextEquiv></Word>
+	<Word id="r40">
+	<Coords points="1077,333 1110,333 1110,345 1077,345"/>
+	<TextEquiv>
+	<Unicode>offer</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="1115,335 1128,335 1128,345 1115,345"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="1134,333 1150,333 1150,345 1134,345"/>
+	<TextEquiv>
+	<Unicode>be</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>This leuer is so infonn you that! will nol be able to accept your generous offer so be</Unicode></TextEquiv></TextLine>
+	<TextLine id="r43">
+	<Coords points="549,357 1150,357 1150,373 549,373"/>
+	<Word id="r44">
+	<Coords points="549,357 570,357 570,370 549,370"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="575,361 602,361 602,370 575,370"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="607,357 654,357 654,370 607,370"/>
+	<TextEquiv>
+	<Unicode>disu-ict</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="659,361 718,361 718,373 659,373"/>
+	<TextEquiv>
+	<Unicode>manager</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="722,359 734,359 734,370 722,370"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r49">
+	<Coords points="738,357 759,357 759,370 738,370"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r50">
+	<Coords points="763,357 847,357 847,370 763,370"/>
+	<TextEquiv>
+	<Unicode>Jacksonville</Unicode></TextEquiv></Word>
+	<Word id="r51">
+	<Coords points="852,357 890,357 890,370 852,370"/>
+	<TextEquiv>
+	<Unicode>omce</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="894,357 910,357 910,370 894,370"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="913,357 948,357 948,370 913,370"/>
+	<TextEquiv>
+	<Unicode>Kane</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="953,357 1008,357 1008,373 953,373"/>
+	<TextEquiv>
+	<Unicode>Designs</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="1013,357 1063,357 1063,373 1013,373"/>
+	<TextEquiv>
+	<Unicode>svardng</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="1068,357 1092,357 1092,370 1068,370"/>
+	<TextEquiv>
+	<Unicode>this</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="1097,357 1150,357 1150,373 1097,373"/>
+	<TextEquiv>
+	<Unicode>January</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>the new disu-ict manager at me Jacksonville omce of Kane Designs svardng this January</Unicode></TextEquiv></TextLine>
+	<TextLine id="r58">
+	<Coords points="550,382 1150,382 1150,398 550,398"/>
+	<Word id="r59">
+	<Coords points="550,382 575,382 575,394 550,394"/>
+	<TextEquiv>
+	<Unicode>5111.</Unicode></TextEquiv></Word>
+	<Word id="r60">
+	<Coords points="587,382 652,382 652,398 587,398"/>
+	<TextEquiv>
+	<Unicode>Although</Unicode></TextEquiv></Word>
+	<Word id="r61">
+	<Coords points="659,382 664,382 664,394 659,394"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="671,386 697,386 697,394 671,394"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="704,386 733,386 733,398 704,398"/>
+	<TextEquiv>
+	<Unicode>very</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="740,382 789,382 789,394 740,394"/>
+	<TextEquiv>
+	<Unicode>excited</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="796,384 808,384 808,394 796,394"/>
+	<TextEquiv>
+	<Unicode>ur</Unicode></TextEquiv></Word>
+	<Word id="r66">
+	<Coords points="815,382 835,382 835,394 815,394"/>
+	<TextEquiv>
+	<Unicode>lhe</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="842,382 871,382 871,394 842,394"/>
+	<TextEquiv>
+	<Unicode>idea</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="877,382 892,382 892,394 877,394"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="896,382 946,382 946,398 896,398"/>
+	<TextEquiv>
+	<Unicode>joining</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="953,386 985,386 985,398 953,398"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="991,384 1024,384 1024,394 991,394"/>
+	<TextEquiv>
+	<Unicode>iesm</Unicode></TextEquiv></Word>
+	<Word id="r72">
+	<Coords points="1031,382 1046,382 1046,394 1031,394"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="1051,386 1121,386 1121,398 1051,398"/>
+	<TextEquiv>
+	<Unicode>managers,</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="1128,386 1150,386 1150,398 1128,398"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>5111. Although I was very excited ur lhe idea of joining your iesm of managers, my</Unicode></TextEquiv></TextLine>
+	<TextLine id="r75">
+	<Coords points="549,406 1150,406 1150,422 549,422"/>
+	<Word id="r76">
+	<Coords points="549,406 595,406 595,419 549,419"/>
+	<TextEquiv>
+	<Unicode>radiers</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="600,409 642,409 642,419 600,419"/>
+	<TextEquiv>
+	<Unicode>reccnl</Unicode></TextEquiv></Word>
+	<Word id="r78">
+	<Coords points="647,406 690,406 690,419 647,419"/>
+	<TextEquiv>
+	<Unicode>illness</Unicode></TextEquiv></Word>
+	<Word id="r79">
+	<Coords points="695,406 756,406 756,419 695,419"/>
+	<TextEquiv>
+	<Unicode>demands</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="761,406 786,406 786,419 761,419"/>
+	<TextEquiv>
+	<Unicode>dun</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="791,407 796,407 796,419 791,419"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="799,406 827,406 827,422 799,422"/>
+	<TextEquiv>
+	<Unicode>join</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="832,406 853,406 853,419 832,419"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="858,406 902,406 902,422 858,422"/>
+	<TextEquiv>
+	<Unicode>rarnily</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="907,406 964,406 964,419 907,419"/>
+	<TextEquiv>
+	<Unicode>business</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="969,406 993,406 993,419 969,419"/>
+	<TextEquiv>
+	<Unicode>this</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="998,406 1069,406 1069,419 998,419"/>
+	<TextEquiv>
+	<Unicode>December</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="1074,406 1098,406 1098,419 1074,419"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="1102,406 1150,406 1150,419 1102,419"/>
+	<TextEquiv>
+	<Unicode>remain</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>radiers reccnl illness demands dun I join the rarnily business this December and remain</Unicode></TextEquiv></TextLine>
+	<TextLine id="r90">
+	<Coords points="550,431 1003,431 1003,447 550,447"/>
+	<Word id="r91">
+	<Coords points="550,435 563,435 563,443 550,443"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r92">
+	<Coords points="568,431 631,431 631,447 568,447"/>
+	<TextEquiv>
+	<Unicode>president</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="635,431 656,431 656,443 635,443"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="660,431 680,431 680,443 660,443"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="r95">
+	<Coords points="685,431 763,431 763,443 685,443"/>
+	<TextEquiv>
+	<Unicode>roreseealale</Unicode></TextEquiv></Word>
+	<Word id="r96">
+	<Coords points="767,431 812,431 812,443 767,443"/>
+	<TextEquiv>
+	<Unicode>runire.</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="818,431 824,431 824,443 818,443"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="828,431 861,431 861,447 828,447"/>
+	<TextEquiv>
+	<Unicode>nope</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="866,435 891,435 891,447 866,447"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="896,435 919,435 919,443 896,443"/>
+	<TextEquiv>
+	<Unicode>can</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="924,431 1003,431 1003,443 924,443"/>
+	<TextEquiv>
+	<Unicode>uudersrand.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>as president for die roreseealale runire. I nope you can uudersrand.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>This leuer is so infonn you that! will nol be able to accept your generous offer so be
+the new disu-ict manager at me Jacksonville omce of Kane Designs svardng this January
+5111. Although I was very excited ur lhe idea of joining your iesm of managers, my
+radiers reccnl illness demands dun I join the rarnily business this December and remain
+as president for die roreseealale runire. I nope you can uudersrand.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r102" type="paragraph">
+	<Coords points="550,508 1150,508 1150,569 1136,569 1136,573 1090,573 1090,569 952,569 952,573 712,573 712,598 683,598 683,594 549,594 549,582 550,582"/>
+	<TextLine id="r103">
+	<Coords points="550,508 1150,508 1150,524 550,524"/>
+	<Word id="r104">
+	<Coords points="550,508 555,508 555,520 550,520"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="561,512 591,512 591,524 561,524"/>
+	<TextEquiv>
+	<Unicode>very</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="597,508 635,508 635,520 597,520"/>
+	<TextEquiv>
+	<Unicode>much</Unicode></TextEquiv></Word>
+	<Word id="r107">
+	<Coords points="642,508 695,508 695,524 642,524"/>
+	<TextEquiv>
+	<Unicode>enjoyed</Unicode></TextEquiv></Word>
+	<Word id="r108">
+	<Coords points="702,508 722,508 722,520 702,520"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="729,508 822,508 822,520 729,520"/>
+	<TextEquiv>
+	<Unicode>oonversaiions</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="828,512 848,512 848,520 828,520"/>
+	<TextEquiv>
+	<Unicode>we</Unicode></TextEquiv></Word>
+	<Word id="r111">
+	<Coords points="854,508 879,508 879,520 854,520"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r112">
+	<Coords points="885,508 929,508 929,524 885,524"/>
+	<TextEquiv>
+	<Unicode>during</Unicode></TextEquiv></Word>
+	<Word id="r113">
+	<Coords points="936,508 957,508 957,520 936,520"/>
+	<TextEquiv>
+	<Unicode>use</Unicode></TextEquiv></Word>
+	<Word id="r114">
+	<Coords points="963,508 1003,508 1003,520 963,520"/>
+	<TextEquiv>
+	<Unicode>initial</Unicode></TextEquiv></Word>
+	<Word id="r115">
+	<Coords points="1009,508 1073,508 1073,520 1009,520"/>
+	<TextEquiv>
+	<Unicode>imcrvizw</Unicode></TextEquiv></Word>
+	<Word id="r116">
+	<Coords points="1079,512 1130,512 1130,524 1079,524"/>
+	<TextEquiv>
+	<Unicode>process</Unicode></TextEquiv></Word>
+	<Word id="r117">
+	<Coords points="1137,508 1150,508 1150,520 1137,520"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>I very much enjoyed the oonversaiions we had during use initial imcrvizw process in</Unicode></TextEquiv></TextLine>
+	<TextLine id="r118">
+	<Coords points="550,532 1150,532 1150,548 550,548"/>
+	<Word id="r119">
+	<Coords points="550,532 607,532 607,545 550,545"/>
+	<TextEquiv>
+	<Unicode>October.</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="619,533 630,533 630,545 619,545"/>
+	<TextEquiv>
+	<Unicode>I!</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="636,536 662,536 662,545 636,545"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="669,536 676,536 676,545 669,545"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="682,532 739,532 739,548 682,548"/>
+	<TextEquiv>
+	<Unicode>pleasure</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="746,535 759,535 759,545 746,545"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r125">
+	<Coords points="765,532 797,532 797,545 765,545"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r126">
+	<Coords points="803,536 811,536 811,545 803,545"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="817,533 864,533 864,545 817,545"/>
+	<TextEquiv>
+	<Unicode>chance</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="871,534 884,534 884,545 871,545"/>
+	<TextEquiv>
+	<Unicode>la</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="891,534 924,534 924,545 891,545"/>
+	<TextEquiv>
+	<Unicode>meet</Unicode></TextEquiv></Word>
+	<Word id="r130">
+	<Coords points="930,536 991,536 991,545 930,545"/>
+	<TextEquiv>
+	<Unicode>someone</Unicode></TextEquiv></Word>
+	<Word id="r131">
+	<Coords points="998,536 1012,536 1012,545 998,545"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="1019,532 1048,532 1048,545 1019,545"/>
+	<TextEquiv>
+	<Unicode>well</Unicode></TextEquiv></Word>
+	<Word id="r133">
+	<Coords points="1054,532 1119,532 1119,548 1054,548"/>
+	<TextEquiv>
+	<Unicode>respected</Unicode></TextEquiv></Word>
+	<Word id="r134">
+	<Coords points="1126,532 1150,532 1150,545 1126,545"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>October. I! was a pleasure to have a chance la meet someone so well respected and</Unicode></TextEquiv></TextLine>
+	<TextLine id="r135">
+	<Coords points="550,557 1150,557 1150,573 550,573"/>
+	<Word id="r136">
+	<Coords points="550,557 644,557 644,573 550,573"/>
+	<TextEquiv>
+	<Unicode>accomplished</Unicode></TextEquiv></Word>
+	<Word id="r137">
+	<Coords points="650,557 663,557 663,569 650,569"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r138">
+	<Coords points="669,557 690,557 690,569 669,569"/>
+	<TextEquiv>
+	<Unicode>Lb:</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="696,557 727,557 727,569 696,569"/>
+	<TextEquiv>
+	<Unicode>ﬁeld</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="733,557 748,557 748,569 733,569"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r141">
+	<Coords points="753,557 804,557 804,573 753,573"/>
+	<TextEquiv>
+	<Unicode>gnaphic</Unicode></TextEquiv></Word>
+	<Word id="r142">
+	<Coords points="811,557 859,557 859,573 811,573"/>
+	<TextEquiv>
+	<Unicode>design.</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="870,557 876,557 876,569 870,569"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="882,557 907,557 907,569 882,569"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="913,557 952,557 952,573 913,573"/>
+	<TextEquiv>
+	<Unicode>really</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="958,557 1004,557 1004,569 958,569"/>
+	<TextEquiv>
+	<Unicode>looked</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="1011,557 1065,557 1065,569 1011,569"/>
+	<TextEquiv>
+	<Unicode>forward</Unicode></TextEquiv></Word>
+	<Word id="r148">
+	<Coords points="1071,559 1084,559 1084,569 1071,569"/>
+	<TextEquiv>
+	<Unicode>ID</Unicode></TextEquiv></Word>
+	<Word id="r149">
+	<Coords points="1090,557 1136,557 1136,573 1090,573"/>
+	<TextEquiv>
+	<Unicode>having</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="1143,561 1150,561 1150,569 1143,569"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>accomplished in Lb: ﬁeld of gnaphic design. I had really looked forward ID having a</Unicode></TextEquiv></TextLine>
+	<TextLine id="r151">
+	<Coords points="549,581 712,581 712,598 549,598"/>
+	<Word id="r152">
+	<Coords points="549,582 597,582 597,594 549,594"/>
+	<TextEquiv>
+	<Unicode>chance</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="602,584 614,584 614,594 602,594"/>
+	<TextEquiv>
+	<Unicode>[0</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="619,582 654,582 654,594 619,594"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r155">
+	<Coords points="659,581 679,581 679,594 659,594"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r156">
+	<Coords points="683,585 712,585 712,598 683,598"/>
+	<TextEquiv>
+	<Unicode>you.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>chance [0 work for you.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>I very much enjoyed the oonversaiions we had during use initial imcrvizw process in
+October. I! was a pleasure to have a chance la meet someone so well respected and
+accomplished in Lb: ﬁeld of gnaphic design. I had really looked forward ID having a
+chance [0 work for you.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r157" type="caption">
+	<Coords points="560,658 732,658 732,662 841,662 841,659 870,659 870,658 1150,658 1150,745 1088,745 1088,748 959,748 959,773 912,773 912,769 800,769 800,773 612,773 612,769 549,769 549,659 560,659"/>
+	<TextLine id="r158">
+	<Coords points="549,658 1150,658 1150,675 549,675"/>
+	<Word id="r159">
+	<Coords points="549,659 555,659 555,671 549,671"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="560,658 592,658 592,671 560,671"/>
+	<TextEquiv>
+	<Unicode>wish</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="597,662 623,662 623,674 597,674"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r162">
+	<Coords points="628,659 662,659 662,675 628,675"/>
+	<TextEquiv>
+	<Unicode>good</Unicode></TextEquiv></Word>
+	<Word id="r163">
+	<Coords points="667,658 697,658 697,671 667,671"/>
+	<TextEquiv>
+	<Unicode>luck</Unicode></TextEquiv></Word>
+	<Word id="r164">
+	<Coords points="701,658 732,658 732,671 701,671"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r165">
+	<Coords points="737,662 768,662 768,674 737,674"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r166">
+	<Coords points="773,662 835,662 835,675 773,675"/>
+	<TextEquiv>
+	<Unicode>company</Unicode></TextEquiv></Word>
+	<Word id="r167">
+	<Coords points="841,659 865,659 865,671 841,671"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="870,658 900,658 900,671 870,671"/>
+	<TextEquiv>
+	<Unicode>win.</Unicode></TextEquiv></Word>
+	<Word id="r169">
+	<Coords points="905,662 937,662 937,674 905,674"/>
+	<TextEquiv>
+	<Unicode>your</Unicode></TextEquiv></Word>
+	<Word id="r170">
+	<Coords points="942,659 977,659 977,675 942,675"/>
+	<TextEquiv>
+	<Unicode>plans</Unicode></TextEquiv></Word>
+	<Word id="r171">
+	<Coords points="983,658 1003,658 1003,671 983,671"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r172">
+	<Coords points="1008,658 1077,658 1077,675 1008,675"/>
+	<TextEquiv>
+	<Unicode>expansion</Unicode></TextEquiv></Word>
+	<Word id="r173">
+	<Coords points="1082,658 1150,658 1150,674 1082,674"/>
+	<TextEquiv>
+	<Unicode>beginning</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>1 wish you good luck with your company and win. your plans for expansion beginning</Unicode></TextEquiv></TextLine>
+	<TextLine id="r174">
+	<Coords points="550,683 1150,683 1150,699 550,699"/>
+	<Word id="r175">
+	<Coords points="550,683 562,683 562,695 550,695"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="567,683 598,683 598,699 567,699"/>
+	<TextEquiv>
+	<Unicode>May</Unicode></TextEquiv></Word>
+	<Word id="r177">
+	<Coords points="603,683 618,683 618,695 603,695"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r178">
+	<Coords points="621,685 651,685 651,695 621,695"/>
+	<TextEquiv>
+	<Unicode>nzxt</Unicode></TextEquiv></Word>
+	<Word id="r179">
+	<Coords points="655,687 687,687 687,699 655,699"/>
+	<TextEquiv>
+	<Unicode>year.</Unicode></TextEquiv></Word>
+	<Word id="r180">
+	<Coords points="693,683 712,683 712,695 693,695"/>
+	<TextEquiv>
+	<Unicode>As</Unicode></TextEquiv></Word>
+	<Word id="r181">
+	<Coords points="716,683 722,683 722,695 716,695"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="726,683 753,683 753,696 726,696"/>
+	<TextEquiv>
+	<Unicode>told</Unicode></TextEquiv></Word>
+	<Word id="r183">
+	<Coords points="757,687 783,687 783,699 757,699"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r184">
+	<Coords points="787,683 835,683 835,698 787,698"/>
+	<TextEquiv>
+	<Unicode>before,</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="840,683 845,683 845,695 840,695"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="850,687 887,687 887,699 850,699"/>
+	<TextEquiv>
+	<Unicode>agree</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="891,683 917,683 917,695 891,695"/>
+	<TextEquiv>
+	<Unicode>mar</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="921,687 950,687 950,696 921,696"/>
+	<TextEquiv>
+	<Unicode>now</Unicode></TextEquiv></Word>
+	<Word id="r189">
+	<Coords points="955,683 965,683 965,696 955,696"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r190">
+	<Coords points="970,683 991,683 991,695 970,695"/>
+	<TextEquiv>
+	<Unicode>Lhe</Unicode></TextEquiv></Word>
+	<Word id="r191">
+	<Coords points="995,683 1026,683 1026,695 995,695"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r192">
+	<Coords points="1030,683 1050,683 1050,695 1030,695"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r193">
+	<Coords points="1055,683 1090,683 1090,696 1055,696"/>
+	<TextEquiv>
+	<Unicode>Kane</Unicode></TextEquiv></Word>
+	<Word id="r194">
+	<Coords points="1095,683 1150,683 1150,699 1095,699"/>
+	<TextEquiv>
+	<Unicode>Designs</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>in May of nzxt year. As I told you before, I agree mar now is Lhe me for Kane Designs</Unicode></TextEquiv></TextLine>
+	<TextLine id="r195">
+	<Coords points="550,707 1150,707 1150,724 550,724"/>
+	<Word id="r196">
+	<Coords points="550,710 562,710 562,720 550,720"/>
+	<TextEquiv>
+	<Unicode>ro</Unicode></TextEquiv></Word>
+	<Word id="r197">
+	<Coords points="568,710 618,710 618,724 568,724"/>
+	<TextEquiv>
+	<Unicode>cspmre</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="623,711 631,711 631,720 623,720"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv></Word>
+	<Word id="r199">
+	<Coords points="637,708 666,708 666,720 637,720"/>
+	<TextEquiv>
+	<Unicode>15%</Unicode></TextEquiv></Word>
+	<Word id="r200">
+	<Coords points="672,708 712,708 712,724 672,724"/>
+	<TextEquiv>
+	<Unicode>larger</Unicode></TextEquiv></Word>
+	<Word id="r201">
+	<Coords points="717,710 773,710 773,724 717,724"/>
+	<TextEquiv>
+	<Unicode>segmenr</Unicode></TextEquiv></Word>
+	<Word id="r202">
+	<Coords points="778,707 793,707 793,720 778,720"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r203">
+	<Coords points="798,708 818,708 818,720 798,720"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="r204">
+	<Coords points="823,708 874,708 874,722 823,722"/>
+	<TextEquiv>
+	<Unicode>market.</Unicode></TextEquiv></Word>
+	<Word id="r205">
+	<Coords points="880,708 905,708 905,720 880,720"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r206">
+	<Coords points="910,708 935,708 935,720 910,720"/>
+	<TextEquiv>
+	<Unicode>mar</Unicode></TextEquiv></Word>
+	<Word id="r207">
+	<Coords points="940,708 964,708 964,720 940,720"/>
+	<TextEquiv>
+	<Unicode>dds</Unicode></TextEquiv></Word>
+	<Word id="r208">
+	<Coords points="970,708 1008,708 1008,720 970,720"/>
+	<TextEquiv>
+	<Unicode>cmlld</Unicode></TextEquiv></Word>
+	<Word id="r209">
+	<Coords points="1013,708 1028,708 1028,720 1013,720"/>
+	<TextEquiv>
+	<Unicode>be</Unicode></TextEquiv></Word>
+	<Word id="r210">
+	<Coords points="1034,708 1128,708 1128,724 1034,724"/>
+	<TextEquiv>
+	<Unicode>accomplished</Unicode></TextEquiv></Word>
+	<Word id="r211">
+	<Coords points="1133,708 1150,708 1150,724 1133,724"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ro cspmre u 15% larger segmenr of die market. and mar dds cmlld be accomplished by</Unicode></TextEquiv></TextLine>
+	<TextLine id="r212">
+	<Coords points="549,732 1150,732 1150,748 549,748"/>
+	<Word id="r213">
+	<Coords points="549,732 602,732 602,748 549,748"/>
+	<TextEquiv>
+	<Unicode>January</Unicode></TextEquiv></Word>
+	<Word id="r214">
+	<Coords points="607,734 632,734 632,745 607,745"/>
+	<TextEquiv>
+	<Unicode>two</Unicode></TextEquiv></Word>
+	<Word id="r215">
+	<Coords points="636,736 672,736 672,748 636,748"/>
+	<TextEquiv>
+	<Unicode>years</Unicode></TextEquiv></Word>
+	<Word id="r216">
+	<Coords points="676,732 710,732 710,745 676,745"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<Word id="r217">
+	<Coords points="714,736 745,736 745,745 714,745"/>
+	<TextEquiv>
+	<Unicode>now.</Unicode></TextEquiv></Word>
+	<Word id="r218">
+	<Coords points="752,732 757,732 757,744 752,744"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r219">
+	<Coords points="761,732 794,732 794,748 761,748"/>
+	<TextEquiv>
+	<Unicode>hope</Unicode></TextEquiv></Word>
+	<Word id="r220">
+	<Coords points="798,732 824,732 824,745 798,745"/>
+	<TextEquiv>
+	<Unicode>mas</Unicode></TextEquiv></Word>
+	<Word id="r221">
+	<Coords points="828,736 850,736 850,748 828,748"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r222">
+	<Coords points="854,732 911,732 911,745 854,745"/>
+	<TextEquiv>
+	<Unicode>decision</Unicode></TextEquiv></Word>
+	<Word id="r223">
+	<Coords points="915,734 928,734 928,745 915,745"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r224">
+	<Coords points="932,732 980,732 980,745 932,745"/>
+	<TextEquiv>
+	<Unicode>remain</Unicode></TextEquiv></Word>
+	<Word id="r225">
+	<Coords points="984,732 1014,732 1014,745 984,745"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r226">
+	<Coords points="1019,732 1040,732 1040,745 1019,745"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="r227">
+	<Coords points="1044,732 1088,732 1088,748 1044,748"/>
+	<TextEquiv>
+	<Unicode>family</Unicode></TextEquiv></Word>
+	<Word id="r228">
+	<Coords points="1092,732 1150,732 1150,745 1092,745"/>
+	<TextEquiv>
+	<Unicode>business</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>January two years from now. 1 hope mas my decision to remain with die family business</Unicode></TextEquiv></TextLine>
+	<TextLine id="r229">
+	<Coords points="549,757 959,757 959,773 549,773"/>
+	<Word id="r230">
+	<Coords points="549,757 580,757 580,769 549,769"/>
+	<TextEquiv>
+	<Unicode>does</Unicode></TextEquiv></Word>
+	<Word id="r231">
+	<Coords points="585,759 607,759 607,769 585,769"/>
+	<TextEquiv>
+	<Unicode>not</Unicode></TextEquiv></Word>
+	<Word id="r232">
+	<Coords points="612,757 677,757 677,773 612,773"/>
+	<TextEquiv>
+	<Unicode>adversely</Unicode></TextEquiv></Word>
+	<Word id="r233">
+	<Coords points="682,757 720,757 720,769 682,769"/>
+	<TextEquiv>
+	<Unicode>affect</Unicode></TextEquiv></Word>
+	<Word id="r234">
+	<Coords points="724,757 759,757 759,769 724,769"/>
+	<TextEquiv>
+	<Unicode>diese</Unicode></TextEquiv></Word>
+	<Word id="r235">
+	<Coords points="764,757 800,757 800,773 764,773"/>
+	<TextEquiv>
+	<Unicode>plans</Unicode></TextEquiv></Word>
+	<Word id="r236">
+	<Coords points="805,760 819,760 819,769 805,769"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r237">
+	<Coords points="823,760 861,760 861,769 823,769"/>
+	<TextEquiv>
+	<Unicode>cause</Unicode></TextEquiv></Word>
+	<Word id="r238">
+	<Coords points="866,757 907,757 907,769 866,769"/>
+	<TextEquiv>
+	<Unicode>undue</Unicode></TextEquiv></Word>
+	<Word id="r239">
+	<Coords points="912,757 959,757 959,773 912,773"/>
+	<TextEquiv>
+	<Unicode>delnys.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>does not adversely affect diese plans or cause undue delnys.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>1 wish you good luck with your company and win. your plans for expansion beginning
+in May of nzxt year. As I told you before, I agree mar now is Lhe me for Kane Designs
+ro cspmre u 15% larger segmenr of die market. and mar dds cmlld be accomplished by
+January two years from now. 1 hope mas my decision to remain with die family business
+does not adversely affect diese plans or cause undue delnys.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r240" type="paragraph">
+	<Coords points="549,834 654,834 654,836 801,836 801,834 1045,834 1045,846 980,846 980,850 959,850 959,846 796,846 796,850 773,850 773,846 549,846"/>
+	<TextLine id="r241">
+	<Coords points="549,834 1045,834 1045,850 549,850"/>
+	<Word id="r242">
+	<Coords points="549,834 593,834 593,846 549,846"/>
+	<TextEquiv>
+	<Unicode>Pleas:</Unicode></TextEquiv></Word>
+	<Word id="r243">
+	<Coords points="598,834 623,834 623,846 598,846"/>
+	<TextEquiv>
+	<Unicode>feel</Unicode></TextEquiv></Word>
+	<Word id="r244">
+	<Coords points="628,834 654,834 654,846 628,846"/>
+	<TextEquiv>
+	<Unicode>free</Unicode></TextEquiv></Word>
+	<Word id="r245">
+	<Coords points="659,836 672,836 672,846 659,846"/>
+	<TextEquiv>
+	<Unicode>In</Unicode></TextEquiv></Word>
+	<Word id="r246">
+	<Coords points="676,836 726,836 726,846 676,846"/>
+	<TextEquiv>
+	<Unicode>Contact</Unicode></TextEquiv></Word>
+	<Word id="r247">
+	<Coords points="730,837 751,837 751,846 730,846"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r248">
+	<Coords points="756,836 768,836 768,846 756,846"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r249">
+	<Coords points="773,837 796,837 796,850 773,850"/>
+	<TextEquiv>
+	<Unicode>any</Unicode></TextEquiv></Word>
+	<Word id="r250">
+	<Coords points="801,834 831,834 831,846 801,846"/>
+	<TextEquiv>
+	<Unicode>time</Unicode></TextEquiv></Word>
+	<Word id="r251">
+	<Coords points="836,836 849,836 849,846 836,846"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r252">
+	<Coords points="854,834 901,834 901,846 854,846"/>
+	<TextEquiv>
+	<Unicode>funher</Unicode></TextEquiv></Word>
+	<Word id="r253">
+	<Coords points="905,834 954,834 954,846 905,846"/>
+	<TextEquiv>
+	<Unicode>discuss</Unicode></TextEquiv></Word>
+	<Word id="r254">
+	<Coords points="959,837 980,837 980,850 959,850"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r255">
+	<Coords points="985,834 1045,834 1045,846 985,846"/>
+	<TextEquiv>
+	<Unicode>decision.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Pleas: feel free In Contact me at any time to funher discuss my decision.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Pleas: feel free In Contact me at any time to funher discuss my decision.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r256" type="paragraph">
+	<Coords points="550,904 617,904 617,928 645,928 645,944 587,944 587,941 550,941"/>
+	<TextLine id="r257">
+	<Coords points="550,904 617,904 617,920 550,920"/>
+	<Word id="r258">
+	<Coords points="550,904 617,904 617,920 550,920"/>
+	<TextEquiv>
+	<Unicode>sincerely.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>sincerely.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r259">
+	<Coords points="550,928 645,928 645,944 550,944"/>
+	<Word id="r260">
+	<Coords points="550,928 583,928 583,941 550,941"/>
+	<TextEquiv>
+	<Unicode>Dick</Unicode></TextEquiv></Word>
+	<Word id="r261">
+	<Coords points="587,928 645,928 645,944 587,944"/>
+	<TextEquiv>
+	<Unicode>Grayson</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Dick Grayson</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>sincerely.
+Dick Grayson</Unicode></TextEquiv></TextRegion></Page></PcGts>

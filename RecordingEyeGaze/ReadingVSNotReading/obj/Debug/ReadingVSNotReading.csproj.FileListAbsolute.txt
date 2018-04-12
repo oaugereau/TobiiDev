@@ -1,0 +1,9 @@
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ReadingVSNotReading\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ReadingVSNotReading\bin\Debug\ReadingVSNotReading.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ReadingVSNotReading\bin\Debug\ReadingVSNotReading.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ReadingVSNotReading\bin\Debug\ReadingVSNotReading.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ReadingVSNotReading\bin\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ReadingVSNotReading\bin\Debug\ReadingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ReadingVSNotReading\obj\Debug\ReadingVSNotReading.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ReadingVSNotReading\obj\Debug\ReadingVSNotReading.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ReadingVSNotReading\obj\Debug\ReadingVSNotReading.pdb

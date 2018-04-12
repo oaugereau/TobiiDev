@@ -1,0 +1,5 @@
+Screen Bounds in pixels (0, 0), 3840 x 2160
+ Display Size in millimeters 509.0 x 286.0
+Eye tracking device status Tracking
+User presence Present
+User profile name olivier - Glasses

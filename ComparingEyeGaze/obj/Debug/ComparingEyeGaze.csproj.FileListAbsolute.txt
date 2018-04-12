@@ -1,0 +1,1 @@
+C:\Users\Olivier\Documents\GitHub\eyex\ComparingEyeGaze\obj\Debug\ComparingEyeGaze.csprojResolveAssemblyReference.cache

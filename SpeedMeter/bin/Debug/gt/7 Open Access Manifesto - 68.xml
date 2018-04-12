@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-04-02T08:58:35</Created>
+	<LastChange>2015-04-02T08:58:35</LastChange></Metadata>
+	<Page imageFilename="7 Open Access Manifesto.png" imageWidth="863" imageHeight="314">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="43,33 242,33 242,39 362,39 362,35 421,35 421,33 476,33 476,35 534,35 534,39 654,39 654,35 724,35 724,39 782,39 782,63 811,63 811,116 812,116 812,138 811,138 811,165 782,165 782,215 696,215 696,243 548,243 548,248 405,248 405,243 166,243 166,270 41,270 41,215 40,215 40,200 41,200 41,88 42,88 42,63 43,63"/>
+	<TextLine id="r2">
+	<Coords points="43,33 242,33 242,39 362,39 362,35 421,35 421,33 476,33 476,35 534,35 534,39 654,39 654,35 724,35 724,39 782,39 782,50 632,50 632,55 551,55 551,50 341,50 341,55 259,55 259,50 43,50"/>
+	<Word id="r3">
+	<Coords points="43,33 199,33 199,50 43,50"/>
+	<TextEquiv>
+	<Unicode>Information</Unicode></TextEquiv></Word>
+	<Word id="r4">
+	<Coords points="217,33 242,33 242,50 217,50"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r5">
+	<Coords points="259,39 341,39 341,55 259,55"/>
+	<TextEquiv>
+	<Unicode>power.</Unicode></TextEquiv></Word>
+	<Word id="r6">
+	<Coords points="362,35 403,35 403,50 362,50"/>
+	<TextEquiv>
+	<Unicode>But</Unicode></TextEquiv></Word>
+	<Word id="r7">
+	<Coords points="421,33 476,33 476,50 421,50"/>
+	<TextEquiv>
+	<Unicode>like</Unicode></TextEquiv></Word>
+	<Word id="r8">
+	<Coords points="494,35 534,35 534,50 494,50"/>
+	<TextEquiv>
+	<Unicode>all</Unicode></TextEquiv></Word>
+	<Word id="r9">
+	<Coords points="551,39 632,39 632,55 551,55"/>
+	<TextEquiv>
+	<Unicode>power,</Unicode></TextEquiv></Word>
+	<Word id="r10">
+	<Coords points="654,35 724,35 724,50 654,50"/>
+	<TextEquiv>
+	<Unicode>there</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="742,39 782,39 782,50 742,50"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Information is power. But like all power, there are</Unicode></TextEquiv></TextLine>
+	<TextLine id="r12">
+	<Coords points="378,61 403,61 403,63 811,63 811,78 360,78 360,83 305,83 305,78 42,78 42,63 378,63"/>
+	<Word id="r13">
+	<Coords points="42,63 111,63 111,78 42,78"/>
+	<TextEquiv>
+	<Unicode>those</Unicode></TextEquiv></Word>
+	<Word id="r14">
+	<Coords points="128,63 170,63 170,78 128,78"/>
+	<TextEquiv>
+	<Unicode>who</Unicode></TextEquiv></Word>
+	<Word id="r15">
+	<Coords points="186,63 242,63 242,78 186,78"/>
+	<TextEquiv>
+	<Unicode>want</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="260,63 286,63 286,78 260,78"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r17">
+	<Coords points="305,63 360,63 360,83 305,83"/>
+	<TextEquiv>
+	<Unicode>keep</Unicode></TextEquiv></Word>
+	<Word id="r18">
+	<Coords points="378,61 403,61 403,78 378,78"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r19">
+	<Coords points="422,63 462,63 462,78 422,78"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="479,63 633,63 633,78 479,78"/>
+	<TextEquiv>
+	<Unicode>themselves.</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="654,63 695,63 695,78 654,78"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="711,63 811,63 811,78 711,78"/>
+	<TextEquiv>
+	<Unicode>world's</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>those who want to keep it for themselves. The world's</Unicode></TextEquiv></TextLine>
+	<TextLine id="r23">
+	<Coords points="41,88 287,88 287,90 493,90 493,88 769,88 769,110 493,110 493,105 41,105"/>
+	<Word id="r24">
+	<Coords points="41,88 126,88 126,105 41,105"/>
+	<TextEquiv>
+	<Unicode>entire</Unicode></TextEquiv></Word>
+	<Word id="r25">
+	<Coords points="144,88 287,88 287,105 144,105"/>
+	<TextEquiv>
+	<Unicode>scientific</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="304,90 346,90 346,105 304,105"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="363,90 475,90 475,105 363,105"/>
+	<TextEquiv>
+	<Unicode>cultural</Unicode></TextEquiv></Word>
+	<Word id="r28">
+	<Coords points="493,88 617,88 617,110 493,110"/>
+	<TextEquiv>
+	<Unicode>heritage,</Unicode></TextEquiv></Word>
+	<Word id="r29">
+	<Coords points="639,88 769,88 769,110 639,110"/>
+	<TextEquiv>
+	<Unicode>published</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>entire scientific and cultural heritage, published</Unicode></TextEquiv></TextLine>
+	<TextLine id="r30">
+	<Coords points="115,116 287,116 287,118 451,118 451,116 812,116 812,138 451,138 451,133 42,133 42,122 115,122"/>
+	<Word id="r31">
+	<Coords points="42,122 97,122 97,133 42,133"/>
+	<TextEquiv>
+	<Unicode>over</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="115,116 242,116 242,133 115,133"/>
+	<TextEquiv>
+	<Unicode>centuries</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="261,116 287,116 287,133 261,133"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="303,118 373,118 373,133 303,133"/>
+	<TextEquiv>
+	<Unicode>books</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="392,118 433,118 433,133 392,133"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="451,116 573,116 573,138 451,138"/>
+	<TextEquiv>
+	<Unicode>journals,</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="596,116 621,116 621,133 596,133"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="640,116 812,116 812,138 640,138"/>
+	<TextEquiv>
+	<Unicode>increasingly</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>over centuries in books and journals, is increasingly</Unicode></TextEquiv></TextLine>
+	<TextLine id="r39">
+	<Coords points="41,143 258,143 258,145 712,145 712,143 811,143 811,165 712,165 712,160 506,160 506,165 435,165 435,160 258,160 258,165 41,165"/>
+	<Word id="r40">
+	<Coords points="41,143 112,143 112,165 41,165"/>
+	<TextEquiv>
+	<Unicode>being</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="129,143 258,143 258,165 129,165"/>
+	<TextEquiv>
+	<Unicode>digitized</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="275,145 316,145 316,160 275,160"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r43">
+	<Coords points="334,145 419,145 419,160 334,160"/>
+	<TextEquiv>
+	<Unicode>locked</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="435,149 462,149 462,165 435,165"/>
+	<TextEquiv>
+	<Unicode>up</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="478,145 506,145 506,165 478,165"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="523,149 534,149 534,160 523,160"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="552,145 650,145 650,160 552,160"/>
+	<TextEquiv>
+	<Unicode>handful</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="669,145 695,145 695,160 669,160"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r49">
+	<Coords points="712,143 811,143 811,165 712,165"/>
+	<TextEquiv>
+	<Unicode>private</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>being digitized and locked up by a handful of private</Unicode></TextEquiv></TextLine>
+	<TextLine id="r50">
+	<Coords points="42,171 224,171 224,173 476,173 476,177 597,177 597,171 724,171 724,173 782,173 782,188 724,188 724,193 493,193 493,188 224,188 224,193 42,193"/>
+	<Word id="r51">
+	<Coords points="42,171 224,171 224,193 42,193"/>
+	<TextEquiv>
+	<Unicode>corporations.</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="245,173 301,173 301,188 245,188"/>
+	<TextEquiv>
+	<Unicode>Want</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="319,173 345,173 345,188 319,188"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="363,173 419,173 419,188 363,188"/>
+	<TextEquiv>
+	<Unicode>read</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="435,173 476,173 476,188 435,188"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="493,177 577,177 577,193 493,193"/>
+	<TextEquiv>
+	<Unicode>papers</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="597,171 724,171 724,193 597,193"/>
+	<TextEquiv>
+	<Unicode>featuring</Unicode></TextEquiv></Word>
+	<Word id="r58">
+	<Coords points="742,173 782,173 782,188 742,188"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>corporations. Want to read the papers featuring the</Unicode></TextEquiv></TextLine>
+	<TextLine id="r59">
+	<Coords points="436,198 563,198 563,200 782,200 782,215 40,215 40,200 436,200"/>
+	<Word id="r60">
+	<Coords points="40,200 96,200 96,215 40,215"/>
+	<TextEquiv>
+	<Unicode>most</Unicode></TextEquiv></Word>
+	<Word id="r61">
+	<Coords points="116,200 198,200 198,215 116,215"/>
+	<TextEquiv>
+	<Unicode>famous</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="217,200 315,200 315,215 217,215"/>
+	<TextEquiv>
+	<Unicode>results</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="333,200 359,200 359,215 333,215"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="377,200 418,200 418,215 377,215"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="436,198 563,198 563,215 436,215"/>
+	<TextEquiv>
+	<Unicode>sciences?</Unicode></TextEquiv></Word>
+	<Word id="r66">
+	<Coords points="581,200 665,200 665,215 581,215"/>
+	<TextEquiv>
+	<Unicode>You'll</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="683,200 739,200 739,215 683,215"/>
+	<TextEquiv>
+	<Unicode>need</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="756,200 782,200 782,215 756,215"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>most famous results of the sciences? You'll need to</Unicode></TextEquiv></TextLine>
+	<TextLine id="r69">
+	<Coords points="405,226 622,226 622,228 696,228 696,243 548,243 548,248 405,248 405,243 42,243 42,228 98,228 98,232 246,232 246,228 405,228"/>
+	<Word id="r70">
+	<Coords points="42,228 98,228 98,243 42,243"/>
+	<TextEquiv>
+	<Unicode>send</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="114,232 227,232 227,243 114,243"/>
+	<TextEquiv>
+	<Unicode>enormous</Unicode></TextEquiv></Word>
+	<Word id="r72">
+	<Coords points="246,228 344,228 344,243 246,243"/>
+	<TextEquiv>
+	<Unicode>amounts</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="363,228 389,228 389,243 363,243"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="405,226 548,226 548,248 405,248"/>
+	<TextEquiv>
+	<Unicode>publishers</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="567,226 622,226 622,243 567,243"/>
+	<TextEquiv>
+	<Unicode>like</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="639,228 696,228 696,243 639,243"/>
+	<TextEquiv>
+	<Unicode>Reed</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>send enormous amounts to publishers like Reed</Unicode></TextEquiv></TextLine>
+	<TextLine id="r77">
+	<Coords points="41,253 166,253 166,270 41,270"/>
+	<Word id="r78">
+	<Coords points="41,253 166,253 166,270 41,270"/>
+	<TextEquiv>
+	<Unicode>Elsevier.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Elsevier.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Information is power. But like all power, there are
+those who want to keep it for themselves. The world's
+entire scientific and cultural heritage, published
+over centuries in books and journals, is increasingly
+being digitized and locked up by a handful of private
+corporations. Want to read the papers featuring the
+most famous results of the sciences? You'll need to
+send enormous amounts to publishers like Reed
+Elsevier.</Unicode></TextEquiv></TextRegion></Page></PcGts>

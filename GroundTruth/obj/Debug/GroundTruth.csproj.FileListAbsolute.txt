@@ -1,0 +1,9 @@
+C:\Users\Olivier\Documents\GitHub\eyex\GroundTruth\bin\Debug\GroundTruth.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\GroundTruth\bin\Debug\GroundTruth.exe
+C:\Users\Olivier\Documents\GitHub\eyex\GroundTruth\bin\Debug\GroundTruth.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\GroundTruth\bin\Debug\LINQtoCSV.dll
+C:\Users\Olivier\Documents\GitHub\eyex\GroundTruth\obj\Debug\GroundTruth.Form1.resources
+C:\Users\Olivier\Documents\GitHub\eyex\GroundTruth\obj\Debug\GroundTruth.Properties.Resources.resources
+C:\Users\Olivier\Documents\GitHub\eyex\GroundTruth\obj\Debug\GroundTruth.csproj.GenerateResource.Cache
+C:\Users\Olivier\Documents\GitHub\eyex\GroundTruth\obj\Debug\GroundTruth.exe
+C:\Users\Olivier\Documents\GitHub\eyex\GroundTruth\obj\Debug\GroundTruth.pdb

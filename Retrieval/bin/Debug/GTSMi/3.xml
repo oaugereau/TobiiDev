@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-27T03:08:23</Created>
+	<LastChange>2015-02-27T03:08:23</LastChange></Metadata>
+	<Page imageFilename="doc3.jpg" imageWidth="1680" imageHeight="1050">
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="550,126 598,126 598,138 585,138 585,142 550,142"/>
+	<TextLine id="r6">
+	<Coords points="550,126 598,126 598,142 550,142"/>
+	<Word id="r7">
+	<Coords points="550,126 585,126 585,142 550,142"/>
+	<TextEquiv>
+	<Unicode>April</Unicode></TextEquiv></Word>
+	<Word id="r8">
+	<Coords points="591,126 598,126 598,138 591,138"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>April 3</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>April 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="549,175 707,175 707,191 695,191 695,237 617,237 617,238 550,238 550,187 549,187"/>
+	<TextLine id="r10">
+	<Coords points="549,175 707,175 707,191 549,191"/>
+	<Word id="r11">
+	<Coords points="549,175 580,175 580,187 549,187"/>
+	<TextEquiv>
+	<Unicode>Ms.</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="587,175 627,175 627,187 587,187"/>
+	<TextEquiv>
+	<Unicode>Grace</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="632,175 707,175 707,191 632,191"/>
+	<TextEquiv>
+	<Unicode>Harringlun</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Ms. Grace Harringlun</Unicode></TextEquiv></TextLine>
+	<TextLine id="r14">
+	<Coords points="550,200 686,200 686,216 550,216"/>
+	<Word id="r15">
+	<Coords points="550,200 566,200 566,212 550,212"/>
+	<TextEquiv>
+	<Unicode>99</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="571,200 611,200 611,212 571,212"/>
+	<TextEquiv>
+	<Unicode>South</Unicode></TextEquiv></Word>
+	<Word id="r17">
+	<Coords points="616,200 633,200 633,212 616,212"/>
+	<TextEquiv>
+	<Unicode>51.</Unicode></TextEquiv></Word>
+	<Word id="r18">
+	<Coords points="639,200 686,200 686,216 639,216"/>
+	<TextEquiv>
+	<Unicode>Ayl.30</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>99 South 51. Ayl.30</Unicode></TextEquiv></TextLine>
+	<TextLine id="r19">
+	<Coords points="550,224 695,224 695,238 550,238"/>
+	<Word id="r20">
+	<Coords points="550,224 617,224 617,238 550,238"/>
+	<TextEquiv>
+	<Unicode>Brockton,</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="622,224 649,224 649,236 622,236"/>
+	<TextEquiv>
+	<Unicode>MA</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="655,224 695,224 695,237 655,237"/>
+	<TextEquiv>
+	<Unicode>33441</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Brockton, MA 33441</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Ms. Grace Harringlun
+99 South 51. Ayl.30
+Brockton, MA 33441</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="550,273 694,273 694,298 726,298 726,310 704,310 704,335 700,335 700,384 623,384 623,387 550,387 550,314 549,314 549,298 550,298"/>
+	<TextLine id="r24">
+	<Coords points="550,273 694,273 694,286 550,286"/>
+	<Word id="r25">
+	<Coords points="550,273 583,273 583,286 550,286"/>
+	<TextEquiv>
+	<Unicode>Aim:</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="591,273 694,273 694,286 591,286"/>
+	<TextEquiv>
+	<Unicode>VincenIAn1alo</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Aim: VincenIAn1alo</Unicode></TextEquiv></TextLine>
+	<TextLine id="r27">
+	<Coords points="549,298 726,298 726,314 549,314"/>
+	<Word id="r28">
+	<Coords points="549,298 605,298 605,314 549,314"/>
+	<TextEquiv>
+	<Unicode>Appeals</Unicode></TextEquiv></Word>
+	<Word id="r29">
+	<Coords points="610,298 684,298 684,310 610,310"/>
+	<TextEquiv>
+	<Unicode>Resolniion</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="689,298 726,298 726,310 689,310"/>
+	<TextEquiv>
+	<Unicode>Team</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Appeals Resolniion Team</Unicode></TextEquiv></TextLine>
+	<TextLine id="r31">
+	<Coords points="550,322 704,322 704,335 550,335"/>
+	<Word id="r32">
+	<Coords points="550,322 583,322 583,335 550,335"/>
+	<TextEquiv>
+	<Unicode>Slate</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="589,322 633,322 633,335 589,335"/>
+	<TextEquiv>
+	<Unicode>Health</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="639,322 704,322 704,335 639,335"/>
+	<TextEquiv>
+	<Unicode>Insuiance</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Slate Health Insuiance</Unicode></TextEquiv></TextLine>
+	<TextLine id="r35">
+	<Coords points="550,347 657,347 657,359 550,359"/>
+	<Word id="r36">
+	<Coords points="550,347 577,347 577,359 550,359"/>
+	<TextEquiv>
+	<Unicode>R0.</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="583,347 610,347 610,359 583,359"/>
+	<TextEquiv>
+	<Unicode>Box</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="615,347 657,347 657,359 615,359"/>
+	<TextEquiv>
+	<Unicode>44463</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>R0. Box 44463</Unicode></TextEquiv></TextLine>
+	<TextLine id="r39">
+	<Coords points="550,372 700,372 700,387 550,387"/>
+	<Word id="r40">
+	<Coords points="550,372 623,372 623,387 550,387"/>
+	<TextEquiv>
+	<Unicode>Lexington.</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="629,372 653,372 653,384 629,384"/>
+	<TextEquiv>
+	<Unicode>KY</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="658,372 700,372 700,384 658,384"/>
+	<TextEquiv>
+	<Unicode>04052</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Lexington. KY 04052</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Aim: VincenIAn1alo
+Appeals Resolniion Team
+Slate Health Insuiance
+R0. Box 44463
+Lexington. KY 04052</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="550,421 732,421 732,433 550,433"/>
+	<TextLine id="r44">
+	<Coords points="550,421 732,421 732,433 550,433"/>
+	<Word id="r45">
+	<Coords points="550,421 572,421 572,433 550,433"/>
+	<TextEquiv>
+	<Unicode>Re:</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="579,421 637,421 637,433 579,433"/>
+	<TextEquiv>
+	<Unicode>Account</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="642,421 732,421 732,433 642,433"/>
+	<TextEquiv>
+	<Unicode>220359-1334</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Re: Account 220359-1334</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Re: Account 220359-1334</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="550,445 717,445 717,494 783,494 783,507 731,507 731,510 631,510 631,507 550,507"/>
+	<TextLine id="r49">
+	<Coords points="550,445 717,445 717,458 550,458"/>
+	<Word id="r50">
+	<Coords points="550,445 581,445 581,457 550,457"/>
+	<TextEquiv>
+	<Unicode>Dale</Unicode></TextEquiv></Word>
+	<Word id="r51">
+	<Coords points="586,445 601,445 601,457 586,457"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="605,445 648,445 648,458 605,458"/>
+	<TextEquiv>
+	<Unicode>Servic</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="658,449 660,449 660,451 658,451"/>
+	<TextEquiv>
+	<Unicode>’</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="676,445 695,445 695,458 676,458"/>
+	<TextEquiv>
+	<Unicode>eb.</Unicode></TextEquiv></Word>
+	<Word id="r55">
+	<Coords points="703,445 717,445 717,458 703,458"/>
+	<TextEquiv>
+	<Unicode>13</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Dale of Servic ’ eb. 13</Unicode></TextEquiv></TextLine>
+	<TextLine id="r56">
+	<Coords points="550,470 702,470 702,482 550,482"/>
+	<Word id="r57">
+	<Coords points="550,470 644,470 644,482 550,482"/>
+	<TextEquiv>
+	<Unicode>Authorization</Unicode></TextEquiv></Word>
+	<Word id="r58">
+	<Coords points="650,474 653,474 653,482 650,482"/>
+	<TextEquiv>
+	<Unicode>:</Unicode></TextEquiv></Word>
+	<Word id="r59">
+	<Coords points="660,470 702,470 702,482 660,482"/>
+	<TextEquiv>
+	<Unicode>91022</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Authorization : 91022</Unicode></TextEquiv></TextLine>
+	<TextLine id="r60">
+	<Coords points="550,494 783,494 783,510 550,510"/>
+	<Word id="r61">
+	<Coords points="550,494 626,494 626,507 550,507"/>
+	<TextEquiv>
+	<Unicode>Authorized</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="631,494 652,494 652,510 631,510"/>
+	<TextEquiv>
+	<Unicode>by:</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="659,494 679,494 679,507 659,507"/>
+	<TextEquiv>
+	<Unicode>DI.</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="685,494 731,494 731,510 685,510"/>
+	<TextEquiv>
+	<Unicode>Jeffrey</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="737,494 783,494 783,507 737,507"/>
+	<TextEquiv>
+	<Unicode>Milton</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Authorized by: DI. Jeffrey Milton</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Dale of Servic ’ eb. 13
+Authorization : 91022
+Authorized by: DI. Jeffrey Milton</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords points="550,543 610,543 610,544 667,544 667,556 550,556"/>
+	<TextLine id="r70">
+	<Coords points="550,543 667,543 667,556 550,556"/>
+	<Word id="r71">
+	<Coords points="550,543 583,543 583,556 550,556"/>
+	<TextEquiv>
+	<Unicode>Dear</Unicode></TextEquiv></Word>
+	<Word id="r72">
+	<Coords points="588,543 610,543 610,556 588,556"/>
+	<TextEquiv>
+	<Unicode>Mr‘</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="617,544 667,544 667,556 617,556"/>
+	<TextEquiv>
+	<Unicode>Amam:</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Dear Mr‘ Amam:</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Dear Mr‘ Amam:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords points="663,592 880,592 880,593 1150,593 1150,682 1149,682 1149,694 1140,694 1140,703 945,703 945,705 907,705 907,703 804,703 804,706 786,706 786,728 735,728 735,731 692,731 692,728 549,728 549,642 550,642 550,593 663,593"/>
+	<TextLine id="r75">
+	<Coords points="550,592 1150,592 1150,608 550,608"/>
+	<Word id="r76">
+	<Coords points="550,593 611,593 611,605 550,605"/>
+	<TextEquiv>
+	<Unicode>Auaeliea</Unicode></TextEquiv></Word>
+	<Word id="r77">
+	<Coords points="616,593 658,593 658,608 616,608"/>
+	<TextEquiv>
+	<Unicode>please</Unicode></TextEquiv></Word>
+	<Word id="r78">
+	<Coords points="663,592 689,592 689,605 663,605"/>
+	<TextEquiv>
+	<Unicode>ﬁnd</Unicode></TextEquiv></Word>
+	<Word id="r79">
+	<Coords points="694,596 709,596 709,605 694,605"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="714,593 762,593 762,605 714,605"/>
+	<TextEquiv>
+	<Unicode>invoice</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="768,592 843,592 843,606 768,606"/>
+	<TextEquiv>
+	<Unicode>roissoollo</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="848,592 880,592 880,605 848,605"/>
+	<TextEquiv>
+	<Unicode>{min</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="885,593 908,593 908,605 885,605"/>
+	<TextEquiv>
+	<Unicode>Ml.</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="915,593 965,593 965,605 915,605"/>
+	<TextEquiv>
+	<Unicode>Auhum</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="971,593 1028,593 1028,608 971,608"/>
+	<TextEquiv>
+	<Unicode>Hospital</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="1033,596 1047,596 1047,605 1033,605"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="1052,593 1080,593 1080,605 1052,605"/>
+	<TextEquiv>
+	<Unicode>well</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="1085,596 1099,596 1099,605 1085,605"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="1104,596 1111,596 1111,605 1104,605"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r90">
+	<Coords points="1115,593 1150,593 1150,605 1115,605"/>
+	<TextEquiv>
+	<Unicode>letter</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Auaeliea please ﬁnd an invoice roissoollo {min Ml. Auhum Hospital as well as a letter</Unicode></TextEquiv></TextLine>
+	<TextLine id="r91">
+	<Coords points="550,617 1150,617 1150,633 550,633"/>
+	<Word id="r92">
+	<Coords points="550,617 582,617 582,629 550,629"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="588,617 608,617 608,629 588,629"/>
+	<TextEquiv>
+	<Unicode>Dr.</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="616,617 663,617 663,629 616,629"/>
+	<TextEquiv>
+	<Unicode>Mlllon</Unicode></TextEquiv></Word>
+	<Word id="r95">
+	<Coords points="668,617 713,617 713,633 668,633"/>
+	<TextEquiv>
+	<Unicode>slaling</Unicode></TextEquiv></Word>
+	<Word id="r96">
+	<Coords points="719,617 744,617 744,629 719,629"/>
+	<TextEquiv>
+	<Unicode>llial</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="749,617 770,617 770,629 749,629"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="775,617 810,617 810,629 775,629"/>
+	<TextEquiv>
+	<Unicode>eliesl</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="816,621 883,621 883,633 816,633"/>
+	<TextEquiv>
+	<Unicode>sonogram</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="888,617 959,617 959,633 888,633"/>
+	<TextEquiv>
+	<Unicode>performed</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="965,619 976,619 976,629 965,629"/>
+	<TextEquiv>
+	<Unicode>al</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="982,617 1005,617 1005,629 982,629"/>
+	<TextEquiv>
+	<Unicode>MI.</Unicode></TextEquiv></Word>
+	<Word id="r103">
+	<Coords points="1013,617 1065,617 1065,629 1013,629"/>
+	<TextEquiv>
+	<Unicode>Aubum</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="1070,617 1128,617 1128,633 1070,633"/>
+	<TextEquiv>
+	<Unicode>Hnspilal</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="1133,621 1150,621 1150,629 1133,629"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>from Dr. Mlllon slaling llial me eliesl sonogram performed al MI. Aubum Hnspilal on</Unicode></TextEquiv></TextLine>
+	<TextLine id="r106">
+	<Coords points="549,642 1150,642 1150,658 549,658"/>
+	<Word id="r107">
+	<Coords points="549,642 611,642 611,657 549,657"/>
+	<TextEquiv>
+	<Unicode>February</Unicode></TextEquiv></Word>
+	<Word id="r108">
+	<Coords points="617,642 631,642 631,654 617,654"/>
+	<TextEquiv>
+	<Unicode>13</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="636,642 647,642 647,654 636,654"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="651,645 658,645 658,654 651,654"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r111">
+	<Coords points="662,642 730,642 730,654 662,654"/>
+	<TextEquiv>
+	<Unicode>warranted</Unicode></TextEquiv></Word>
+	<Word id="r112">
+	<Coords points="734,642 779,642 779,654 734,654"/>
+	<TextEquiv>
+	<Unicode>annual</Unicode></TextEquiv></Word>
+	<Word id="r113">
+	<Coords points="784,644 807,644 807,654 784,654"/>
+	<TextEquiv>
+	<Unicode>lest</Unicode></TextEquiv></Word>
+	<Word id="r114">
+	<Coords points="811,642 835,642 835,654 811,654"/>
+	<TextEquiv>
+	<Unicode>due</Unicode></TextEquiv></Word>
+	<Word id="r115">
+	<Coords points="839,644 852,644 852,654 839,654"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r116">
+	<Coords points="856,645 877,645 877,657 856,657"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r117">
+	<Coords points="882,642 928,642 928,657 882,657"/>
+	<TextEquiv>
+	<Unicode>history</Unicode></TextEquiv></Word>
+	<Word id="r118">
+	<Coords points="933,642 1004,642 1004,657 933,657"/>
+	<TextEquiv>
+	<Unicode>orgasu-ills</Unicode></TextEquiv></Word>
+	<Word id="r119">
+	<Coords points="1009,642 1033,642 1033,654 1009,654"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="1037,642 1072,642 1072,654 1037,654"/>
+	<TextEquiv>
+	<Unicode>chest</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="1076,642 1108,642 1108,658 1076,658"/>
+	<TextEquiv>
+	<Unicode>pain.</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="1115,642 1150,642 1150,654 1115,654"/>
+	<TextEquiv>
+	<Unicode>lwas</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>February 13 is a warranted annual lest due to my history orgasu-ills and chest pain. lwas</Unicode></TextEquiv></TextLine>
+	<TextLine id="r123">
+	<Coords points="550,666 1150,666 1150,682 550,682"/>
+	<Word id="r124">
+	<Coords points="550,666 576,666 576,679 550,679"/>
+	<TextEquiv>
+	<Unicode>told</Unicode></TextEquiv></Word>
+	<Word id="r125">
+	<Coords points="581,666 598,666 598,682 581,682"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<Word id="r126">
+	<Coords points="603,670 610,670 610,678 603,678"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="615,666 682,666 682,679 615,679"/>
+	<TextEquiv>
+	<Unicode>Customer</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="687,666 738,666 738,679 687,679"/>
+	<TextEquiv>
+	<Unicode>Service</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="744,666 844,666 844,682 744,682"/>
+	<TextEquiv>
+	<Unicode>Represenlalive</Unicode></TextEquiv></Word>
+	<Word id="r130">
+	<Coords points="850,666 875,666 875,678 850,678"/>
+	<TextEquiv>
+	<Unicode>me:</Unicode></TextEquiv></Word>
+	<Word id="r131">
+	<Coords points="881,670 902,670 902,682 881,682"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="907,666 961,666 961,679 907,679"/>
+	<TextEquiv>
+	<Unicode>medical</Unicode></TextEquiv></Word>
+	<Word id="r133">
+	<Coords points="966,666 995,666 995,682 966,682"/>
+	<TextEquiv>
+	<Unicode>plan</Unicode></TextEquiv></Word>
+	<Word id="r134">
+	<Coords points="1001,666 1051,666 1051,679 1001,679"/>
+	<TextEquiv>
+	<Unicode>doesn't</Unicode></TextEquiv></Word>
+	<Word id="r135">
+	<Coords points="1056,670 1093,670 1093,679 1056,679"/>
+	<TextEquiv>
+	<Unicode>1‘/over</Unicode></TextEquiv></Word>
+	<Word id="r136">
+	<Coords points="1098,666 1150,666 1150,682 1098,682"/>
+	<TextEquiv>
+	<Unicode>charges</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>told by a Customer Service Represenlalive me: my medical plan doesn't 1‘/over charges</Unicode></TextEquiv></TextLine>
+	<TextLine id="r137">
+	<Coords points="550,689 1149,689 1149,706 550,706"/>
+	<Word id="r138">
+	<Coords points="550,691 570,691 570,703 550,703"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="578,690 580,690 580,694 578,694"/>
+	<TextEquiv>
+	<Unicode>‘</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="587,691 666,691 666,703 587,703"/>
+	<TextEquiv>
+	<Unicode>non-routine</Unicode></TextEquiv></Word>
+	<Word id="r141">
+	<Coords points="672,689 675,689 675,694 672,694"/>
+	<TextEquiv>
+	<Unicode>‘</Unicode></TextEquiv></Word>
+	<Word id="r142">
+	<Coords points="684,694 731,694 731,705 684,705"/>
+	<TextEquiv>
+	<Unicode>exai-ns,</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="735,691 757,691 757,703 735,703"/>
+	<TextEquiv>
+	<Unicode>but</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="761,694 775,694 775,703 761,703"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="780,694 804,694 804,706 780,706"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="809,691 835,691 835,703 809,703"/>
+	<TextEquiv>
+	<Unicode>will</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="840,694 861,694 861,703 840,703"/>
+	<TextEquiv>
+	<Unicode>see</Unicode></TextEquiv></Word>
+	<Word id="r148">
+	<Coords points="866,691 878,691 878,703 866,703"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r149">
+	<Coords points="883,691 902,691 902,703 883,703"/>
+	<TextEquiv>
+	<Unicode>his</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="907,691 945,691 945,705 907,705"/>
+	<TextEquiv>
+	<Unicode>letter.</Unicode></TextEquiv></Word>
+	<Word id="r151">
+	<Coords points="950,691 974,691 974,703 950,703"/>
+	<TextEquiv>
+	<Unicode>line</Unicode></TextEquiv></Word>
+	<Word id="r152">
+	<Coords points="979,694 1005,694 1005,703 979,703"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="1010,695 1025,695 1025,703 1010,703"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="1030,691 1074,691 1074,703 1030,703"/>
+	<TextEquiv>
+	<Unicode>annual</Unicode></TextEquiv></Word>
+	<Word id="r155">
+	<Coords points="1084,689 1086,689 1086,694 1084,694"/>
+	<TextEquiv>
+	<Unicode>‘</Unicode></TextEquiv></Word>
+	<Word id="r156">
+	<Coords points="1092,691 1140,691 1140,703 1092,703"/>
+	<TextEquiv>
+	<Unicode>muune</Unicode></TextEquiv></Word>
+	<Word id="r157">
+	<Coords points="1146,689 1149,689 1149,694 1146,694"/>
+	<TextEquiv>
+	<Unicode>&gt;</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>for ‘ non-routine ‘ exai-ns, but as you will see in his letter. line was an annual ‘ muune &gt;</Unicode></TextEquiv></TextLine>
+	<TextLine id="r158">
+	<Coords points="549,715 786,715 786,731 549,731"/>
+	<Word id="r159">
+	<Coords points="549,719 586,719 586,728 549,728"/>
+	<TextEquiv>
+	<Unicode>exam</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="591,715 688,715 688,728 591,728"/>
+	<TextEquiv>
+	<Unicode>recommended</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="692,715 709,715 709,731 692,731"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<Word id="r162">
+	<Coords points="714,719 735,719 735,731 714,731"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r163">
+	<Coords points="740,715 786,715 786,728 740,728"/>
+	<TextEquiv>
+	<Unicode>docwr.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>exam recommended by my docwr.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Auaeliea please ﬁnd an invoice roissoollo {min Ml. Auhum Hospital as well as a letter
+from Dr. Mlllon slaling llial me eliesl sonogram performed al MI. Aubum Hnspilal on
+February 13 is a warranted annual lest due to my history orgasu-ills and chest pain. lwas
+told by a Customer Service Represenlalive me: my medical plan doesn't 1‘/over charges
+for ‘ non-routine ‘ exai-ns, but as you will see in his letter. line was an annual ‘ muune &gt;
+exam recommended by my docwr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r164" type="paragraph">
+	<Coords points="550,768 1100,768 1100,770 1150,770 1150,805 1120,805 1120,808 970,808 970,829 898,829 898,833 751,833 751,829 610,829 610,833 577,833 577,829 550,829"/>
+	<TextLine id="r165">
+	<Coords points="550,768 1150,768 1150,784 550,784"/>
+	<Word id="r166">
+	<Coords points="550,768 614,768 614,784 550,784"/>
+	<TextEquiv>
+	<Unicode>Ixcccmly</Unicode></TextEquiv></Word>
+	<Word id="r167">
+	<Coords points="620,768 685,768 685,780 620,780"/>
+	<TextEquiv>
+	<Unicode>contacted</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="690,768 710,768 710,780 690,780"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r169">
+	<Coords points="716,768 771,768 771,780 716,780"/>
+	<TextEquiv>
+	<Unicode>Beneﬁts</Unicode></TextEquiv></Word>
+	<Word id="r170">
+	<Coords points="776,768 857,768 857,784 776,784"/>
+	<TextEquiv>
+	<Unicode>Depmmeni</Unicode></TextEquiv></Word>
+	<Word id="r171">
+	<Coords points="862,768 900,768 900,780 862,780"/>
+	<TextEquiv>
+	<Unicode>about</Unicode></TextEquiv></Word>
+	<Word id="r172">
+	<Coords points="905,768 929,768 929,780 905,780"/>
+	<TextEquiv>
+	<Unicode>this</Unicode></TextEquiv></Word>
+	<Word id="r173">
+	<Coords points="934,768 983,768 983,780 934,780"/>
+	<TextEquiv>
+	<Unicode>invoice</Unicode></TextEquiv></Word>
+	<Word id="r174">
+	<Coords points="989,768 1035,768 1035,783 989,783"/>
+	<TextEquiv>
+	<Unicode>(which</Unicode></TextEquiv></Word>
+	<Word id="r175">
+	<Coords points="1040,768 1063,768 1063,780 1040,780"/>
+	<TextEquiv>
+	<Unicode>has</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="1068,768 1100,768 1100,780 1068,780"/>
+	<TextEquiv>
+	<Unicode>been</Unicode></TextEquiv></Word>
+	<Word id="r177">
+	<Coords points="1105,770 1132,770 1132,780 1105,780"/>
+	<TextEquiv>
+	<Unicode>seni</Unicode></TextEquiv></Word>
+	<Word id="r178">
+	<Coords points="1137,770 1150,770 1150,780 1137,780"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Ixcccmly contacted me Beneﬁts Depmmeni about this invoice (which has been seni in</Unicode></TextEquiv></TextLine>
+	<TextLine id="r179">
+	<Coords points="550,792 1150,792 1150,808 550,808"/>
+	<Word id="r180">
+	<Coords points="550,796 570,796 570,805 550,805"/>
+	<TextEquiv>
+	<Unicode>me</Unicode></TextEquiv></Word>
+	<Word id="r181">
+	<Coords points="576,796 583,796 583,805 576,805"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="589,792 641,792 641,805 589,805"/>
+	<TextEquiv>
+	<Unicode>lI\ll|'|he|'</Unicode></TextEquiv></Word>
+	<Word id="r183">
+	<Coords points="647,792 662,792 662,805 647,805"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r184">
+	<Coords points="666,792 708,792 708,807 666,807"/>
+	<TextEquiv>
+	<Unicode>times)</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="715,792 739,792 739,805 715,805"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="745,796 770,796 770,805 745,805"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="776,792 802,792 802,805 776,805"/>
+	<TextEquiv>
+	<Unicode>told</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="808,793 834,793 834,805 808,805"/>
+	<TextEquiv>
+	<Unicode>lhal</Unicode></TextEquiv></Word>
+	<Word id="r189">
+	<Coords points="840,792 844,792 844,805 840,805"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r190">
+	<Coords points="850,792 893,792 893,805 850,805"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r191">
+	<Coords points="898,792 929,792 929,805 898,805"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r192">
+	<Coords points="936,794 948,794 948,805 936,805"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r193">
+	<Coords points="954,795 1003,795 1003,808 954,808"/>
+	<TextEquiv>
+	<Unicode>ieqnesi</Unicode></TextEquiv></Word>
+	<Word id="r194">
+	<Coords points="1009,796 1024,796 1024,805 1009,805"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="r195">
+	<Coords points="1031,793 1074,793 1074,808 1031,808"/>
+	<TextEquiv>
+	<Unicode>appeal</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="1081,795 1093,795 1093,805 1081,805"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r197">
+	<Coords points="1099,795 1120,795 1120,808 1099,808"/>
+	<TextEquiv>
+	<Unicode>get</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="1126,792 1150,792 1150,805 1126,805"/>
+	<TextEquiv>
+	<Unicode>this</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>me a lI\ll|'|he|' of times) and was told lhal 1 would have to ieqnesi an appeal to get this</Unicode></TextEquiv></TextLine>
+	<TextLine id="r199">
+	<Coords points="550,817 970,817 970,833 550,833"/>
+	<Word id="r200">
+	<Coords points="550,817 572,817 572,829 550,829"/>
+	<TextEquiv>
+	<Unicode>bill</Unicode></TextEquiv></Word>
+	<Word id="r201">
+	<Coords points="577,817 610,817 610,833 577,833"/>
+	<TextEquiv>
+	<Unicode>paid;</Unicode></TextEquiv></Word>
+	<Word id="r202">
+	<Coords points="616,817 657,817 657,829 616,829"/>
+	<TextEquiv>
+	<Unicode>which</Unicode></TextEquiv></Word>
+	<Word id="r203">
+	<Coords points="662,817 672,817 672,829 662,829"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r204">
+	<Coords points="678,817 711,817 711,829 678,829"/>
+	<TextEquiv>
+	<Unicode>what</Unicode></TextEquiv></Word>
+	<Word id="r205">
+	<Coords points="716,817 720,817 720,829 716,829"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r206">
+	<Coords points="726,821 746,821 746,829 726,829"/>
+	<TextEquiv>
+	<Unicode>am</Unicode></TextEquiv></Word>
+	<Word id="r207">
+	<Coords points="751,817 789,817 789,833 751,833"/>
+	<TextEquiv>
+	<Unicode>doing</Unicode></TextEquiv></Word>
+	<Word id="r208">
+	<Coords points="794,817 810,817 810,833 794,833"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<Word id="r209">
+	<Coords points="816,817 868,817 868,833 816,833"/>
+	<TextEquiv>
+	<Unicode>sending</Unicode></TextEquiv></Word>
+	<Word id="r210">
+	<Coords points="873,821 898,821 898,833 873,833"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="r211">
+	<Coords points="903,817 927,817 927,829 903,829"/>
+	<TextEquiv>
+	<Unicode>ails</Unicode></TextEquiv></Word>
+	<Word id="r212">
+	<Coords points="933,817 970,817 970,829 933,829"/>
+	<TextEquiv>
+	<Unicode>letter.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>bill paid; which is what 1 am doing by sending you ails letter.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Ixcccmly contacted me Beneﬁts Depmmeni about this invoice (which has been seni in
+me a lI\ll|'|he|' of times) and was told lhal 1 would have to ieqnesi an appeal to get this
+bill paid; which is what 1 am doing by sending you ails letter.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r213" type="paragraph">
+	<Coords points="560,869 1132,869 1132,885 1073,885 1073,882 954,882 954,885 607,885 607,882 550,882 550,870 560,870"/>
+	<TextLine id="r214">
+	<Coords points="550,869 1132,869 1132,885 550,885"/>
+	<Word id="r215">
+	<Coords points="550,870 554,870 554,882 550,882"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r216">
+	<Coords points="560,869 602,869 602,882 560,882"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r217">
+	<Coords points="607,869 654,869 654,885 607,885"/>
+	<TextEquiv>
+	<Unicode>greatly‘</Unicode></TextEquiv></Word>
+	<Word id="r218">
+	<Coords points="659,869 728,869 728,885 659,885"/>
+	<TextEquiv>
+	<Unicode>appreciate</Unicode></TextEquiv></Word>
+	<Word id="r219">
+	<Coords points="734,873 741,873 741,882 734,882"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r220">
+	<Coords points="746,869 793,869 793,882 746,882"/>
+	<TextEquiv>
+	<Unicode>wi-in/en</Unicode></TextEquiv></Word>
+	<Word id="r221">
+	<Coords points="799,873 858,873 858,885 799,885"/>
+	<TextEquiv>
+	<Unicode>response</Unicode></TextEquiv></Word>
+	<Word id="r222">
+	<Coords points="863,872 876,872 876,882 863,882"/>
+	<TextEquiv>
+	<Unicode>In</Unicode></TextEquiv></Word>
+	<Word id="r223">
+	<Coords points="881,869 905,869 905,882 881,882"/>
+	<TextEquiv>
+	<Unicode>this</Unicode></TextEquiv></Word>
+	<Word id="r224">
+	<Coords points="910,869 954,869 954,885 910,885"/>
+	<TextEquiv>
+	<Unicode>appeal</Unicode></TextEquiv></Word>
+	<Word id="r225">
+	<Coords points="959,869 994,869 994,882 959,882"/>
+	<TextEquiv>
+	<Unicode>lener</Unicode></TextEquiv></Word>
+	<Word id="r226">
+	<Coords points="999,873 1012,873 1012,882 999,882"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r227">
+	<Coords points="1018,873 1049,873 1049,882 1018,882"/>
+	<TextEquiv>
+	<Unicode>soon</Unicode></TextEquiv></Word>
+	<Word id="r228">
+	<Coords points="1054,873 1067,873 1067,882 1054,882"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r229">
+	<Coords points="1073,869 1132,869 1132,885 1073,885"/>
+	<TextEquiv>
+	<Unicode>possible.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>I would greatly‘ appreciate a wi-in/en response In this appeal lener as soon as possible.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>I would greatly‘ appreciate a wi-in/en response In this appeal lener as soon as possible.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r230" type="caption">
+	<Coords points="550,922 617,922 617,947 669,947 669,962 595,962 595,959 550,959"/>
+	<TextLine id="r231">
+	<Coords points="550,922 617,922 617,938 550,938"/>
+	<Word id="r232">
+	<Coords points="550,922 617,922 617,938 550,938"/>
+	<TextEquiv>
+	<Unicode>Sincevcly.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Sincevcly.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r233">
+	<Coords points="550,947 669,947 669,962 550,962"/>
+	<Word id="r234">
+	<Coords points="550,947 590,947 590,959 550,959"/>
+	<TextEquiv>
+	<Unicode>Grace</Unicode></TextEquiv></Word>
+	<Word id="r235">
+	<Coords points="595,947 669,947 669,962 595,962"/>
+	<TextEquiv>
+	<Unicode>Harrington</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Grace Harrington</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Sincevcly.
+Grace Harrington</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,13 @@
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\bin\Debug\PrivateReading.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\bin\Debug\PrivateReading.exe
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\bin\Debug\PrivateReading.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\bin\Debug\EyeXFramework.dll
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\bin\Debug\EyeXFramework.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\obj\Debug\PrivateReading.Form1.resources
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\obj\Debug\PrivateReading.Properties.Resources.resources
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\obj\Debug\PrivateReading.csproj.GenerateResource.Cache
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\obj\Debug\PrivateReading.exe
+C:\Users\Olivier\Documents\GitHub\eyex\PrivateReading\obj\Debug\PrivateReading.pdb

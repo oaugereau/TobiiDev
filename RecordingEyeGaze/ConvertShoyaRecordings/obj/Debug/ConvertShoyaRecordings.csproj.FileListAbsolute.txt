@@ -1,0 +1,5 @@
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ConvertShoyaRecordings\bin\Debug\ConvertShoyaRecordings.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ConvertShoyaRecordings\bin\Debug\ConvertShoyaRecordings.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ConvertShoyaRecordings\bin\Debug\ConvertShoyaRecordings.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ConvertShoyaRecordings\obj\Debug\ConvertShoyaRecordings.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ConvertShoyaRecordings\obj\Debug\ConvertShoyaRecordings.pdb

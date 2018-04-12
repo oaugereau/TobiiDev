@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-19T00:11:48</Created>
+	<LastChange>2015-03-02T05:13:53</LastChange></Metadata>
+	<Page imageFilename="2 THE BOY WHO CRIED WOLF.png" imageWidth="1027" imageHeight="328">
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="6,54 439,54 439,56 555,56 555,54 623,54 623,90 814,90 814,104 743,104 743,101 606,101 606,104 461,104 461,101 322,101 322,104 261,104 261,101 137,101 137,104 60,104 60,101 6,101"/>
+	<TextLine id="r9">
+	<Coords points="6,54 623,54 623,68 6,68"/>
+	<Word id="r10">
+	<Coords points="6,54 43,54 43,65 6,65"/>
+	<TextEquiv>
+	<Unicode>There</Unicode></TextEquiv></Word>
+	<Word id="r11">
+	<Coords points="47,58 72,58 72,65 47,65"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="77,58 106,58 106,65 77,65"/>
+	<TextEquiv>
+	<Unicode>once</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="111,58 117,58 117,65 111,65"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r14">
+	<Coords points="122,54 145,54 145,68 122,68"/>
+	<TextEquiv>
+	<Unicode>boy</Unicode></TextEquiv></Word>
+	<Word id="r15">
+	<Coords points="150,54 176,54 176,65 150,65"/>
+	<TextEquiv>
+	<Unicode>who</Unicode></TextEquiv></Word>
+	<Word id="r16">
+	<Coords points="181,54 223,54 223,65 181,65"/>
+	<TextEquiv>
+	<Unicode>tended</Unicode></TextEquiv></Word>
+	<Word id="r17">
+	<Coords points="228,54 246,54 246,65 228,65"/>
+	<TextEquiv>
+	<Unicode>his</Unicode></TextEquiv></Word>
+	<Word id="r18">
+	<Coords points="251,54 296,54 296,65 251,65"/>
+	<TextEquiv>
+	<Unicode>father’s</Unicode></TextEquiv></Word>
+	<Word id="r19">
+	<Coords points="302,54 337,54 337,68 302,68"/>
+	<TextEquiv>
+	<Unicode>sheep</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="342,58 357,58 357,65 342,65"/>
+	<TextEquiv>
+	<Unicode>on</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="361,54 380,54 380,65 361,65"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="386,54 410,54 410,65 386,65"/>
+	<TextEquiv>
+	<Unicode>side</Unicode></TextEquiv></Word>
+	<Word id="r23">
+	<Coords points="415,54 430,54 430,65 415,65"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r193">
+	<Coords points="432,57 432,65 440,65 440,57"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r24">
+	<Coords points="443,56 503,56 503,65 443,65"/>
+	<TextEquiv>
+	<Unicode>mountain</Unicode></TextEquiv></Word>
+	<Word id="r25">
+	<Coords points="512,58 539,58 539,65 512,65"/>
+	<TextEquiv>
+	<Unicode>near</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="544,58 550,58 550,65 544,65"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="555,54 582,54 582,65 555,65"/>
+	<TextEquiv>
+	<Unicode>dark</Unicode></TextEquiv></Word>
+	<Word id="r28">
+	<Coords points="587,54 623,54 623,65 587,65"/>
+	<TextEquiv>
+	<Unicode>forest</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>There was once a boy who landed ms &amp;Lha’s sheep on the sxde ofz mountam near a an forest</Unicode></TextEquiv></TextLine>
+	<TextLine id="r29">
+	<Coords points="6,90 814,90 814,104 6,104"/>
+	<Word id="r30">
+	<Coords points="6,90 16,90 16,101 6,101"/>
+	<TextEquiv>
+	<Unicode>It</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="20,94 44,94 44,101 20,101"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="49,94 56,94 56,101 49,101"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="60,90 100,90 100,104 60,104"/>
+	<TextEquiv>
+	<Unicode>lonely</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="104,90 137,90 137,104 104,104"/>
+	<TextEquiv>
+	<Unicode>place</Unicode></TextEquiv></Word>
+	<Word id="r36">
+	<Coords points="145,90 164,90 164,101 145,101"/>
+	<TextEquiv>
+	<Unicode>No</Unicode></TextEquiv></Word>
+	<Word id="r37">
+	<Coords points="169,94 192,94 192,101 169,101"/>
+	<TextEquiv>
+	<Unicode>one</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="196,94 220,94 220,101 196,101"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="225,94 253,94 253,101 225,101"/>
+	<TextEquiv>
+	<Unicode>near</Unicode></TextEquiv></Word>
+	<Word id="r40">
+	<Coords points="261,92 322,92 322,104 261,104"/>
+	<TextEquiv>
+	<Unicode>excepting</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="326,90 358,90 358,101 326,101"/>
+	<TextEquiv>
+	<Unicode>three</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="362,94 390,94 390,101 362,101"/>
+	<TextEquiv>
+	<Unicode>men</Unicode></TextEquiv></Word>
+	<Word id="r43">
+	<Coords points="394,90 433,90 433,101 394,101"/>
+	<TextEquiv>
+	<Unicode>whom</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="438,90 457,90 457,101 438,101"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="461,90 485,90 485,104 461,104"/>
+	<TextEquiv>
+	<Unicode>boy</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="490,90 525,90 525,101 490,101"/>
+	<TextEquiv>
+	<Unicode>could</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="530,94 549,94 549,101 530,101"/>
+	<TextEquiv>
+	<Unicode>see</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="553,90 606,90 606,104 553,104"/>
+	<TextEquiv>
+	<Unicode>working</Unicode></TextEquiv></Word>
+	<Word id="r49">
+	<Coords points="611,94 623,94 623,101 611,101"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r50">
+	<Coords points="627,90 646,90 646,101 627,101"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r51">
+	<Coords points="651,90 685,90 685,101 651,101"/>
+	<TextEquiv>
+	<Unicode>ﬁelds</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="695,94 706,94 706,101 695,101"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r53">
+	<Coords points="710,90 730,90 730,101 710,101"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r54">
+	<Coords points="734,90 773,90 773,104 734,104"/>
+	<TextEquiv>
+	<Unicode>valley</Unicode></TextEquiv></Word>
+	<Word id="r194">
+	<Coords points="776,89 776,101 817,101 817,89"/>
+	<TextEquiv>
+	<Unicode>below</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>It \\ as 2 lonely place Na one Va; HEM’ excepting three men nhmn Lhe boy could see Workmg m the ﬁelds .n the x nueyhe1nn</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>There was once a boy who landed ms &amp;Lha’s sheep on the sxde ofz mountam near a an forest
+It \\ as 2 lonely place Na one Va; HEM’ excepting three men nhmn Lhe boy could see Workmg m the ﬁelds .n the x nueyhe1nn</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords points="7,126 698,126 698,137 600,137 600,140 514,140 514,137 164,137 164,140 37,140 37,137 7,137"/>
+	<TextLine id="r57">
+	<Coords points="7,126 698,126 698,140 7,140"/>
+	<Word id="r58">
+	<Coords points="7,126 32,126 32,137 7,137"/>
+	<TextEquiv>
+	<Unicode>One</Unicode></TextEquiv></Word>
+	<Word id="r59">
+	<Coords points="37,126 60,126 60,140 37,140"/>
+	<TextEquiv>
+	<Unicode>day</Unicode></TextEquiv></Word>
+	<Word id="r60">
+	<Coords points="64,126 83,126 83,137 64,137"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r61">
+	<Coords points="87,126 111,126 111,140 87,140"/>
+	<TextEquiv>
+	<Unicode>boy</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="115,126 164,126 164,140 115,140"/>
+	<TextEquiv>
+	<Unicode>thought</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="168,126 183,126 183,137 168,137"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="187,126 227,126 227,137 187,137"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r65">
+	<Coords points="231,126 261,126 261,137 231,137"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r66">
+	<Coords points="266,130 299,130 299,137 266,137"/>
+	<TextEquiv>
+	<Unicode>some</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="304,126 325,126 325,137 304,137"/>
+	<TextEquiv>
+	<Unicode>fun</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="333,126 351,126 351,137 333,137"/>
+	<TextEquiv>
+	<Unicode>He</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="355,126 398,126 398,137 355,137"/>
+	<TextEquiv>
+	<Unicode>rushed</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="402,126 437,126 437,137 402,137"/>
+	<TextEquiv>
+	<Unicode>down</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="441,126 486,126 486,137 441,137"/>
+	<TextEquiv>
+	<Unicode>toward</Unicode></TextEquiv></Word>
+	<Word id="r72">
+	<Coords points="490,126 509,126 509,137 490,137"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="514,126 552,126 552,140 514,140"/>
+	<TextEquiv>
+	<Unicode>valley</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="560,130 600,130 600,140 560,140"/>
+	<TextEquiv>
+	<Unicode>crying</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="610,126 650,126 650,137 610,137"/>
+	<TextEquiv>
+	<Unicode>"Wolf!</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="656,126 698,126 698,137 656,137"/>
+	<TextEquiv>
+	<Unicode>Wolf!"</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>one day Lhe boy thought he would has some fun He rushed annn £0\\‘a.\'d the nallsy crymg "\&gt;.'n1:‘ won"</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>one day Lhe boy thought he would has some fun He rushed annn £0\\‘a.\'d the nallsy crymg "\&gt;.'n1:‘ won"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r77" type="paragraph">
+	<Coords points="6,162 30,162 30,164 142,164 142,162 477,162 477,173 6,173"/>
+	<TextLine id="r78">
+	<Coords points="6,162 477,162 477,173 6,173"/>
+	<Word id="r79">
+	<Coords points="6,162 30,162 30,173 6,173"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="35,166 62,166 62,173 35,173"/>
+	<TextEquiv>
+	<Unicode>men</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="67,166 87,166 87,173 67,173"/>
+	<TextEquiv>
+	<Unicode>ran</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="91,165 103,165 103,173 91,173"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="107,164 138,164 138,173 107,173"/>
+	<TextEquiv>
+	<Unicode>meet</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="142,162 167,162 167,173 142,173"/>
+	<TextEquiv>
+	<Unicode>him</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="176,162 198,162 198,173 176,173"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="203,166 225,166 225,173 203,173"/>
+	<TextEquiv>
+	<Unicode>one</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="230,162 244,162 244,173 230,173"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r88">
+	<Coords points="247,162 278,162 278,173 247,173"/>
+	<TextEquiv>
+	<Unicode>them</Unicode></TextEquiv></Word>
+	<Word id="r89">
+	<Coords points="283,162 342,162 342,173 283,173"/>
+	<TextEquiv>
+	<Unicode>remained</Unicode></TextEquiv></Word>
+	<Word id="r90">
+	<Coords points="346,162 375,162 375,173 346,173"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r91">
+	<Coords points="379,162 403,162 403,173 379,173"/>
+	<TextEquiv>
+	<Unicode>him</Unicode></TextEquiv></Word>
+	<Word id="r92">
+	<Coords points="408,162 426,162 426,173 408,173"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="431,166 437,166 437,173 431,173"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r94">
+	<Coords points="442,162 477,162 477,173 442,173"/>
+	<TextEquiv>
+	<Unicode>while</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The men {an to meel hm: and one of Lhem remained wnh mm for a whxle</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>The men {an to meel hm: and one of Lhem remained wnh mm for a whxle</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r95" type="paragraph">
+	<Coords points="6,198 861,198 861,209 832,209 832,212 508,212 508,248 356,248 356,245 188,245 188,248 119,248 119,245 7,245 7,209 6,209"/>
+	<TextLine id="r96">
+	<Coords points="6,198 861,198 861,212 6,212"/>
+	<Word id="r97">
+	<Coords points="6,198 30,198 30,209 6,209"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="35,198 59,198 59,212 35,212"/>
+	<TextEquiv>
+	<Unicode>boy</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="63,198 113,198 113,212 63,212"/>
+	<TextEquiv>
+	<Unicode>enjoyed</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="117,198 137,198 137,209 117,209"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="141,202 197,202 197,212 141,212"/>
+	<TextEquiv>
+	<Unicode>company</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="204,198 227,198 227,209 204,209"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r103">
+	<Coords points="231,198 250,198 250,209 231,209"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="255,198 276,198 276,209 255,209"/>
+	<TextEquiv>
+	<Unicode>fun</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="280,202 293,202 293,209 280,209"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="298,198 333,198 333,209 298,209"/>
+	<TextEquiv>
+	<Unicode>much</Unicode></TextEquiv></Word>
+	<Word id="r107">
+	<Coords points="341,198 365,198 365,209 341,209"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r108">
+	<Coords points="370,198 384,198 384,209 370,209"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="389,198 418,198 418,209 389,209"/>
+	<TextEquiv>
+	<Unicode>tried</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="422,198 441,198 441,209 422,209"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r111">
+	<Coords points="446,202 478,202 478,209 446,209"/>
+	<TextEquiv>
+	<Unicode>same</Unicode></TextEquiv></Word>
+	<Word id="r112">
+	<Coords points="482,198 512,198 512,209 482,209"/>
+	<TextEquiv>
+	<Unicode>trick</Unicode></TextEquiv></Word>
+	<Word id="r113">
+	<Coords points="516,202 550,202 550,212 516,212"/>
+	<TextEquiv>
+	<Unicode>again</Unicode></TextEquiv></Word>
+	<Word id="r114">
+	<Coords points="559,202 565,202 565,209 559,209"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r115">
+	<Coords points="570,198 591,198 591,209 570,209"/>
+	<TextEquiv>
+	<Unicode>few</Unicode></TextEquiv></Word>
+	<Word id="r116">
+	<Coords points="598,198 626,198 626,212 598,212"/>
+	<TextEquiv>
+	<Unicode>days</Unicode></TextEquiv></Word>
+	<Word id="r117">
+	<Coords points="631,198 659,198 659,209 631,209"/>
+	<TextEquiv>
+	<Unicode>later</Unicode></TextEquiv></Word>
+	<Word id="r118">
+	<Coords points="666,198 705,198 705,212 666,212"/>
+	<TextEquiv>
+	<Unicode>Again</Unicode></TextEquiv></Word>
+	<Word id="r119">
+	<Coords points="709,198 728,198 728,209 709,209"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r120">
+	<Coords points="733,202 760,202 760,209 733,209"/>
+	<TextEquiv>
+	<Unicode>men</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="765,202 785,202 785,209 765,209"/>
+	<TextEquiv>
+	<Unicode>ran</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="789,200 801,200 801,209 789,209"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="805,198 832,198 832,212 805,212"/>
+	<TextEquiv>
+	<Unicode>help</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="837,198 861,198 861,209 837,209"/>
+	<TextEquiv>
+	<Unicode>him</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The boy enjoyed the cmnpan, and Lhe fun so much that he med the same mck again a fen days later Agzm the men mh Io help hnn</Unicode></TextEquiv></TextLine>
+	<TextLine id="r125">
+	<Coords points="7,234 508,234 508,248 7,248"/>
+	<Word id="r126">
+	<Coords points="7,234 39,234 39,245 7,245"/>
+	<TextEquiv>
+	<Unicode>Soon</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="43,234 72,234 72,245 43,245"/>
+	<TextEquiv>
+	<Unicode>after</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="76,234 99,234 99,245 76,245"/>
+	<TextEquiv>
+	<Unicode>this</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="108,238 114,238 114,245 108,245"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r130">
+	<Coords points="119,234 149,234 149,248 119,248"/>
+	<TextEquiv>
+	<Unicode>wolf</Unicode></TextEquiv></Word>
+	<Word id="r195">
+	<Coords points="152,234 152,248 188,248 188,234"/>
+	<TextEquiv>
+	<Unicode>really</Unicode></TextEquiv></Word>
+	<Word id="r131">
+	<Coords points="193,238 225,238 225,245 193,245"/>
+	<TextEquiv>
+	<Unicode>came</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="231,234 261,234 261,245 231,245"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<Word id="r133">
+	<Coords points="265,234 284,234 284,245 265,245"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r134">
+	<Coords points="289,234 325,234 325,245 289,245"/>
+	<TextEquiv>
+	<Unicode>forest</Unicode></TextEquiv></Word>
+	<Word id="r135">
+	<Coords points="330,234 352,234 352,245 330,245"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r136">
+	<Coords points="356,234 394,234 394,248 356,248"/>
+	<TextEquiv>
+	<Unicode>began</Unicode></TextEquiv></Word>
+	<Word id="r137">
+	<Coords points="398,236 410,236 410,245 398,245"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r138">
+	<Coords points="416,234 444,234 444,245 416,245"/>
+	<TextEquiv>
+	<Unicode>steal</Unicode></TextEquiv></Word>
+	<Word id="r139">
+	<Coords points="448,234 467,234 467,245 448,245"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="472,234 508,234 508,248 472,248"/>
+	<TextEquiv>
+	<Unicode>sheep</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Soon zﬁer Ihns a walfrenlly came from the forest and began to sleal the sheep</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>The boy enjoyed the cmnpan, and Lhe fun so much that he med the same mck again a fen days later Agzm the men mh Io help hnn
+Soon zﬁer Ihns a walfrenlly came from the forest and began to sleal the sheep</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r141" type="paragraph">
+	<Coords points="6,270 140,270 140,274 262,274 262,270 462,270 462,281 368,281 368,283 302,283 302,284 180,284 180,283 59,283 59,284 35,284 35,281 6,281"/>
+	<TextLine id="r142">
+	<Coords points="6,270 462,270 462,284 6,284"/>
+	<Word id="r143">
+	<Coords points="6,270 30,270 30,281 6,281"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="35,270 59,270 59,284 35,284"/>
+	<TextEquiv>
+	<Unicode>boy</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="63,274 83,274 83,281 63,281"/>
+	<TextEquiv>
+	<Unicode>ran</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="88,270 117,270 117,281 88,281"/>
+	<TextEquiv>
+	<Unicode>after</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="121,270 140,270 140,281 121,281"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r148">
+	<Coords points="144,274 175,274 175,283 144,283"/>
+	<TextEquiv>
+	<Unicode>men,</Unicode></TextEquiv></Word>
+	<Word id="r149">
+	<Coords points="180,274 220,274 220,284 180,284"/>
+	<TextEquiv>
+	<Unicode>crying</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="225,274 257,274 257,281 225,281"/>
+	<TextEquiv>
+	<Unicode>more</Unicode></TextEquiv></Word>
+	<Word id="r151">
+	<Coords points="262,270 302,270 302,284 262,284"/>
+	<TextEquiv>
+	<Unicode>loudly</Unicode></TextEquiv></Word>
+	<Word id="r152">
+	<Coords points="306,270 334,270 334,281 306,281"/>
+	<TextEquiv>
+	<Unicode>than</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="339,274 368,274 368,283 339,283"/>
+	<TextEquiv>
+	<Unicode>even,</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="374,270 414,270 414,281 374,281"/>
+	<TextEquiv>
+	<Unicode>“Wolf!</Unicode></TextEquiv></Word>
+	<Word id="r155">
+	<Coords points="421,270 462,270 462,281 421,281"/>
+	<TextEquiv>
+	<Unicode>Wolf!"</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The boy rm after Lhe men crymg more loudly than even, “\.Volﬂ wow</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>The boy rm after Lhe men crymg more loudly than even, “\.Volﬂ wow</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r156" type="paragraph">
+	<Coords points="6,306 469,306 469,308 603,308 603,306 999,306 999,320 964,320 964,317 815,317 815,320 784,320 784,317 630,317 630,320 603,320 603,317 6,317"/>
+	<TextLine id="r157">
+	<Coords points="6,306 999,306 999,320 6,320"/>
+	<Word id="r158">
+	<Coords points="6,306 29,306 29,317 6,317"/>
+	<TextEquiv>
+	<Unicode>But</Unicode></TextEquiv></Word>
+	<Word id="r159">
+	<Coords points="34,308 42,308 42,317 34,317"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="46,310 70,310 70,317 46,317"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="75,306 90,306 90,317 75,317"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="91,309 91,317 108,317 108,309"/>
+	<TextEquiv>
+	<Unicode>no</Unicode></TextEquiv></Word>
+	<Word id="r162">
+	<Coords points="112,310 133,310 133,317 112,317"/>
+	<TextEquiv>
+	<Unicode>use</Unicode></TextEquiv></Word>
+	<Word id="r163">
+	<Coords points="138,306 156,306 156,317 138,317"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="r164">
+	<Coords points="160,306 185,306 185,317 160,317"/>
+	<TextEquiv>
+	<Unicode>him</Unicode></TextEquiv></Word>
+	<Word id="r165">
+	<Coords points="189,308 201,308 201,317 189,317"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r166">
+	<Coords points="206,306 228,306 228,317 206,317"/>
+	<TextEquiv>
+	<Unicode>call</Unicode></TextEquiv></Word>
+	<Word id="r167">
+	<Coords points="237,306 261,306 261,317 237,317"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="266,310 293,310 293,317 266,317"/>
+	<TextEquiv>
+	<Unicode>men</Unicode></TextEquiv></Word>
+	<Word id="r169">
+	<Coords points="297,306 320,306 320,317 297,317"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r170">
+	<Coords points="324,306 354,306 354,317 324,317"/>
+	<TextEquiv>
+	<Unicode>been</Unicode></TextEquiv></Word>
+	<Word id="r171">
+	<Coords points="359,306 399,306 399,317 359,317"/>
+	<TextEquiv>
+	<Unicode>fooled</Unicode></TextEquiv></Word>
+	<Word id="r172">
+	<Coords points="403,308 437,308 437,317 403,317"/>
+	<TextEquiv>
+	<Unicode>twice</Unicode></TextEquiv></Word>
+	<Word id="r173">
+	<Coords points="447,306 469,306 469,317 447,317"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r174">
+	<Coords points="473,310 501,310 501,317 473,317"/>
+	<TextEquiv>
+	<Unicode>now</Unicode></TextEquiv></Word>
+	<Word id="r175">
+	<Coords points="505,310 520,310 520,317 505,317"/>
+	<TextEquiv>
+	<Unicode>no</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="525,310 547,310 547,317 525,317"/>
+	<TextEquiv>
+	<Unicode>one</Unicode></TextEquiv></Word>
+	<Word id="r177">
+	<Coords points="552,308 583,308 583,317 552,317"/>
+	<TextEquiv>
+	<Unicode>went</Unicode></TextEquiv></Word>
+	<Word id="r178">
+	<Coords points="587,309 599,309 599,317 587,317"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r179">
+	<Coords points="603,306 630,306 630,320 603,320"/>
+	<TextEquiv>
+	<Unicode>help</Unicode></TextEquiv></Word>
+	<Word id="r180">
+	<Coords points="635,306 659,306 659,317 635,317"/>
+	<TextEquiv>
+	<Unicode>him</Unicode></TextEquiv></Word>
+	<Word id="r181">
+	<Coords points="669,306 684,306 684,317 669,317"/>
+	<TextEquiv>
+	<Unicode>So</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="689,306 708,306 708,317 689,317"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r183">
+	<Coords points="712,306 743,306 743,317 712,317"/>
+	<TextEquiv>
+	<Unicode>wolf</Unicode></TextEquiv></Word>
+	<Word id="r184">
+	<Coords points="746,306 768,306 768,317 746,317"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="773,310 780,310 780,317 773,317"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="784,306 815,306 815,320 784,320"/>
+	<TextEquiv>
+	<Unicode>good</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="820,306 850,306 850,317 820,317"/>
+	<TextEquiv>
+	<Unicode>meal</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="855,306 886,306 886,317 855,317"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<Word id="r189">
+	<Coords points="890,306 909,306 909,317 890,317"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r190">
+	<Coords points="914,306 942,306 942,317 914,317"/>
+	<TextEquiv>
+	<Unicode>herd</Unicode></TextEquiv></Word>
+	<Word id="r191">
+	<Coords points="946,306 961,306 961,317 946,317"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r192">
+	<Coords points="964,306 999,306 999,320 964,320"/>
+	<TextEquiv>
+	<Unicode>sheep</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>But n “as ofno use for him Io call The men had been fooled wuce and new no one “am m help him So Lhe wolf had a good meal fxom me herd of sheep</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>But n “as ofno use for him Io call The men had been fooled wuce and new no one “am m help him So Lhe wolf had a good meal fxom me herd of sheep</Unicode></TextEquiv></TextRegion></Page></PcGts>

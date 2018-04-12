@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-02-12T02:08:52</Created>
+	<LastChange>2015-03-02T05:30:27</LastChange></Metadata>
+	<Page imageFilename="5 the_poems.png" imageWidth="736" imageHeight="596">
+	<Border>
+	<Coords points="0,0 735,0 735,595 0,595"/></Border>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="424,47 424,64 313,64 313,47"/>
+	<TextLine id="r6">
+	<Coords points="313,47 424,47 424,64 313,64"/>
+	<Word id="r228">
+	<Coords points="313,47 424,47 424,64 313,64"/>
+	<TextEquiv>
+	<Unicode>BEAUTY.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>BEAUTY.</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="580,104 580,205 134,205 134,104"/>
+	<TextLine id="r7">
+	<Coords points="134,104 444,104 444,124 134,124"/>
+	<Word id="r229">
+	<Coords points="134,105 141,105 141,120 134,120"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r230">
+	<Coords points="148,109 175,109 175,120 148,120"/>
+	<TextEquiv>
+	<Unicode>am</Unicode></TextEquiv></Word>
+	<Word id="r231">
+	<Coords points="181,109 199,109 199,120 181,120"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r232">
+	<Coords points="205,104 262,104 262,124 205,124"/>
+	<TextEquiv>
+	<Unicode>lovely</Unicode></TextEquiv></Word>
+	<Word id="r233">
+	<Coords points="268,109 286,109 286,120 268,120"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r234">
+	<Coords points="292,109 302,109 302,120 292,120"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r235">
+	<Coords points="308,104 364,104 364,120 308,120"/>
+	<TextEquiv>
+	<Unicode>dream</Unicode></TextEquiv></Word>
+	<Word id="r236">
+	<Coords points="370,104 388,104 388,120 370,120"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r237">
+	<Coords points="394,106 444,106 444,120 394,120"/>
+	<TextEquiv>
+	<Unicode>stone,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>I am as lovely as a dream in stone.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r8">
+	<Coords points="134,131 580,131 580,151 134,151"/>
+	<Word id="r238">
+	<Coords points="134,131 173,131 173,147 134,147"/>
+	<TextEquiv>
+	<Unicode>And</Unicode></TextEquiv></Word>
+	<Word id="r239">
+	<Coords points="178,131 211,131 211,147 178,147"/>
+	<TextEquiv>
+	<Unicode>this</Unicode></TextEquiv></Word>
+	<Word id="r240">
+	<Coords points="217,136 246,136 246,151 217,151"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r241">
+	<Coords points="251,131 297,131 297,147 251,147"/>
+	<TextEquiv>
+	<Unicode>head</Unicode></TextEquiv></Word>
+	<Word id="r242">
+	<Coords points="302,131 358,131 358,147 302,147"/>
+	<TextEquiv>
+	<Unicode>where</Unicode></TextEquiv></Word>
+	<Word id="r243">
+	<Coords points="364,131 406,131 406,147 364,147"/>
+	<TextEquiv>
+	<Unicode>each</Unicode></TextEquiv></Word>
+	<Word id="r244">
+	<Coords points="411,131 456,131 456,147 411,147"/>
+	<TextEquiv>
+	<Unicode>ﬁnds</Unicode></TextEquiv></Word>
+	<Word id="r245">
+	<Coords points="462,131 511,131 511,147 462,147"/>
+	<TextEquiv>
+	<Unicode>death</Unicode></TextEquiv></Word>
+	<Word id="r246">
+	<Coords points="517,131 535,131 535,147 517,147"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r247">
+	<Coords points="540,133 580,133 580,150 540,150"/>
+	<TextEquiv>
+	<Unicode>turn,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>And this my head where each ﬁnds death in turn</Unicode></TextEquiv></TextLine>
+	<TextLine id="r9">
+	<Coords points="134,158 458,158 458,178 134,178"/>
+	<Word id="r248">
+	<Coords points="134,158 205,158 205,178 134,178"/>
+	<TextEquiv>
+	<Unicode>Inspires</Unicode></TextEquiv></Word>
+	<Word id="r249">
+	<Coords points="211,158 239,158 239,174 211,174"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r250">
+	<Coords points="244,160 284,160 284,178 244,178"/>
+	<TextEquiv>
+	<Unicode>poet</Unicode></TextEquiv></Word>
+	<Word id="r251">
+	<Coords points="289,158 330,158 330,174 289,174"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r252">
+	<Coords points="336,163 346,163 346,174 336,174"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r253">
+	<Coords points="351,158 390,158 390,174 351,174"/>
+	<TextEquiv>
+	<Unicode>love</Unicode></TextEquiv></Word>
+	<Word id="r254">
+	<Coords points="396,163 414,163 414,174 396,174"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r255">
+	<Coords points="421,158 458,158 458,174 421,174"/>
+	<TextEquiv>
+	<Unicode>lone</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Inspires the poet with a love as [one</Unicode></TextEquiv></TextLine>
+	<TextLine id="r10">
+	<Coords points="134,185 410,185 410,205 134,205"/>
+	<Word id="r256">
+	<Coords points="134,186 158,186 158,201 134,201"/>
+	<TextEquiv>
+	<Unicode>As</Unicode></TextEquiv></Word>
+	<Word id="r257">
+	<Coords points="165,185 203,185 203,205 165,205"/>
+	<TextEquiv>
+	<Unicode>clay</Unicode></TextEquiv></Word>
+	<Word id="r258">
+	<Coords points="209,185 270,185 270,201 209,201"/>
+	<TextEquiv>
+	<Unicode>eternal</Unicode></TextEquiv></Word>
+	<Word id="r259">
+	<Coords points="276,185 309,185 309,201 276,201"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r260">
+	<Coords points="314,190 332,190 332,201 314,201"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r261">
+	<Coords points="338,185 408,185 408,201 338,201"/>
+	<TextEquiv>
+	<Unicode>taciturn</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>As clay eternal and as tacitum</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="566,239 566,340 134,340 134,239"/>
+	<TextLine id="r11">
+	<Coords points="135,239 566,239 566,259 135,259"/>
+	<Word id="r262">
+	<Coords points="135,239 242,239 242,255 135,255"/>
+	<TextEquiv>
+	<Unicode>Swan-white</Unicode></TextEquiv></Word>
+	<Word id="r263">
+	<Coords points="248,239 269,239 269,255 248,255"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r264">
+	<Coords points="272,239 322,239 322,258 272,258"/>
+	<TextEquiv>
+	<Unicode>heart,</Unicode></TextEquiv></Word>
+	<Word id="r265">
+	<Coords points="329,244 339,244 339,255 329,255"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r266">
+	<Coords points="345,239 405,239 405,259 345,259"/>
+	<TextEquiv>
+	<Unicode>sphinx</Unicode></TextEquiv></Word>
+	<Word id="r267">
+	<Coords points="410,244 433,244 433,255 410,255"/>
+	<TextEquiv>
+	<Unicode>no</Unicode></TextEquiv></Word>
+	<Word id="r268">
+	<Coords points="439,239 498,239 498,255 439,255"/>
+	<TextEquiv>
+	<Unicode>mortal</Unicode></TextEquiv></Word>
+	<Word id="r269">
+	<Coords points="504,239 566,239 566,255 504,255"/>
+	<TextEquiv>
+	<Unicode>knows,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Swan-white of heart, a Sphinx no mortal knows.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r12">
+	<Coords points="134,266 496,266 496,286 134,286"/>
+	<Word id="r270">
+	<Coords points="134,267 166,267 166,286 134,286"/>
+	<TextEquiv>
+	<Unicode>My</Unicode></TextEquiv></Word>
+	<Word id="r271">
+	<Coords points="171,266 229,266 229,282 171,282"/>
+	<TextEquiv>
+	<Unicode>throne</Unicode></TextEquiv></Word>
+	<Word id="r272">
+	<Coords points="235,266 249,266 249,282 235,282"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r273">
+	<Coords points="256,266 273,266 273,282 256,282"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r274">
+	<Coords points="278,266 306,266 306,282 278,282"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r275">
+	<Coords points="312,266 389,266 389,282 312,282"/>
+	<TextEquiv>
+	<Unicode>heaven's</Unicode></TextEquiv></Word>
+	<Word id="r276">
+	<Coords points="395,271 444,271 444,282 395,282"/>
+	<TextEquiv>
+	<Unicode>azure</Unicode></TextEquiv></Word>
+	<Word id="r277">
+	<Coords points="450,266 496,266 496,286 450,286"/>
+	<TextEquiv>
+	<Unicode>deep:</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>My throne is in the heaven's azure deep:</Unicode></TextEquiv></TextLine>
+	<TextLine id="r13">
+	<Coords points="134,293 517,293 517,313 134,313"/>
+	<Word id="r286">
+	<Coords points="134,294 141,294 141,309 134,309"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r287">
+	<Coords points="147,293 185,293 185,309 147,309"/>
+	<TextEquiv>
+	<Unicode>hate</Unicode></TextEquiv></Word>
+	<Word id="r288">
+	<Coords points="191,293 213,293 213,309 191,309"/>
+	<TextEquiv>
+	<Unicode>all</Unicode></TextEquiv></Word>
+	<Word id="r289">
+	<Coords points="218,295 323,295 323,309 218,309"/>
+	<TextEquiv>
+	<Unicode>movements</Unicode></TextEquiv></Word>
+	<Word id="r290">
+	<Coords points="329,293 363,293 363,309 329,309"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r291">
+	<Coords points="369,293 431,293 431,309 369,309"/>
+	<TextEquiv>
+	<Unicode>disturb</Unicode></TextEquiv></Word>
+	<Word id="r292">
+	<Coords points="437,298 467,298 467,313 437,313"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r293">
+	<Coords points="472,298 517,298 517,313 472,313"/>
+	<TextEquiv>
+	<Unicode>pose,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>I hate all movements that disturb my pose,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r14">
+	<Coords points="134,320 447,320 447,340 134,340"/>
+	<Word id="r294">
+	<Coords points="134,321 141,321 141,336 134,336"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r295">
+	<Coords points="148,320 196,320 196,336 148,336"/>
+	<TextEquiv>
+	<Unicode>smile</Unicode></TextEquiv></Word>
+	<Word id="r296">
+	<Coords points="201,322 231,322 231,336 201,336"/>
+	<TextEquiv>
+	<Unicode>not</Unicode></TextEquiv></Word>
+	<Word id="r297">
+	<Coords points="237,325 279,325 279,339 237,339"/>
+	<TextEquiv>
+	<Unicode>ever,</Unicode></TextEquiv></Word>
+	<Word id="r298">
+	<Coords points="286,320 349,320 349,336 286,336"/>
+	<TextEquiv>
+	<Unicode>neither</Unicode></TextEquiv></Word>
+	<Word id="r299">
+	<Coords points="355,320 377,320 377,336 355,336"/>
+	<TextEquiv>
+	<Unicode>do</Unicode></TextEquiv></Word>
+	<Word id="r300">
+	<Coords points="383,321 390,321 390,336 383,336"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="r301">
+	<Coords points="396,325 447,325 447,340 396,340"/>
+	<TextEquiv>
+	<Unicode>weep.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>I smile not ever, neither do I weep.</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="509,374 509,448 134,448 134,374"/>
+	<TextLine id="r15">
+	<Coords points="134,374 435,374 435,394 134,394"/>
+	<Word id="r302">
+	<Coords points="134,374 195,374 195,390 134,390"/>
+	<TextEquiv>
+	<Unicode>Before</Unicode></TextEquiv></Word>
+	<Word id="r303">
+	<Coords points="201,379 230,379 230,394 201,394"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r304">
+	<Coords points="235,374 349,374 349,390 235,390"/>
+	<TextEquiv>
+	<Unicode>monumental</Unicode></TextEquiv></Word>
+	<Word id="r305">
+	<Coords points="355,374 435,374 435,393 355,393"/>
+	<TextEquiv>
+	<Unicode>attitudes,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Before my monumental attitudes,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r16">
+	<Coords points="134,401 488,401 488,421 134,421"/>
+	<Word id="r306">
+	<Coords points="134,401 176,401 176,417 134,417"/>
+	<TextEquiv>
+	<Unicode>That</Unicode></TextEquiv></Word>
+	<Word id="r307">
+	<Coords points="181,401 248,401 248,417 181,417"/>
+	<TextEquiv>
+	<Unicode>breathe</Unicode></TextEquiv></Word>
+	<Word id="r308">
+	<Coords points="254,406 264,406 264,417 254,417"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r309">
+	<Coords points="270,401 307,401 307,417 270,417"/>
+	<TextEquiv>
+	<Unicode>soul</Unicode></TextEquiv></Word>
+	<Word id="r310">
+	<Coords points="313,401 348,401 348,417 313,417"/>
+	<TextEquiv>
+	<Unicode>into</Unicode></TextEquiv></Word>
+	<Word id="r311">
+	<Coords points="353,401 381,401 381,417 353,417"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r312">
+	<Coords points="387,401 446,401 446,421 387,421"/>
+	<TextEquiv>
+	<Unicode>plastic</Unicode></TextEquiv></Word>
+	<Word id="r313">
+	<Coords points="452,403 488,403 488,420 452,420"/>
+	<TextEquiv>
+	<Unicode>arts,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>That breathe a soul into the plastic ans,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r17">
+	<Coords points="134,428 509,428 509,448 134,448"/>
+	<Word id="r314">
+	<Coords points="134,429 166,429 166,448 134,448"/>
+	<TextEquiv>
+	<Unicode>My</Unicode></TextEquiv></Word>
+	<Word id="r315">
+	<Coords points="171,430 218,430 218,448 171,448"/>
+	<TextEquiv>
+	<Unicode>poets</Unicode></TextEquiv></Word>
+	<Word id="r316">
+	<Coords points="224,433 265,433 265,448 224,448"/>
+	<TextEquiv>
+	<Unicode>pray</Unicode></TextEquiv></Word>
+	<Word id="r317">
+	<Coords points="271,428 289,428 289,444 271,444"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r318">
+	<Coords points="294,430 358,430 358,444 294,444"/>
+	<TextEquiv>
+	<Unicode>austere</Unicode></TextEquiv></Word>
+	<Word id="r319">
+	<Coords points="364,428 439,428 439,444 364,444"/>
+	<TextEquiv>
+	<Unicode>studious</Unicode></TextEquiv></Word>
+	<Word id="r320">
+	<Coords points="444,428 509,428 509,447 444,447"/>
+	<TextEquiv>
+	<Unicode>moods,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>My poets pray in austere studious moods,</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="134,482 585,482 585,556 134,556"/>
+	<TextLine id="r18">
+	<Coords points="134,482 540,482 540,500 134,500"/>
+	<Word id="r321">
+	<Coords points="134,483 166,483 166,498 134,498"/>
+	<TextEquiv>
+	<Unicode>For</Unicode></TextEquiv></Word>
+	<Word id="r322">
+	<Coords points="171,483 183,483 183,500 171,500"/>
+	<TextEquiv>
+	<Unicode>I,</Unicode></TextEquiv></Word>
+	<Word id="r323">
+	<Coords points="190,484 207,484 207,498 190,498"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r324">
+	<Coords points="213,482 250,482 250,498 213,498"/>
+	<TextEquiv>
+	<Unicode>fold</Unicode></TextEquiv></Word>
+	<Word id="r325">
+	<Coords points="256,482 371,482 371,498 256,498"/>
+	<TextEquiv>
+	<Unicode>enchantment</Unicode></TextEquiv></Word>
+	<Word id="r326">
+	<Coords points="376,482 430,482 430,498 376,498"/>
+	<TextEquiv>
+	<Unicode>round</Unicode></TextEquiv></Word>
+	<Word id="r327">
+	<Coords points="435,482 477,482 477,498 435,498"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r328">
+	<Coords points="482,482 540,482 540,498 482,498"/>
+	<TextEquiv>
+	<Unicode>hearts,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>For I. to fold enchantment round their heads.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r19">
+	<Coords points="134,509 585,509 585,529 134,529"/>
+	<Word id="r329">
+	<Coords points="134,510 182,510 182,525 134,525"/>
+	<TextEquiv>
+	<Unicode>Have</Unicode></TextEquiv></Word>
+	<Word id="r330">
+	<Coords points="187,509 236,509 236,529 187,529"/>
+	<TextEquiv>
+	<Unicode>pools</Unicode></TextEquiv></Word>
+	<Word id="r331">
+	<Coords points="243,509 264,509 264,525 243,525"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r332">
+	<Coords points="267,509 308,509 308,529 267,529"/>
+	<TextEquiv>
+	<Unicode>light</Unicode></TextEquiv></Word>
+	<Word id="r333">
+	<Coords points="314,509 369,509 369,525 314,525"/>
+	<TextEquiv>
+	<Unicode>where</Unicode></TextEquiv></Word>
+	<Word id="r334">
+	<Coords points="375,509 436,509 436,529 375,529"/>
+	<TextEquiv>
+	<Unicode>beauty</Unicode></TextEquiv></Word>
+	<Word id="r335">
+	<Coords points="441,509 501,509 501,525 441,525"/>
+	<TextEquiv>
+	<Unicode>ﬂames</Unicode></TextEquiv></Word>
+	<Word id="r336">
+	<Coords points="508,509 540,509 540,525 508,525"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r337">
+	<Coords points="546,509 585,509 585,525 546,525"/>
+	<TextEquiv>
+	<Unicode>dies,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Have pools of light where beauty ﬂames and dies.</Unicode></TextEquiv></TextLine>
+	<TextLine id="r20">
+	<Coords points="134,536 501,536 501,556 134,556"/>
+	<Word id="r338">
+	<Coords points="134,536 169,536 169,552 134,552"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r339">
+	<Coords points="175,536 231,536 231,556 175,556"/>
+	<TextEquiv>
+	<Unicode>placid</Unicode></TextEquiv></Word>
+	<Word id="r340">
+	<Coords points="235,536 302,536 302,552 235,552"/>
+	<TextEquiv>
+	<Unicode>mirrors</Unicode></TextEquiv></Word>
+	<Word id="r341">
+	<Coords points="309,536 330,536 330,552 309,552"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r342">
+	<Coords points="332,541 362,541 362,556 332,556"/>
+	<TextEquiv>
+	<Unicode>my</Unicode></TextEquiv></Word>
+	<Word id="r343">
+	<Coords points="368,536 451,536 451,552 368,552"/>
+	<TextEquiv>
+	<Unicode>luminous</Unicode></TextEquiv></Word>
+	<Word id="r344">
+	<Coords points="458,541 501,541 501,556 458,556"/>
+	<TextEquiv>
+	<Unicode>eyes.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The placid minors of my luminous eyes.</Unicode></TextEquiv></TextLine></TextRegion></Page></PcGts>
